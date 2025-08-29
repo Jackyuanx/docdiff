@@ -1,6 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 
-const API_BASE = "http://115.146.87.57:8000"; // or use a Vite proxy
 
 export default function Climate() {
   const [ncrParas, setNcrParas] = useState([]);       // [{doc_id, para_id, text}, ...]
@@ -41,8 +40,8 @@ export default function Climate() {
         setError(null);
 
         const [ncrRes, sinRes] = await Promise.all([
-          fetch(`${API_BASE}/paragraphs/ncr`),
-          fetch(`${API_BASE}/paragraphs/singapore`)
+          fetch(`/api/paragraphs/ncr`),
+          fetch(`/api/paragraphs/singapore`)
         ]);
         if (!ncrRes.ok || !sinRes.ok) throw new Error("Failed to fetch paragraphs");
 
@@ -52,8 +51,8 @@ export default function Climate() {
 
         // fetch counts (2 calls)
         const [ncrCntRes, sinCntRes] = await Promise.all([
-          fetch(`${API_BASE}/pair_counts/ncr`),
-          fetch(`${API_BASE}/pair_counts/singapore`)
+          fetch(`/api/pair_counts/ncr`),
+          fetch(`/api/pair_counts/singapore`)
         ]);
         if (!ncrCntRes.ok || !sinCntRes.ok) throw new Error("Failed to fetch counts");
         const [ncrCntMap, sinCntMap] = await Promise.all([ncrCntRes.json(), sinCntRes.json()]);
@@ -104,7 +103,7 @@ export default function Climate() {
       const docName = side === "ncr" ? "ncr" : "singapore"; // IMPORTANT FIX
       setSelected({ side, para_id: paraObj.para_id });
 
-      const res = await fetch(`${API_BASE}/pairs?doc=${docName}&para_id=${paraObj.para_id}&size=1000`);
+      const res = await fetch(`/api/pairs?doc=${docName}&para_id=${paraObj.para_id}&size=1000`);
       if (!res.ok) throw new Error("Failed to fetch pairs");
       const data = await res.json();
       setMatches(data);
