@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-
+import Navbar from "../components/NavBar";
 
 export default function Climate() {
   const [ncrParas, setNcrParas] = useState([]);       // [{doc_id, para_id, text}, ...]
@@ -158,6 +158,7 @@ export default function Climate() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <Navbar />
       <div className="w-full max-w-[95vw] mx-auto p-8">
         <h1 className="text-3xl font-bold mb-6 text-center">Climate Reports Comparison</h1>
 
