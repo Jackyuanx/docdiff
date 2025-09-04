@@ -40,8 +40,8 @@ export default function Climate() {
         setError(null);
 
         const [ncrRes, sinRes] = await Promise.all([
-          fetch(`https://mobiles-do-cause-promotional.trycloudflare.com/paragraphs/ncr`),
-          fetch(`https://mobiles-do-cause-promotional.trycloudflare.com/paragraphs/singapore`)
+          fetch(`https://docdiff.mooo.com/paragraphs/ncr`),
+          fetch(`https://docdiff.mooo.com/paragraphs/singapore`)
         ]);
         if (!ncrRes.ok || !sinRes.ok) throw new Error("Failed to fetch paragraphs");
 
@@ -51,8 +51,8 @@ export default function Climate() {
 
         // fetch counts (2 calls)
         const [ncrCntRes, sinCntRes] = await Promise.all([
-          fetch(`https://mobiles-do-cause-promotional.trycloudflare.com/pair_counts/ncr`),
-          fetch(`https://mobiles-do-cause-promotional.trycloudflare.com/pair_counts/singapore`)
+          fetch(`https://docdiff.mooo.com/pair_counts/ncr`),
+          fetch(`https://docdiff.mooo.com/pair_counts/singapore`)
         ]);
         if (!ncrCntRes.ok || !sinCntRes.ok) throw new Error("Failed to fetch counts");
         const [ncrCntMap, sinCntMap] = await Promise.all([ncrCntRes.json(), sinCntRes.json()]);
@@ -103,7 +103,7 @@ export default function Climate() {
       const docName = side === "ncr" ? "ncr" : "singapore"; // IMPORTANT FIX
       setSelected({ side, para_id: paraObj.para_id });
 
-      const res = await fetch(`https://mobiles-do-cause-promotional.trycloudflare.com/pairs?doc=${docName}&para_id=${paraObj.para_id}&size=1000`);
+      const res = await fetch(`https://docdiff.mooo.com/pairs?doc=${docName}&para_id=${paraObj.para_id}&size=1000`);
       if (!res.ok) throw new Error("Failed to fetch pairs");
       const data = await res.json();
       setMatches(data);
