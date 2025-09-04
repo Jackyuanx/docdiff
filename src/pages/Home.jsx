@@ -203,7 +203,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-50 overflow-x-hidden">
-      
+      <Navbar />
       <div className="w-[2000px] h-0 invisible"></div>
       <div className="w-full max-w-[95vw] mx-auto p-8">
         <input
