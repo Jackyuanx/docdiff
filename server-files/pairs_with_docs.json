@@ -1,0 +1,2026 @@
+[
+  {
+    "text_a": 2,
+    "text_b": 20,
+    "similarity": 0.6059380769729614,
+    "id": 0,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 2,
+    "text_b": 302,
+    "similarity": 0.6152552962303162,
+    "id": 1,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 3,
+    "text_b": 54,
+    "similarity": 0.6288151741027832,
+    "id": 2,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 3,
+    "text_b": 302,
+    "similarity": 0.6550682783126831,
+    "id": 3,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 4,
+    "text_b": 19,
+    "similarity": 0.6769530177116394,
+    "id": 4,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 5,
+    "text_b": 45,
+    "similarity": 0.600644588470459,
+    "id": 5,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 7,
+    "text_b": 0,
+    "similarity": 0.6454218029975891,
+    "id": 6,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 7,
+    "text_b": 41,
+    "similarity": 0.6388566493988037,
+    "id": 7,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 7,
+    "text_b": 50,
+    "similarity": 0.6450458765029907,
+    "id": 8,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 7,
+    "text_b": 150,
+    "similarity": 0.6091325283050537,
+    "id": 9,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 7,
+    "text_b": 423,
+    "similarity": 0.6004070043563843,
+    "id": 10,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 11,
+    "text_b": 17,
+    "similarity": 0.61171954870224,
+    "id": 11,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 11,
+    "text_b": 178,
+    "similarity": 0.6423176527023315,
+    "id": 12,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 11,
+    "text_b": 181,
+    "similarity": 0.6239334940910339,
+    "id": 13,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 11,
+    "text_b": 184,
+    "similarity": 0.6267452836036682,
+    "id": 14,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 14,
+    "text_b": 48,
+    "similarity": 0.6209695935249329,
+    "id": 15,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 17,
+    "text_b": 45,
+    "similarity": 0.6794201135635376,
+    "id": 16,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 17,
+    "similarity": 0.6227171421051025,
+    "id": 17,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 164,
+    "similarity": 0.6414570808410645,
+    "id": 18,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 166,
+    "similarity": 0.6042059659957886,
+    "id": 19,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 173,
+    "similarity": 0.630699872970581,
+    "id": 20,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 178,
+    "similarity": 0.6629930734634399,
+    "id": 21,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 179,
+    "similarity": 0.6125244498252869,
+    "id": 22,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 180,
+    "similarity": 0.6856079697608948,
+    "id": 23,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 181,
+    "similarity": 0.6081272959709167,
+    "id": 24,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 22,
+    "text_b": 184,
+    "similarity": 0.633544385433197,
+    "id": 25,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 151,
+    "similarity": 0.6480920314788818,
+    "id": 26,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 152,
+    "similarity": 0.6094086170196533,
+    "id": 27,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 165,
+    "similarity": 0.754153847694397,
+    "id": 28,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 166,
+    "similarity": 0.7183985710144043,
+    "id": 29,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 167,
+    "similarity": 0.7809722423553467,
+    "id": 30,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 168,
+    "similarity": 0.7478812336921692,
+    "id": 31,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 169,
+    "similarity": 0.7129582166671753,
+    "id": 32,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 172,
+    "similarity": 0.605501115322113,
+    "id": 33,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 173,
+    "similarity": 0.6076099276542664,
+    "id": 34,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 175,
+    "similarity": 0.6021679043769836,
+    "id": 35,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 425,
+    "similarity": 0.6631375551223755,
+    "id": 36,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 431,
+    "similarity": 0.6478608846664429,
+    "id": 37,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 23,
+    "text_b": 432,
+    "similarity": 0.6163437366485596,
+    "id": 38,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 24,
+    "text_b": 17,
+    "similarity": 0.6025818586349487,
+    "id": 39,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 24,
+    "text_b": 178,
+    "similarity": 0.6451797485351562,
+    "id": 40,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 24,
+    "text_b": 181,
+    "similarity": 0.6217755079269409,
+    "id": 41,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 24,
+    "text_b": 184,
+    "similarity": 0.6207205653190613,
+    "id": 42,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 18,
+    "similarity": 0.7627346515655518,
+    "id": 43,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 150,
+    "similarity": 0.6356421113014221,
+    "id": 44,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 151,
+    "similarity": 0.6884692907333374,
+    "id": 45,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 152,
+    "similarity": 0.7175239324569702,
+    "id": 46,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 155,
+    "similarity": 0.6262669563293457,
+    "id": 47,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 159,
+    "similarity": 0.6401277184486389,
+    "id": 48,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 160,
+    "similarity": 0.6512380242347717,
+    "id": 49,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 161,
+    "similarity": 0.6828093528747559,
+    "id": 50,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 163,
+    "similarity": 0.6228891015052795,
+    "id": 51,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 165,
+    "similarity": 0.6471869349479675,
+    "id": 52,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 166,
+    "similarity": 0.6093875765800476,
+    "id": 53,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 171,
+    "similarity": 0.6684022545814514,
+    "id": 54,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 424,
+    "similarity": 0.6415024399757385,
+    "id": 55,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 25,
+    "text_b": 426,
+    "similarity": 0.6674203276634216,
+    "id": 56,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 26,
+    "text_b": 19,
+    "similarity": 0.6018952131271362,
+    "id": 57,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 32,
+    "text_b": 442,
+    "similarity": 0.6020642518997192,
+    "id": 58,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 49,
+    "text_b": 37,
+    "similarity": 0.6257742047309875,
+    "id": 59,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 49,
+    "text_b": 248,
+    "similarity": 0.6029359698295593,
+    "id": 60,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 56,
+    "text_b": 42,
+    "similarity": 0.6482123136520386,
+    "id": 61,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 56,
+    "text_b": 47,
+    "similarity": 0.6263378858566284,
+    "id": 62,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 58,
+    "text_b": 19,
+    "similarity": 0.620337963104248,
+    "id": 63,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 58,
+    "text_b": 20,
+    "similarity": 0.6072509288787842,
+    "id": 64,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 63,
+    "text_b": 413,
+    "similarity": 0.607194721698761,
+    "id": 65,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 80,
+    "text_b": 389,
+    "similarity": 0.6230425238609314,
+    "id": 66,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 102,
+    "text_b": 48,
+    "similarity": 0.6201618313789368,
+    "id": 67,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 110,
+    "text_b": 348,
+    "similarity": 0.6249772906303406,
+    "id": 68,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 111,
+    "text_b": 97,
+    "similarity": 0.6031599640846252,
+    "id": 69,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 111,
+    "text_b": 442,
+    "similarity": 0.6290940046310425,
+    "id": 70,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 112,
+    "text_b": 393,
+    "similarity": 0.6093968749046326,
+    "id": 71,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 126,
+    "text_b": 42,
+    "similarity": 0.6134612560272217,
+    "id": 72,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 126,
+    "text_b": 47,
+    "similarity": 0.6498606204986572,
+    "id": 73,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 128,
+    "text_b": 152,
+    "similarity": 0.6096270680427551,
+    "id": 74,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 128,
+    "text_b": 154,
+    "similarity": 0.6024144887924194,
+    "id": 75,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 128,
+    "text_b": 427,
+    "similarity": 0.6132495403289795,
+    "id": 76,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 129,
+    "text_b": 152,
+    "similarity": 0.6119804382324219,
+    "id": 77,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 129,
+    "text_b": 168,
+    "similarity": 0.6079012155532837,
+    "id": 78,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 129,
+    "text_b": 431,
+    "similarity": 0.652535080909729,
+    "id": 79,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 130,
+    "text_b": 432,
+    "similarity": 0.6180264949798584,
+    "id": 80,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 134,
+    "text_b": 18,
+    "similarity": 0.6387755274772644,
+    "id": 81,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 134,
+    "text_b": 152,
+    "similarity": 0.6858363151550293,
+    "id": 82,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 134,
+    "text_b": 161,
+    "similarity": 0.6661641001701355,
+    "id": 83,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 134,
+    "text_b": 426,
+    "similarity": 0.6143303513526917,
+    "id": 84,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 135,
+    "text_b": 173,
+    "similarity": 0.6444030404090881,
+    "id": 85,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 135,
+    "text_b": 178,
+    "similarity": 0.6524938941001892,
+    "id": 86,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 135,
+    "text_b": 180,
+    "similarity": 0.6701398491859436,
+    "id": 87,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 135,
+    "text_b": 184,
+    "similarity": 0.6063638925552368,
+    "id": 88,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 136,
+    "text_b": 178,
+    "similarity": 0.6640188694000244,
+    "id": 89,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 136,
+    "text_b": 181,
+    "similarity": 0.604637861251831,
+    "id": 90,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 136,
+    "text_b": 184,
+    "similarity": 0.6074317693710327,
+    "id": 91,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 18,
+    "similarity": 0.639849841594696,
+    "id": 92,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 151,
+    "similarity": 0.6775856018066406,
+    "id": 93,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 152,
+    "similarity": 0.6009805202484131,
+    "id": 94,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 165,
+    "similarity": 0.6865837574005127,
+    "id": 95,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 166,
+    "similarity": 0.6689194440841675,
+    "id": 96,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 167,
+    "similarity": 0.6517812609672546,
+    "id": 97,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 168,
+    "similarity": 0.6246234178543091,
+    "id": 98,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 169,
+    "similarity": 0.6025657057762146,
+    "id": 99,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 173,
+    "similarity": 0.6078260540962219,
+    "id": 100,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 137,
+    "text_b": 431,
+    "similarity": 0.6152923107147217,
+    "id": 101,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 138,
+    "text_b": 151,
+    "similarity": 0.6419132351875305,
+    "id": 102,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 138,
+    "text_b": 165,
+    "similarity": 0.7252801656723022,
+    "id": 103,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 138,
+    "text_b": 166,
+    "similarity": 0.6404417753219604,
+    "id": 104,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 138,
+    "text_b": 167,
+    "similarity": 0.696507453918457,
+    "id": 105,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 138,
+    "text_b": 169,
+    "similarity": 0.7022071480751038,
+    "id": 106,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 138,
+    "text_b": 428,
+    "similarity": 0.607123076915741,
+    "id": 107,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 138,
+    "text_b": 430,
+    "similarity": 0.6054999828338623,
+    "id": 108,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 139,
+    "text_b": 164,
+    "similarity": 0.6769716739654541,
+    "id": 109,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 139,
+    "text_b": 428,
+    "similarity": 0.6105382442474365,
+    "id": 110,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 141,
+    "text_b": 178,
+    "similarity": 0.6057827472686768,
+    "id": 111,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 141,
+    "text_b": 181,
+    "similarity": 0.6171584725379944,
+    "id": 112,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 142,
+    "text_b": 169,
+    "similarity": 0.6398209929466248,
+    "id": 113,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 142,
+    "text_b": 177,
+    "similarity": 0.6767834424972534,
+    "id": 114,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 142,
+    "text_b": 184,
+    "similarity": 0.7117111682891846,
+    "id": 115,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 143,
+    "text_b": 173,
+    "similarity": 0.6342673897743225,
+    "id": 116,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 143,
+    "text_b": 174,
+    "similarity": 0.6311736106872559,
+    "id": 117,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 143,
+    "text_b": 175,
+    "similarity": 0.607302188873291,
+    "id": 118,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 143,
+    "text_b": 178,
+    "similarity": 0.6537384390830994,
+    "id": 119,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 143,
+    "text_b": 179,
+    "similarity": 0.6679899096488953,
+    "id": 120,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 143,
+    "text_b": 180,
+    "similarity": 0.7515551447868347,
+    "id": 121,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 143,
+    "text_b": 181,
+    "similarity": 0.6464287042617798,
+    "id": 122,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 143,
+    "text_b": 184,
+    "similarity": 0.6169250011444092,
+    "id": 123,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 17,
+    "similarity": 0.6224266290664673,
+    "id": 124,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 164,
+    "similarity": 0.6028018593788147,
+    "id": 125,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 166,
+    "similarity": 0.6853389739990234,
+    "id": 126,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 167,
+    "similarity": 0.638401448726654,
+    "id": 127,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 173,
+    "similarity": 0.6443628072738647,
+    "id": 128,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 174,
+    "similarity": 0.6712835431098938,
+    "id": 129,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 175,
+    "similarity": 0.693709135055542,
+    "id": 130,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 178,
+    "similarity": 0.6430342197418213,
+    "id": 131,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 179,
+    "similarity": 0.6021904945373535,
+    "id": 132,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 180,
+    "similarity": 0.704491138458252,
+    "id": 133,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 181,
+    "similarity": 0.6094862222671509,
+    "id": 134,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 182,
+    "similarity": 0.6129941344261169,
+    "id": 135,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 145,
+    "text_b": 184,
+    "similarity": 0.6295634508132935,
+    "id": 136,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 146,
+    "text_b": 164,
+    "similarity": 0.6082767248153687,
+    "id": 137,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 146,
+    "text_b": 165,
+    "similarity": 0.6112270355224609,
+    "id": 138,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 146,
+    "text_b": 166,
+    "similarity": 0.6502796411514282,
+    "id": 139,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 146,
+    "text_b": 167,
+    "similarity": 0.8065419793128967,
+    "id": 140,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 146,
+    "text_b": 169,
+    "similarity": 0.6117401123046875,
+    "id": 141,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 146,
+    "text_b": 173,
+    "similarity": 0.6610467433929443,
+    "id": 142,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 146,
+    "text_b": 175,
+    "similarity": 0.8075860738754272,
+    "id": 143,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 146,
+    "text_b": 182,
+    "similarity": 0.7187427878379822,
+    "id": 144,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 147,
+    "text_b": 166,
+    "similarity": 0.6192575693130493,
+    "id": 145,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 147,
+    "text_b": 167,
+    "similarity": 0.7508882880210876,
+    "id": 146,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 147,
+    "text_b": 173,
+    "similarity": 0.6201191544532776,
+    "id": 147,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 147,
+    "text_b": 175,
+    "similarity": 0.7453140020370483,
+    "id": 148,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 147,
+    "text_b": 182,
+    "similarity": 0.6197903752326965,
+    "id": 149,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 148,
+    "text_b": 178,
+    "similarity": 0.6122332215309143,
+    "id": 150,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 148,
+    "text_b": 183,
+    "similarity": 0.6712623238563538,
+    "id": 151,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 149,
+    "text_b": 168,
+    "similarity": 0.6010547876358032,
+    "id": 152,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 149,
+    "text_b": 173,
+    "similarity": 0.608738899230957,
+    "id": 153,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 149,
+    "text_b": 176,
+    "similarity": 0.6075405478477478,
+    "id": 154,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 150,
+    "text_b": 168,
+    "similarity": 0.6731122136116028,
+    "id": 155,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 150,
+    "text_b": 431,
+    "similarity": 0.6459671258926392,
+    "id": 156,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 152,
+    "text_b": 173,
+    "similarity": 0.6015703082084656,
+    "id": 157,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 153,
+    "text_b": 184,
+    "similarity": 0.6486227512359619,
+    "id": 158,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 154,
+    "text_b": 169,
+    "similarity": 0.6483016014099121,
+    "id": 159,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 154,
+    "text_b": 184,
+    "similarity": 0.6178208589553833,
+    "id": 160,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 155,
+    "text_b": 184,
+    "similarity": 0.6966050267219543,
+    "id": 161,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 156,
+    "text_b": 184,
+    "similarity": 0.7389557361602783,
+    "id": 162,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 157,
+    "text_b": 184,
+    "similarity": 0.6907839775085449,
+    "id": 163,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 159,
+    "text_b": 17,
+    "similarity": 0.602977991104126,
+    "id": 164,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 159,
+    "text_b": 164,
+    "similarity": 0.6121782660484314,
+    "id": 165,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 159,
+    "text_b": 173,
+    "similarity": 0.652820885181427,
+    "id": 166,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 159,
+    "text_b": 175,
+    "similarity": 0.629918098449707,
+    "id": 167,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 159,
+    "text_b": 178,
+    "similarity": 0.6387568116188049,
+    "id": 168,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 159,
+    "text_b": 179,
+    "similarity": 0.6032050251960754,
+    "id": 169,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 159,
+    "text_b": 180,
+    "similarity": 0.7126224040985107,
+    "id": 170,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 159,
+    "text_b": 184,
+    "similarity": 0.61534583568573,
+    "id": 171,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 160,
+    "text_b": 180,
+    "similarity": 0.6405445337295532,
+    "id": 172,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 161,
+    "text_b": 18,
+    "similarity": 0.6210437417030334,
+    "id": 173,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 161,
+    "text_b": 151,
+    "similarity": 0.6572318077087402,
+    "id": 174,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 161,
+    "text_b": 152,
+    "similarity": 0.6031959056854248,
+    "id": 175,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 161,
+    "text_b": 170,
+    "similarity": 0.6632941961288452,
+    "id": 176,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 161,
+    "text_b": 171,
+    "similarity": 0.6251391172409058,
+    "id": 177,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 162,
+    "text_b": 151,
+    "similarity": 0.6052699089050293,
+    "id": 178,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 162,
+    "text_b": 166,
+    "similarity": 0.6414790153503418,
+    "id": 179,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 162,
+    "text_b": 170,
+    "similarity": 0.6299943923950195,
+    "id": 180,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 162,
+    "text_b": 171,
+    "similarity": 0.6354982256889343,
+    "id": 181,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 162,
+    "text_b": 174,
+    "similarity": 0.6006091833114624,
+    "id": 182,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 162,
+    "text_b": 180,
+    "similarity": 0.6161415576934814,
+    "id": 183,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 163,
+    "text_b": 166,
+    "similarity": 0.6092078685760498,
+    "id": 184,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 163,
+    "text_b": 170,
+    "similarity": 0.6401943564414978,
+    "id": 185,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 163,
+    "text_b": 172,
+    "similarity": 0.6005579233169556,
+    "id": 186,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 163,
+    "text_b": 173,
+    "similarity": 0.6027050018310547,
+    "id": 187,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 164,
+    "text_b": 18,
+    "similarity": 0.647820234298706,
+    "id": 188,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 164,
+    "text_b": 151,
+    "similarity": 0.6642235517501831,
+    "id": 189,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 164,
+    "text_b": 152,
+    "similarity": 0.6464057564735413,
+    "id": 190,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 164,
+    "text_b": 165,
+    "similarity": 0.6723846197128296,
+    "id": 191,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 164,
+    "text_b": 166,
+    "similarity": 0.6496189832687378,
+    "id": 192,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 164,
+    "text_b": 168,
+    "similarity": 0.605596125125885,
+    "id": 193,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 164,
+    "text_b": 431,
+    "similarity": 0.617733359336853,
+    "id": 194,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 164,
+    "text_b": 432,
+    "similarity": 0.6031445264816284,
+    "id": 195,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 165,
+    "text_b": 151,
+    "similarity": 0.6208663582801819,
+    "id": 196,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 165,
+    "text_b": 152,
+    "similarity": 0.6149856448173523,
+    "id": 197,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 165,
+    "text_b": 165,
+    "similarity": 0.613449215888977,
+    "id": 198,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 165,
+    "text_b": 166,
+    "similarity": 0.6113516688346863,
+    "id": 199,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 165,
+    "text_b": 170,
+    "similarity": 0.6241092085838318,
+    "id": 200,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 18,
+    "similarity": 0.6125202775001526,
+    "id": 201,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 151,
+    "similarity": 0.6240639090538025,
+    "id": 202,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 152,
+    "similarity": 0.6741288304328918,
+    "id": 203,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 154,
+    "similarity": 0.6117384433746338,
+    "id": 204,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 155,
+    "similarity": 0.6057252883911133,
+    "id": 205,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 160,
+    "similarity": 0.6318962574005127,
+    "id": 206,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 171,
+    "similarity": 0.70381098985672,
+    "id": 207,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 426,
+    "similarity": 0.6134466528892517,
+    "id": 208,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 169,
+    "text_b": 427,
+    "similarity": 0.6281758546829224,
+    "id": 209,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 18,
+    "similarity": 0.6793413162231445,
+    "id": 210,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 151,
+    "similarity": 0.6080064177513123,
+    "id": 211,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 152,
+    "similarity": 0.7003868222236633,
+    "id": 212,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 160,
+    "similarity": 0.637610137462616,
+    "id": 213,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 161,
+    "similarity": 0.6202024817466736,
+    "id": 214,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 163,
+    "similarity": 0.6048102974891663,
+    "id": 215,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 166,
+    "similarity": 0.6017426252365112,
+    "id": 216,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 424,
+    "similarity": 0.6014529466629028,
+    "id": 217,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 171,
+    "text_b": 426,
+    "similarity": 0.6323732733726501,
+    "id": 218,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 172,
+    "text_b": 152,
+    "similarity": 0.6081612706184387,
+    "id": 219,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 172,
+    "text_b": 155,
+    "similarity": 0.6102314591407776,
+    "id": 220,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 172,
+    "text_b": 160,
+    "similarity": 0.6200303435325623,
+    "id": 221,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 172,
+    "text_b": 171,
+    "similarity": 0.6728928685188293,
+    "id": 222,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 173,
+    "text_b": 18,
+    "similarity": 0.6511315703392029,
+    "id": 223,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 173,
+    "text_b": 151,
+    "similarity": 0.625920295715332,
+    "id": 224,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 173,
+    "text_b": 152,
+    "similarity": 0.6605492830276489,
+    "id": 225,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 173,
+    "text_b": 161,
+    "similarity": 0.6099858283996582,
+    "id": 226,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 173,
+    "text_b": 166,
+    "similarity": 0.6021451950073242,
+    "id": 227,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 173,
+    "text_b": 170,
+    "similarity": 0.6042956113815308,
+    "id": 228,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 173,
+    "text_b": 171,
+    "similarity": 0.6906871795654297,
+    "id": 229,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 173,
+    "text_b": 426,
+    "similarity": 0.6022669076919556,
+    "id": 230,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 175,
+    "text_b": 152,
+    "similarity": 0.6415871381759644,
+    "id": 231,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 175,
+    "text_b": 171,
+    "similarity": 0.7623032927513123,
+    "id": 232,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 176,
+    "text_b": 155,
+    "similarity": 0.6002141237258911,
+    "id": 233,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 176,
+    "text_b": 171,
+    "similarity": 0.621441125869751,
+    "id": 234,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 178,
+    "text_b": 19,
+    "similarity": 0.668179452419281,
+    "id": 235,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 181,
+    "text_b": 303,
+    "similarity": 0.6088122725486755,
+    "id": 236,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 182,
+    "text_b": 369,
+    "similarity": 0.6238588690757751,
+    "id": 237,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 183,
+    "text_b": 348,
+    "similarity": 0.6178092360496521,
+    "id": 238,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 184,
+    "text_b": 348,
+    "similarity": 0.6275680065155029,
+    "id": 239,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 185,
+    "text_b": 348,
+    "similarity": 0.6005641222000122,
+    "id": 240,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 189,
+    "text_b": 442,
+    "similarity": 0.6426604986190796,
+    "id": 241,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 192,
+    "text_b": 184,
+    "similarity": 0.6858283877372742,
+    "id": 242,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 196,
+    "text_b": 153,
+    "similarity": 0.603439450263977,
+    "id": 243,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 196,
+    "text_b": 427,
+    "similarity": 0.6350560188293457,
+    "id": 244,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 200,
+    "text_b": 317,
+    "similarity": 0.6288370490074158,
+    "id": 245,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 203,
+    "text_b": 342,
+    "similarity": 0.613903820514679,
+    "id": 246,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 203,
+    "text_b": 345,
+    "similarity": 0.600693941116333,
+    "id": 247,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 204,
+    "text_b": 327,
+    "similarity": 0.6194716095924377,
+    "id": 248,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 204,
+    "text_b": 339,
+    "similarity": 0.6174642443656921,
+    "id": 249,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 208,
+    "text_b": 319,
+    "similarity": 0.6724584698677063,
+    "id": 250,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 208,
+    "text_b": 324,
+    "similarity": 0.6000868082046509,
+    "id": 251,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  },
+  {
+    "text_a": 210,
+    "text_b": 184,
+    "similarity": 0.653643786907196,
+    "id": 252,
+    "text_a_doc": "singapore",
+    "text_b_doc": "ncr"
+  }
+]

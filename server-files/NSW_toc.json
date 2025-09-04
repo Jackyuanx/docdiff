@@ -1,0 +1,4849 @@
+[
+  {
+    "id": "Chapter 1_NSW",
+    "title": "Preliminary",
+    "parts": {
+      "Part 1.1_NSW": {
+        "id": "Part 1.1_NSW",
+        "title": "Introductory matters",
+        "provisions": [
+          {
+            "id": "1_NSW",
+            "title": "Name of Regulation",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "2_NSW",
+            "title": "Commencement",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "3_NSW",
+            "title": "Authorising provisions",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "4_NSW",
+            "title": "Repeal",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "5_NSW",
+            "title": "Definitions",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "5A_NSW",
+            "title": "Meaning of \u201ccorresponding WHS law\u201d",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "6_NSW",
+            "title": "Determination of safety management system",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "7_NSW",
+            "title": "Meaning of \u201cperson conducting a business or undertaking\u201d\u2014persons excluded",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "8_NSW",
+            "title": "Meaning of supply",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          },
+          {
+            "id": "9_NSW",
+            "title": "Provisions linked to health and safety duties in Act",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.1_NSW"
+          }
+        ]
+      },
+      "Part 1.2_NSW": {
+        "id": "Part 1.2_NSW",
+        "title": "Application",
+        "provisions": [
+          {
+            "id": "10_NSW",
+            "title": "Application of the Act to dangerous goods and high risk plant",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.2_NSW"
+          },
+          {
+            "id": "11_NSW",
+            "title": "Application of this Regulation",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.2_NSW"
+          },
+          {
+            "id": "12_NSW",
+            "title": "Assessment of risk in relation to a class of hazards, tasks, circumstances or things",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.2_NSW"
+          }
+        ]
+      },
+      "Part 1.3_NSW": {
+        "id": "Part 1.3_NSW",
+        "title": "Incorporated documents",
+        "provisions": [
+          {
+            "id": "13_NSW",
+            "title": "Documents incorporated as in force when incorporated",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.3_NSW"
+          },
+          {
+            "id": "14_NSW",
+            "title": "Inconsistencies between provisions",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.3_NSW"
+          },
+          {
+            "id": "15_NSW",
+            "title": "References to standards",
+            "chapter": "Chapter 1_NSW",
+            "part": "Part 1.3_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 2_NSW",
+    "title": "Representation and participation",
+    "parts": {
+      "Part 2.1_NSW": {
+        "id": "Part 2.1_NSW",
+        "title": "Representation",
+        "provisions": [
+          {
+            "id": "16_NSW",
+            "title": "Negotiations for and determination of work groups",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.1_NSW"
+          },
+          {
+            "id": "17_NSW",
+            "title": "Matters to be taken into account in negotiations",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.1_NSW"
+          },
+          {
+            "id": "18_NSW",
+            "title": "Procedures for election of health and safety representatives",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.1_NSW"
+          },
+          {
+            "id": "19_NSW",
+            "title": "Person conducting business or undertaking must not delay election",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.1_NSW"
+          },
+          {
+            "id": "20_NSW",
+            "title": "Removal of health and safety representatives",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.1_NSW"
+          },
+          {
+            "id": "21_NSW",
+            "title": "Training for health and safety representatives",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.1_NSW"
+          }
+        ]
+      },
+      "Part 2.2_NSW": {
+        "id": "Part 2.2_NSW",
+        "title": "Issue resolution",
+        "provisions": [
+          {
+            "id": "22_NSW",
+            "title": "Agreed procedure\u2014minimum requirements",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.2_NSW"
+          },
+          {
+            "id": "23_NSW",
+            "title": "Default procedure",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.2_NSW"
+          }
+        ]
+      },
+      "Part 2.3_NSW": {
+        "id": "Part 2.3_NSW",
+        "title": "Cessation of unsafe work",
+        "provisions": [
+          {
+            "id": "24_NSW",
+            "title": "Continuity of engagement of worker",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.3_NSW"
+          }
+        ]
+      },
+      "Part 2.4_NSW": {
+        "id": "Part 2.4_NSW",
+        "title": "Workplace entry by WHS entry permit holders",
+        "provisions": [
+          {
+            "id": "25_NSW",
+            "title": "Training requirements for WHS entry permits",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.4_NSW"
+          },
+          {
+            "id": "26_NSW",
+            "title": "Form of WHS entry permit",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.4_NSW"
+          },
+          {
+            "id": "27_NSW",
+            "title": "Notice of entry\u2014general",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.4_NSW"
+          },
+          {
+            "id": "28_NSW",
+            "title": "Additional requirements\u2014entry under Part 7, Division 2",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.4_NSW"
+          },
+          {
+            "id": "29_NSW",
+            "title": "Additional requirements\u2014entry under section 120",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.4_NSW"
+          },
+          {
+            "id": "30_NSW",
+            "title": "Additional requirements\u2014entry under section 121",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.4_NSW"
+          },
+          {
+            "id": "31_NSW",
+            "title": "Register of WHS entry permit holders",
+            "chapter": "Chapter 2_NSW",
+            "part": "Part 2.4_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 3_NSW",
+    "title": "General risk and workplace management",
+    "parts": {
+      "Part 3.1_NSW": {
+        "id": "Part 3.1_NSW",
+        "title": "Managing risks to health and safety",
+        "provisions": [
+          {
+            "id": "32_NSW",
+            "title": "Application of Part 3.1",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.1_NSW"
+          },
+          {
+            "id": "33_NSW",
+            "title": "Specific requirements must be complied with",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.1_NSW"
+          },
+          {
+            "id": "34_NSW",
+            "title": "Duty to identify hazards",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.1_NSW"
+          },
+          {
+            "id": "35_NSW",
+            "title": "Managing risks to health and safety",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.1_NSW"
+          },
+          {
+            "id": "36_NSW",
+            "title": "Hierarchy of control measures",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.1_NSW"
+          },
+          {
+            "id": "37_NSW",
+            "title": "Maintenance of control measures",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.1_NSW"
+          },
+          {
+            "id": "38_NSW",
+            "title": "Review of control measures",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.1_NSW"
+          }
+        ]
+      },
+      "Part 3.2_NSW": {
+        "id": "Part 3.2_NSW",
+        "title": "General workplace management",
+        "provisions": [
+          {
+            "id": "39_NSW",
+            "title": "Provision of information, training and instruction",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "40_NSW",
+            "title": "Duty in relation to general workplace facilities",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "41_NSW",
+            "title": "Duty to provide and maintain adequate and accessible facilities",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "42_NSW",
+            "title": "Duty to provide first aid",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "43_NSW",
+            "title": "Duty to prepare, maintain and implement emergency plan",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "44_NSW",
+            "title": "Provision to workers and use of personal protective equipment",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "45_NSW",
+            "title": "Personal protective equipment used by other persons",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "46_NSW",
+            "title": "Duties of worker",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "47_NSW",
+            "title": "Duty of person other than worker",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "48_NSW",
+            "title": "Remote or isolated work",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "49_NSW",
+            "title": "Ensuring exposure standards for substances and mixtures not exceeded",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "50_NSW",
+            "title": "Monitoring airborne contaminant levels",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "51_NSW",
+            "title": "Managing risks to health and safety",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "52_NSW",
+            "title": "Ignition sources",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "53_NSW",
+            "title": "Flammable and combustible material not to be accumulated",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "54_NSW",
+            "title": "Management of risk of falling objects",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "55_NSW",
+            "title": "Minimising risk associated with falling objects",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "55A_NSW",
+            "title": "Meaning of \u201cpsychosocial hazard\u201d",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "55B_NSW",
+            "title": "Meaning of \u201cpsychosocial risk\u201d",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "55C_NSW",
+            "title": "Managing psychosocial risks",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          },
+          {
+            "id": "55D_NSW",
+            "title": "Control measures",
+            "chapter": "Chapter 3_NSW",
+            "part": "Part 3.2_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 4_NSW",
+    "title": "Hazardous work",
+    "parts": {
+      "Part 4.1_NSW": {
+        "id": "Part 4.1_NSW",
+        "title": "Noise",
+        "provisions": [
+          {
+            "id": "56_NSW",
+            "title": "Meaning of \u201cexposure standard for noise\u201d",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.1_NSW"
+          },
+          {
+            "id": "57_NSW",
+            "title": "Managing risk of hearing loss from noise",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.1_NSW"
+          },
+          {
+            "id": "58_NSW",
+            "title": "Audiometric testing",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.1_NSW"
+          },
+          {
+            "id": "59_NSW",
+            "title": "Duties of designers, manufacturers, importers and suppliers of plant",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.1_NSW"
+          }
+        ]
+      },
+      "Part 4.2_NSW": {
+        "id": "Part 4.2_NSW",
+        "title": "Hazardous manual tasks",
+        "provisions": [
+          {
+            "id": "60_NSW",
+            "title": "Managing risks to health and safety",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.2_NSW"
+          },
+          {
+            "id": "61_NSW",
+            "title": "Duties of designers, manufacturers, importers and suppliers of plant or structures",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.2_NSW"
+          }
+        ]
+      },
+      "Part 4.3_NSW": {
+        "id": "Part 4.3_NSW",
+        "title": "Confined spaces",
+        "provisions": [
+          {
+            "id": "62_NSW",
+            "title": "Confined spaces to which this Part applies",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "63_NSW",
+            "title": "Application to emergency service workers",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "64_NSW",
+            "title": "Duty to eliminate or minimise risk",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "65_NSW",
+            "title": "Entry into confined space must comply with this Division",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "66_NSW",
+            "title": "Managing risks to health and safety",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "67_NSW",
+            "title": "Confined space entry permit",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "68_NSW",
+            "title": "Signage",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "69_NSW",
+            "title": "Communication and safety monitoring",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "70_NSW",
+            "title": "Specific control\u2014connected plant and services",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "71_NSW",
+            "title": "Specific control\u2014atmosphere",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "72_NSW",
+            "title": "Specific control\u2014flammable gases and vapours",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "73_NSW",
+            "title": "Specific control\u2014fire and explosion",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "74_NSW",
+            "title": "Emergency procedures",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "75_NSW",
+            "title": "Personal protective equipment in emergencies",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "76_NSW",
+            "title": "Information, training and instruction for workers",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          },
+          {
+            "id": "77_NSW",
+            "title": "Confined space entry permit and risk assessment must be kept",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.3_NSW"
+          }
+        ]
+      },
+      "Part 4.4_NSW": {
+        "id": "Part 4.4_NSW",
+        "title": "Falls",
+        "provisions": [
+          {
+            "id": "78_NSW",
+            "title": "Management of risk of fall",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.4_NSW"
+          },
+          {
+            "id": "79_NSW",
+            "title": "Specific requirements to minimise risk of fall",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.4_NSW"
+          },
+          {
+            "id": "80_NSW",
+            "title": "Emergency and rescue procedures",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.4_NSW"
+          }
+        ]
+      },
+      "Part 4.5_NSW": {
+        "id": "Part 4.5_NSW",
+        "title": "High risk work",
+        "provisions": [
+          {
+            "id": "81_NSW",
+            "title": "Licence required to carry out high risk work",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "82_NSW",
+            "title": "Exceptions",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "83_NSW",
+            "title": "Recognition of high risk work licences in other jurisdictions",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "84_NSW",
+            "title": "Duty of person conducting business or undertaking to ensure direct supervision",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "85_NSW",
+            "title": "Evidence of licence\u2014duty of person conducting business or undertaking",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "86_NSW",
+            "title": "Who may apply for a licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "87_NSW",
+            "title": "Application for high risk work licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "88_NSW",
+            "title": "Additional information",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "89_NSW",
+            "title": "Decision on application",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "90_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "91_NSW",
+            "title": "Refusal to grant high risk work licence\u2014process",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "91A_NSW",
+            "title": "Conditions of licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "92_NSW",
+            "title": "Duration of licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "93_NSW",
+            "title": "Licence document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "94_NSW",
+            "title": "Licence document to be available",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "95_NSW",
+            "title": "Reassessment of competency of licence holder",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "96_NSW",
+            "title": "Notice of change of address",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "97_NSW",
+            "title": "Licence holder to return licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "98_NSW",
+            "title": "Replacement licence document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "99_NSW",
+            "title": "Voluntary surrender of licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "100_NSW",
+            "title": "Regulator may renew licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "101_NSW",
+            "title": "Application for renewal",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "102_NSW",
+            "title": "Licence continues in force until application is decided",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "103_NSW",
+            "title": "Renewal of expired licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "104_NSW",
+            "title": "Provisions relating to renewal of licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "105_NSW",
+            "title": "Status of licence during review",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "106_NSW",
+            "title": "Suspension or cancellation of licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "107_NSW",
+            "title": "Matters taken into account",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "108_NSW",
+            "title": "Notice to and submissions by licence holder",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "109_NSW",
+            "title": "Notice of decision",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "110_NSW",
+            "title": "Immediate suspension",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "111_NSW",
+            "title": "Licence holder to return licence document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "112_NSW",
+            "title": "Regulator to return licence document after suspension",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "113_NSW",
+            "title": "Accreditation required to assess competency for high risk work licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "114_NSW",
+            "title": "Accredited assessor must act in accordance with accreditation",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "115_NSW",
+            "title": "Regulator may accredit assessors",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "116_NSW",
+            "title": "Application for accreditation",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "117_NSW",
+            "title": "Additional information",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "118_NSW",
+            "title": "Decision on application",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "119_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "120_NSW",
+            "title": "Refusal to grant accreditation\u2014process",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "121_NSW",
+            "title": "Conditions of accreditation",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "122_NSW",
+            "title": "Duration of accreditation",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "123_NSW",
+            "title": "Accreditation document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "124_NSW",
+            "title": "Accreditation document to be available",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "125_NSW",
+            "title": "Changes to information",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "126_NSW",
+            "title": "Accredited assessor to return accreditation document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "127_NSW",
+            "title": "Replacement accreditation document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "128_NSW",
+            "title": "Voluntary surrender of accreditation",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "129_NSW",
+            "title": "Regulator may renew accreditation",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "130_NSW",
+            "title": "Application for renewal",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "131_NSW",
+            "title": "Accreditation continues in force until application is decided",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "132_NSW",
+            "title": "Provisions relating to application",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "133_NSW",
+            "title": "Regulator may suspend or cancel accreditation",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "134_NSW",
+            "title": "Suspension or cancellation of accreditation",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "135_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "136_NSW",
+            "title": "Notice to and submissions by accredited assessor",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "137_NSW",
+            "title": "Notice of decision",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "138_NSW",
+            "title": "Immediate suspension",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "139_NSW",
+            "title": "Accredited assessor to return accreditation document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "140_NSW",
+            "title": "Regulator to return accreditation document after suspension",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          },
+          {
+            "id": "141_NSW",
+            "title": "Regulator may enter into agreement with RTO",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.5_NSW"
+          }
+        ]
+      },
+      "Part 4.6_NSW": {
+        "id": "Part 4.6_NSW",
+        "title": "Demolition work",
+        "provisions": [
+          {
+            "id": "141A_NSW",
+            "title": "Definitions",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "142_NSW",
+            "title": "Notice of demolition work",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "142A_NSW",
+            "title": "Requirement to hold demolition licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "142B_NSW",
+            "title": "Duty to ensure person undertaking licensed demolition work is licensed",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "142C_NSW",
+            "title": "Named supervisor must be present",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "142E_NSW",
+            "title": "Licence holder must keep training records",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "142F_NSW",
+            "title": "Approval of courses of training and authorisation of RTOs",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143_NSW",
+            "title": "Who may apply for licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143A_NSW",
+            "title": "Application for licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143B_NSW",
+            "title": "Withdrawal of application",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143C_NSW",
+            "title": "Decision about application",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143D_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143E_NSW",
+            "title": "Refusal to grant licence\u2014process",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143F_NSW",
+            "title": "Licence conditions",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143G_NSW",
+            "title": "Duration of licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143H_NSW",
+            "title": "Licence document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143I_NSW",
+            "title": "Licence document to be available",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143J_NSW",
+            "title": "Changes to information",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143K_NSW",
+            "title": "Change to named supervisor initiated by licence holder",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143L_NSW",
+            "title": "Removal of supervisor by regulator",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143M_NSW",
+            "title": "Amendment imposed by regulator",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143N_NSW",
+            "title": "Amendment on application by licence holder",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143O_NSW",
+            "title": "Minor corrections to licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143P_NSW",
+            "title": "Licence holder to return licence document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143Q_NSW",
+            "title": "Replacement licence document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143R_NSW",
+            "title": "Voluntary surrender of licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143S_NSW",
+            "title": "Regulator may renew licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143T_NSW",
+            "title": "Application for renewal",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143U_NSW",
+            "title": "Decision about application",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143V_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143W_NSW",
+            "title": "Refusal to renew licence\u2014process",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143X_NSW",
+            "title": "Status of licence during review",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143Y_NSW",
+            "title": "Suspension or cancellation of licence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143Z_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143ZA_NSW",
+            "title": "Notice to and submissions by licence holder",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143ZB_NSW",
+            "title": "Notice of decision",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143ZC_NSW",
+            "title": "Immediate suspension",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143ZD_NSW",
+            "title": "Licence holder to return licence document",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          },
+          {
+            "id": "143ZE_NSW",
+            "title": "Regulator to return licence document after suspension ends",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.6_NSW"
+          }
+        ]
+      },
+      "Part 4.7_NSW": {
+        "id": "Part 4.7_NSW",
+        "title": "General electrical safety in workplaces and energised electrical work",
+        "provisions": [
+          {
+            "id": "144_NSW",
+            "title": "Meaning of \u201celectrical equipment\u201d",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "145_NSW",
+            "title": "Meaning of \u201celectrical installation\u201d",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "146_NSW",
+            "title": "Meaning of \u201celectrical work\u201d",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "147_NSW",
+            "title": "Risk management",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "148_NSW",
+            "title": "Electrical equipment and electrical installations to which this Division applies",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "149_NSW",
+            "title": "Unsafe electrical equipment",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "150_NSW",
+            "title": "Inspection and testing of electrical equipment",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "151_NSW",
+            "title": "Untested electrical equipment not to be used",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "152_NSW",
+            "title": "Application of Division 4",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "153_NSW",
+            "title": "Persons conducting a business or undertaking to which this Division applies",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "154_NSW",
+            "title": "Electrical work on energised electrical equipment\u2014prohibited",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "155_NSW",
+            "title": "Duty to determine whether equipment is energised",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "156_NSW",
+            "title": "De-energised equipment must not be inadvertently re-energised",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "157_NSW",
+            "title": "Electrical work on energised electrical equipment\u2014when permitted",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "158_NSW",
+            "title": "Preliminary steps",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "159_NSW",
+            "title": "Unauthorised access to equipment being worked on",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "160_NSW",
+            "title": "Contact with equipment being worked on",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "161_NSW",
+            "title": "How the work is to be carried out",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "162_NSW",
+            "title": "Record keeping",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "163_NSW",
+            "title": "Duty of person conducting business or undertaking",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "164_NSW",
+            "title": "Use of socket outlets in hostile operating environment",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "165_NSW",
+            "title": "Testing of residual current devices",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          },
+          {
+            "id": "166_NSW",
+            "title": "Duty of person conducting a business or undertaking",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.7_NSW"
+          }
+        ]
+      },
+      "Part 4.8_NSW": {
+        "id": "Part 4.8_NSW",
+        "title": "Diving work",
+        "provisions": [
+          {
+            "id": "167_NSW",
+            "title": "Purpose of Part 4.8",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "168_NSW",
+            "title": "Person conducting business or undertaking must ensure fitness of workers",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "169_NSW",
+            "title": "Certificate of medical fitness",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "170_NSW",
+            "title": "Duty to keep certificate of medical fitness",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "171_NSW",
+            "title": "Competence of worker\u2014general diving work\u2014qualifications",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "171A_NSW",
+            "title": "Competence of worker\u2014general diving work\u2014knowledge and skill",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "172_NSW",
+            "title": "Competence of worker\u2014incidental diving work",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "173_NSW",
+            "title": "Competence of worker\u2014limited scientific diving work",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "174_NSW",
+            "title": "Competence of competent person supervising general diving work",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "175_NSW",
+            "title": "Evidence of competence\u2014duty of person conducting business or undertaking",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "176_NSW",
+            "title": "Management of risks to health and safety",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "177_NSW",
+            "title": "Appointment of competent person to supervise diving work",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "178_NSW",
+            "title": "Additional control\u2014dive plan",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "179_NSW",
+            "title": "Dive plan must be complied with",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "180_NSW",
+            "title": "Additional control\u2014dive safety log to be kept",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "181_NSW",
+            "title": "Use of dive safety log",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "182_NSW",
+            "title": "Record keeping",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "183_NSW",
+            "title": "Duties of person conducting business or undertaking",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          },
+          {
+            "id": "184_NSW",
+            "title": "Duty of worker\u2014competence",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.8_NSW"
+          }
+        ]
+      },
+      "Part 4.9_NSW": {
+        "id": "Part 4.9_NSW",
+        "title": "Traffic control work training",
+        "provisions": [
+          {
+            "id": "184A_NSW",
+            "title": "Definitions",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184B_NSW",
+            "title": "Duty to provide traffic control work training",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184C_NSW",
+            "title": "Duty to ensure worker has been trained",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184D_NSW",
+            "title": "Issue of card",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184E_NSW",
+            "title": "Content of card",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184F_NSW",
+            "title": "Replacement card",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184G_NSW",
+            "title": "Refusal to issue or replace card",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184H_NSW",
+            "title": "Cancellation of card\u2014grounds",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184I_NSW",
+            "title": "Cancellation of card\u2014process",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184J_NSW",
+            "title": "Duties of workers",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184K_NSW",
+            "title": "Alteration of traffic control work training card",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184L_NSW",
+            "title": "Approval of courses of training and authorisation of RTOs",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184M_NSW",
+            "title": "Part does not apply to certain persons",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          },
+          {
+            "id": "184N_NSW",
+            "title": "Existing photo card taken to be training card",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.9_NSW"
+          }
+        ]
+      },
+      "Part 4.11_NSW": {
+        "id": "Part 4.11_NSW",
+        "title": "Food delivery riders",
+        "provisions": [
+          {
+            "id": "184P_NSW",
+            "title": "Definitions",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.11_NSW"
+          },
+          {
+            "id": "184Q_NSW",
+            "title": "Duty to supply personal protective equipment",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.11_NSW"
+          },
+          {
+            "id": "184R_NSW",
+            "title": "Duty to provide food delivery induction training",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.11_NSW"
+          },
+          {
+            "id": "184S_NSW",
+            "title": "Duty to ensure food delivery rider has been trained",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.11_NSW"
+          },
+          {
+            "id": "184T_NSW",
+            "title": "Duty to keep records",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.11_NSW"
+          },
+          {
+            "id": "184U_NSW",
+            "title": "Duties of food delivery riders",
+            "chapter": "Chapter 4_NSW",
+            "part": "Part 4.11_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 5_NSW",
+    "title": "Plant and structures",
+    "parts": {
+      "Part 5.1_NSW": {
+        "id": "Part 5.1_NSW",
+        "title": "General duties for plant and structures",
+        "provisions": [
+          {
+            "id": "185_NSW",
+            "title": "Application of Part 5.1 to plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "186_NSW",
+            "title": "Application of Part 5.1 to structures",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "187_NSW",
+            "title": "Provision of information to manufacturer",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "188_NSW",
+            "title": "Hazard identified in design during manufacture",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "189_NSW",
+            "title": "Guarding",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "190_NSW",
+            "title": "Operational controls",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "191_NSW",
+            "title": "Emergency stop controls",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "192_NSW",
+            "title": "Warning devices",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "193_NSW",
+            "title": "Control of risk",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "194_NSW",
+            "title": "Guarding",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "195_NSW",
+            "title": "Information must be obtained and provided",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "196_NSW",
+            "title": "Information to be obtained and provided by importer",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "197_NSW",
+            "title": "Control of risk",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "198_NSW",
+            "title": "Information to be obtained and provided by supplier",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "199_NSW",
+            "title": "Supply of second-hand plant\u2014duties of supplier",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "200_NSW",
+            "title": "Second-hand plant to be used for scrap or spare parts",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "201_NSW",
+            "title": "Duties of persons conducting businesses or undertakings that install, construct or commission plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "202_NSW",
+            "title": "Duties of persons conducting businesses or undertakings that install, construct or commission structures",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "203_NSW",
+            "title": "Management of risks to health and safety",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "204_NSW",
+            "title": "Control of risks arising from installation or commissioning",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "205_NSW",
+            "title": "Preventing unauthorised alterations to or interference with plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "206_NSW",
+            "title": "Proper use of plant and controls",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "207_NSW",
+            "title": "Plant not in use",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "208_NSW",
+            "title": "Guarding",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "209_NSW",
+            "title": "Guarding and insulation from heat and cold",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "210_NSW",
+            "title": "Operational controls",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "211_NSW",
+            "title": "Emergency stops",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "212_NSW",
+            "title": "Warning devices",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "213_NSW",
+            "title": "Maintenance and inspection of plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "214_NSW",
+            "title": "Powered mobile plant\u2014general control of risk",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "215_NSW",
+            "title": "Powered mobile plant\u2014specific control measures",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "216_NSW",
+            "title": "Roll-over protection on tractors",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "217_NSW",
+            "title": "(Repealed)",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "218_NSW",
+            "title": "Industrial lift trucks",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "219_NSW",
+            "title": "Plant that lifts or suspends loads",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "220_NSW",
+            "title": "Exception\u2014plant not specifically designed to lift or suspend a person",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "221_NSW",
+            "title": "Plant used in connection with tree lopping",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "222_NSW",
+            "title": "Industrial robots",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "223_NSW",
+            "title": "Lasers",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "224_NSW",
+            "title": "Pressure equipment",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "225_NSW",
+            "title": "Scaffolds",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          },
+          {
+            "id": "226_NSW",
+            "title": "Plant with presence-sensing safeguarding system\u2014records",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.1_NSW"
+          }
+        ]
+      },
+      "Part 5.2_NSW": {
+        "id": "Part 5.2_NSW",
+        "title": "Additional duties relating to registered plant and plant designs",
+        "provisions": [
+          {
+            "id": "227_NSW",
+            "title": "Application of Part 5.2",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "228_NSW",
+            "title": "Records and information",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "229_NSW",
+            "title": "Record of standards or engineering principles used",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "230_NSW",
+            "title": "Records to be available for inspection",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "231_NSW",
+            "title": "Duty of persons conducting businesses or undertakings that manufacture plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "232_NSW",
+            "title": "Duty of persons conducting businesses or undertakings that import plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "233_NSW",
+            "title": "Duty of persons conducting businesses or undertakings that supply plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "234_NSW",
+            "title": "Duty of persons conducting businesses or undertakings that commission plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "235_NSW",
+            "title": "Major inspection of registered mobile cranes and tower cranes",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "236_NSW",
+            "title": "Lifts",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "237_NSW",
+            "title": "Records of plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "238_NSW",
+            "title": "Operation of amusement devices and passenger ropeways",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "239_NSW",
+            "title": "Storage of amusement devices and passenger ropeways",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "240_NSW",
+            "title": "Maintenance, inspection and testing of amusement devices and passenger ropeways",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "241_NSW",
+            "title": "Annual inspection of amusement devices and passenger ropeways",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          },
+          {
+            "id": "242_NSW",
+            "title": "Log book and manuals for amusement devices",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.2_NSW"
+          }
+        ]
+      },
+      "Part 5.3_NSW": {
+        "id": "Part 5.3_NSW",
+        "title": "Registration of plant designs and items of plant",
+        "provisions": [
+          {
+            "id": "243_NSW",
+            "title": "Plant design to be registered",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "244_NSW",
+            "title": "Altered plant designs to be registered",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "245_NSW",
+            "title": "Recognition of designs registered by corresponding regulator",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "246_NSW",
+            "title": "Items of plant to be registered",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "247_NSW",
+            "title": "Recognition of plant registered by corresponding regulator",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "248_NSW",
+            "title": "Application of Division 3",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "249_NSW",
+            "title": "Who can apply to register a plant design",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "250_NSW",
+            "title": "Application for registration",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "251_NSW",
+            "title": "Design verification statement",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "252_NSW",
+            "title": "Who can be the design verifier",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "253_NSW",
+            "title": "Duty of design verifier",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "254_NSW",
+            "title": "Design verification statements not to be made in certain circumstances",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "255_NSW",
+            "title": "Additional information",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "256_NSW",
+            "title": "Decision on application",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "257_NSW",
+            "title": "Refusal of registration\u2014process",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "258_NSW",
+            "title": "Conditions of registration",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "259_NSW",
+            "title": "Duration of registration of plant design",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "260_NSW",
+            "title": "Plant design registration number",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "261_NSW",
+            "title": "Registration document",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "262_NSW",
+            "title": "Registration document to be available",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "263_NSW",
+            "title": "Disclosure of design information",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "264_NSW",
+            "title": "Application of Division 4",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "265_NSW",
+            "title": "Who can apply to register an item of plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "266_NSW",
+            "title": "Application for registration",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "267_NSW",
+            "title": "When is a person competent to inspect plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "268_NSW",
+            "title": "Additional information",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "269_NSW",
+            "title": "Decision on application",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "270_NSW",
+            "title": "Refusal of registration\u2014process",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "271_NSW",
+            "title": "Conditions of registration",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "272_NSW",
+            "title": "Duration of registration",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "272A_NSW",
+            "title": "Duration of registration for an item of plant",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "273_NSW",
+            "title": "Plant registration number",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "274_NSW",
+            "title": "Registration document",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "275_NSW",
+            "title": "Registration document to be available",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "276_NSW",
+            "title": "Regulator may renew registration",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "277_NSW",
+            "title": "Application for renewal",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "278_NSW",
+            "title": "Registration continues in force until application is decided",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "279_NSW",
+            "title": "Decision on application",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "280_NSW",
+            "title": "Status of registration during review",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "281_NSW",
+            "title": "Application of Division",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "282_NSW",
+            "title": "Changes to information",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "283_NSW",
+            "title": "Amendment of registration imposed by regulator",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "284_NSW",
+            "title": "Amendment on application by registration holder",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "285_NSW",
+            "title": "Minor corrections to registration",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "286_NSW",
+            "title": "Regulator to give amended registration document",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "287_NSW",
+            "title": "Registration holder to return registration document",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "288_NSW",
+            "title": "Replacement registration document",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "288A_NSW",
+            "title": "Application of Division",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "288B_NSW",
+            "title": "Regulator may cancel registration",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "288C_NSW",
+            "title": "Cancellation process",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          },
+          {
+            "id": "288D_NSW",
+            "title": "Registration holder to return registration document",
+            "chapter": "Chapter 5_NSW",
+            "part": "Part 5.3_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 6_NSW",
+    "title": "Construction work",
+    "parts": {
+      "Part 6.1_NSW": {
+        "id": "Part 6.1_NSW",
+        "title": "Preliminary",
+        "provisions": [
+          {
+            "id": "289_NSW",
+            "title": "Meaning of \u201cconstruction work\u201d",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.1_NSW"
+          },
+          {
+            "id": "290_NSW",
+            "title": "Meaning of \u201cstructure\u201d",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.1_NSW"
+          },
+          {
+            "id": "291_NSW",
+            "title": "Meaning of \u201chigh risk construction work\u201d",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.1_NSW"
+          },
+          {
+            "id": "292_NSW",
+            "title": "Meaning of \u201cconstruction project\u201d",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.1_NSW"
+          },
+          {
+            "id": "293_NSW",
+            "title": "Meaning of \u201cprincipal contractor\u201d",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.1_NSW"
+          }
+        ]
+      },
+      "Part 6.2_NSW": {
+        "id": "Part 6.2_NSW",
+        "title": "Duties of designer of structure and person who commissions construction work",
+        "provisions": [
+          {
+            "id": "294_NSW",
+            "title": "Person who commissions work must consult with designer",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.2_NSW"
+          },
+          {
+            "id": "295_NSW",
+            "title": "Designer must give safety report to person who commissions design",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.2_NSW"
+          },
+          {
+            "id": "296_NSW",
+            "title": "Person who commissions project must give information to principal contractor",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.2_NSW"
+          }
+        ]
+      },
+      "Part 6.3_NSW": {
+        "id": "Part 6.3_NSW",
+        "title": "Duties of person conducting business or undertaking",
+        "provisions": [
+          {
+            "id": "297_NSW",
+            "title": "Management of risks to health and safety",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "298_NSW",
+            "title": "Security of workplace",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "299_NSW",
+            "title": "Safe work method statement required for high risk construction work",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "300_NSW",
+            "title": "Compliance with safe work method statement",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "301_NSW",
+            "title": "Safe work method statement\u2014copy to be given to principal contractor",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "302_NSW",
+            "title": "Review of safe work method statement",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "303_NSW",
+            "title": "Safe work method statement must be kept",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "304_NSW",
+            "title": "Excavation work\u2014underground essential services information",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "305_NSW",
+            "title": "Management of risks to health and safety associated with excavation work",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          },
+          {
+            "id": "306_NSW",
+            "title": "Additional controls\u2014trenches",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.3_NSW"
+          }
+        ]
+      },
+      "Part 6.4_NSW": {
+        "id": "Part 6.4_NSW",
+        "title": "Additional duties of principal contractor",
+        "provisions": [
+          {
+            "id": "307_NSW",
+            "title": "Application of Part 6.4",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          },
+          {
+            "id": "308_NSW",
+            "title": "Specific control measure\u2014signage identifying principal contractor",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          },
+          {
+            "id": "309_NSW",
+            "title": "WHS management plan\u2014preparation",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          },
+          {
+            "id": "310_NSW",
+            "title": "WHS management plan\u2014duty to inform",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          },
+          {
+            "id": "311_NSW",
+            "title": "WHS management plan\u2014review",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          },
+          {
+            "id": "312_NSW",
+            "title": "High risk construction work\u2014safe work method statements",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          },
+          {
+            "id": "313_NSW",
+            "title": "Copy of WHS management plan must be kept",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          },
+          {
+            "id": "314_NSW",
+            "title": "Further health and safety duties\u2014specific clauses",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          },
+          {
+            "id": "315_NSW",
+            "title": "Further health and safety duties\u2014specific risks",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.4_NSW"
+          }
+        ]
+      },
+      "Part 6.5_NSW": {
+        "id": "Part 6.5_NSW",
+        "title": "General construction induction training",
+        "provisions": [
+          {
+            "id": "316_NSW",
+            "title": "Duty to provide general construction induction training",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "317_NSW",
+            "title": "Duty to ensure worker has been trained",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "318_NSW",
+            "title": "Recognition of general construction induction training cards issued in other jurisdictions",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "319_NSW",
+            "title": "Issue of card",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "320_NSW",
+            "title": "Content of card",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "321_NSW",
+            "title": "Replacement card",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "322_NSW",
+            "title": "Refusal to issue or replace card",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "323_NSW",
+            "title": "Cancellation of card\u2014grounds",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "324_NSW",
+            "title": "Cancellation of card\u2014process",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "325_NSW",
+            "title": "RTO may enter agreement to issue cards",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "325A_NSW",
+            "title": "Issue",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "325B_NSW",
+            "title": "Content",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "325C_NSW",
+            "title": "Use",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "325D_NSW",
+            "title": "Retention or seizure of general construction induction training card",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "325E_NSW",
+            "title": "Cancellation",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "326_NSW",
+            "title": "Duties of workers",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          },
+          {
+            "id": "327_NSW",
+            "title": "Alteration of general construction induction training card",
+            "chapter": "Chapter 6_NSW",
+            "part": "Part 6.5_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 7_NSW",
+    "title": "Hazardous chemicals",
+    "parts": {
+      "Part 7.1_NSW": {
+        "id": "Part 7.1_NSW",
+        "title": "Hazardous chemicals",
+        "provisions": [
+          {
+            "id": "328_NSW",
+            "title": "Application of Part 7.1",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "329_NSW",
+            "title": "Classification of hazardous chemicals",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "330_NSW",
+            "title": "Manufacturer or importer to prepare and provide safety data sheets",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "331_NSW",
+            "title": "Safety data sheets\u2014research chemical, waste product or sample for analysis",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "332_NSW",
+            "title": "Emergency disclosure of chemical identities to registered medical practitioner",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "333_NSW",
+            "title": "Emergency disclosure of chemical identities to emergency service worker",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "334_NSW",
+            "title": "Packing hazardous chemicals",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "335_NSW",
+            "title": "Labelling hazardous chemicals",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "336_NSW",
+            "title": "Restriction on age of person who can supply hazardous chemicals",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "337_NSW",
+            "title": "Retailer or supplier packing hazardous chemicals",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "338_NSW",
+            "title": "Supplier labelling hazardous chemicals",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "339_NSW",
+            "title": "Supplier to provide safety data sheets",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "340_NSW",
+            "title": "Supply of prohibited and restricted carcinogens",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "341_NSW",
+            "title": "Labelling hazardous chemicals\u2014general requirement",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "342_NSW",
+            "title": "Labelling hazardous chemicals\u2014containers",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "343_NSW",
+            "title": "Labelling hazardous chemicals\u2014pipe work",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "344_NSW",
+            "title": "Person conducting business or undertaking to obtain and give access to safety data sheets",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "345_NSW",
+            "title": "Changes to safety data sheets",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "346_NSW",
+            "title": "Hazardous chemicals register",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "347_NSW",
+            "title": "Manifest of hazardous chemicals",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "348_NSW",
+            "title": "Regulator must be notified if manifest quantities to be exceeded",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "349_NSW",
+            "title": "Outer warning placards\u2014requirement to display",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "350_NSW",
+            "title": "Placard\u2014requirement to display",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "351_NSW",
+            "title": "Management of risks to health or safety",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "352_NSW",
+            "title": "Review of control measures",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "353_NSW",
+            "title": "Safety signs",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "354_NSW",
+            "title": "Identification of risk of physical or chemical reaction",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "355_NSW",
+            "title": "Specific control\u2014fire and explosion",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "356_NSW",
+            "title": "Keeping hazardous chemicals stable",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "357_NSW",
+            "title": "Containing and managing spills",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "358_NSW",
+            "title": "Protecting hazardous chemicals from damage",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "359_NSW",
+            "title": "Fire protection and firefighting equipment",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "360_NSW",
+            "title": "Emergency equipment",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "361_NSW",
+            "title": "Emergency plans",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "362_NSW",
+            "title": "Safety equipment",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "363_NSW",
+            "title": "Control of risks from storage or handling systems",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "364_NSW",
+            "title": "Containers for hazardous chemicals used, handled or stored in bulk",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "365_NSW",
+            "title": "Stopping use and disposing of handling systems",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "366_NSW",
+            "title": "Stopping use of underground storage and handling systems",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "367_NSW",
+            "title": "Notification of abandoned tank",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "368_NSW",
+            "title": "Duty to provide health monitoring",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "369_NSW",
+            "title": "Duty to inform of health monitoring",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "370_NSW",
+            "title": "Duty to ensure that appropriate health monitoring is provided",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "371_NSW",
+            "title": "Duty to ensure health monitoring is supervised by registered medical practitioner with experience",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "372_NSW",
+            "title": "Duty to pay costs of health monitoring",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "373_NSW",
+            "title": "Information that must be provided to registered medical practitioner",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "374_NSW",
+            "title": "Duty to obtain health monitoring report",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "375_NSW",
+            "title": "Duty to give health monitoring report to worker",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "376_NSW",
+            "title": "Duty to give health monitoring report to regulator",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "377_NSW",
+            "title": "Duty to give health monitoring report to relevant persons conducting businesses or undertakings",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "378_NSW",
+            "title": "Health monitoring records",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "379_NSW",
+            "title": "Duty to provide supervision",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "380_NSW",
+            "title": "Using, handling and storing prohibited carcinogens",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "381_NSW",
+            "title": "Using, handling and storing restricted carcinogens",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "382_NSW",
+            "title": "Using, handling and storing restricted hazardous chemicals",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "383_NSW",
+            "title": "Application for authorisation to use, handle or store prohibited and restricted carcinogens",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "384_NSW",
+            "title": "Authorisation to use, handle or store prohibited carcinogens and restricted carcinogens",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "385_NSW",
+            "title": "Changes to information in application to be reported",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "386_NSW",
+            "title": "Regulator may cancel authorisation",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "387_NSW",
+            "title": "Statement of exposure to be given to workers",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "388_NSW",
+            "title": "Records to be kept",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "389_NSW",
+            "title": "Management of risk by pipeline owner",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "390_NSW",
+            "title": "Pipeline builder\u2019s duties",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          },
+          {
+            "id": "391_NSW",
+            "title": "Management of risks to health and safety by pipeline operator",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.1_NSW"
+          }
+        ]
+      },
+      "Part 7.2_NSW": {
+        "id": "Part 7.2_NSW",
+        "title": "Lead",
+        "provisions": [
+          {
+            "id": "392_NSW",
+            "title": "Meaning of \u201clead process\u201d",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "393_NSW",
+            "title": "Regulator may decide lead process",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "394_NSW",
+            "title": "Meaning of \u201clead risk work\u201d",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "395_NSW",
+            "title": "Duty to give information about health risks of lead process",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "396_NSW",
+            "title": "Containment of lead contamination",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "397_NSW",
+            "title": "Cleaning methods",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "398_NSW",
+            "title": "Prohibition on eating, drinking and smoking",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "399_NSW",
+            "title": "Provision of changing and washing facilities",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "400_NSW",
+            "title": "Laundering, disposal and removal of personal protective equipment",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "401_NSW",
+            "title": "Review of control measures",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "402_NSW",
+            "title": "Identifying lead risk work",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "403_NSW",
+            "title": "Notification of lead risk work",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "404_NSW",
+            "title": "Changes to information in notification of lead risk work",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "405_NSW",
+            "title": "Duty to provide health monitoring before first commencing lead risk work",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "406_NSW",
+            "title": "Duty to ensure that appropriate health monitoring is provided",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "407_NSW",
+            "title": "Frequency of biological monitoring",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "408_NSW",
+            "title": "Duty to ensure health monitoring is supervised by registered medical practitioner with relevant experience",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "409_NSW",
+            "title": "Duty to pay costs of health monitoring",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "410_NSW",
+            "title": "Information that must be provided to registered medical practitioner",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "411_NSW",
+            "title": "Duty to obtain health monitoring report",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "412_NSW",
+            "title": "Duty to give health monitoring report to worker",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "413_NSW",
+            "title": "Duty to give health monitoring report to regulator",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "414_NSW",
+            "title": "Duty to give health monitoring report to relevant persons conducting businesses or undertakings",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "415_NSW",
+            "title": "Removal of worker from lead risk work",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "416_NSW",
+            "title": "Duty to ensure medical examination if worker removed from lead risk work",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "417_NSW",
+            "title": "Return to lead risk work after removal",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          },
+          {
+            "id": "418_NSW",
+            "title": "Health monitoring records",
+            "chapter": "Chapter 7_NSW",
+            "part": "Part 7.2_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 8_NSW",
+    "title": "Asbestos",
+    "parts": {
+      "Part 8.1_NSW": {
+        "id": "Part 8.1_NSW",
+        "title": "Prohibitions and authorised conduct",
+        "provisions": [
+          {
+            "id": "419_NSW",
+            "title": "Work involving asbestos or ACM\u2014prohibitions and exceptions",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.1_NSW"
+          }
+        ]
+      },
+      "Part 8.2_NSW": {
+        "id": "Part 8.2_NSW",
+        "title": "General duty",
+        "provisions": [
+          {
+            "id": "420_NSW",
+            "title": "Exposure to airborne asbestos at workplace",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.2_NSW"
+          }
+        ]
+      },
+      "Part 8.3_NSW": {
+        "id": "Part 8.3_NSW",
+        "title": "Management of asbestos and associated risks",
+        "provisions": [
+          {
+            "id": "421_NSW",
+            "title": "Application of Part 8.3",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "422_NSW",
+            "title": "Asbestos to be identified or assumed at workplace",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "423_NSW",
+            "title": "Analysis of sample",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "424_NSW",
+            "title": "Presence and location of asbestos to be indicated",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "425_NSW",
+            "title": "Asbestos register",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "426_NSW",
+            "title": "Review of asbestos register",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "427_NSW",
+            "title": "Access to asbestos register",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "428_NSW",
+            "title": "Transfer of asbestos register by person relinquishing management or control",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "429_NSW",
+            "title": "Asbestos management plan",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          },
+          {
+            "id": "430_NSW",
+            "title": "Review of asbestos management plan",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.3_NSW"
+          }
+        ]
+      },
+      "Part 8.4_NSW": {
+        "id": "Part 8.4_NSW",
+        "title": "Management of naturally occurring asbestos",
+        "provisions": [
+          {
+            "id": "431_NSW",
+            "title": "Naturally occurring asbestos",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.4_NSW"
+          },
+          {
+            "id": "432_NSW",
+            "title": "Asbestos management plan",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.4_NSW"
+          },
+          {
+            "id": "433_NSW",
+            "title": "Review of asbestos management plan",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.4_NSW"
+          },
+          {
+            "id": "434_NSW",
+            "title": "Training in relation to naturally occurring asbestos",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.4_NSW"
+          }
+        ]
+      },
+      "Part 8.5_NSW": {
+        "id": "Part 8.5_NSW",
+        "title": "Asbestos at the workplace",
+        "provisions": [
+          {
+            "id": "435_NSW",
+            "title": "Duty to provide health monitoring",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "436_NSW",
+            "title": "Duty to ensure that appropriate health monitoring is provided",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "437_NSW",
+            "title": "Duty to ensure health monitoring is supervised by registered medical practitioner with relevant experience",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "438_NSW",
+            "title": "Duty to pay costs of health monitoring",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "439_NSW",
+            "title": "Information that must be provided to registered medical practitioner",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "440_NSW",
+            "title": "Duty to obtain health monitoring report",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "441_NSW",
+            "title": "Duty to give health monitoring report to worker",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "442_NSW",
+            "title": "Duty to give health monitoring report to regulator",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "443_NSW",
+            "title": "Duty to give health monitoring report to relevant persons conducting businesses or undertakings",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "444_NSW",
+            "title": "Health monitoring records",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "445_NSW",
+            "title": "Duty to train workers about asbestos",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          },
+          {
+            "id": "446_NSW",
+            "title": "Duty to limit use of equipment",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.5_NSW"
+          }
+        ]
+      },
+      "Part 8.6_NSW": {
+        "id": "Part 8.6_NSW",
+        "title": "Demolition and refurbishment",
+        "provisions": [
+          {
+            "id": "447_NSW",
+            "title": "Application\u2014Part 8.6",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "448_NSW",
+            "title": "Review of asbestos register",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "449_NSW",
+            "title": "Duty to give asbestos register to person conducting business or undertaking of demolition or refurbishment",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "450_NSW",
+            "title": "Duty to obtain asbestos register",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "451_NSW",
+            "title": "Determining presence of asbestos or ACM",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "452_NSW",
+            "title": "Identification and removal of asbestos before demolition",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "453_NSW",
+            "title": "Identification and removal of asbestos before demolition of residential premises",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "454_NSW",
+            "title": "Emergency procedure",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "455_NSW",
+            "title": "Emergency procedure\u2014residential premises",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "456_NSW",
+            "title": "Identification and removal of asbestos before refurbishment",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          },
+          {
+            "id": "457_NSW",
+            "title": "Refurbishment of residential premises",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.6_NSW"
+          }
+        ]
+      },
+      "Part 8.7_NSW": {
+        "id": "Part 8.7_NSW",
+        "title": "Asbestos removal work",
+        "provisions": [
+          {
+            "id": "458_NSW",
+            "title": "Duty to ensure asbestos removalist is licensed",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "459_NSW",
+            "title": "Asbestos removal supervisor must be present or readily available",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "460_NSW",
+            "title": "Asbestos removal worker must be trained",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "461_NSW",
+            "title": "Licensed asbestos removalist must keep training records",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "462_NSW",
+            "title": "Duty to give information about health risks of licensed asbestos removal work",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "463_NSW",
+            "title": "Asbestos removalist must obtain register",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "464_NSW",
+            "title": "Asbestos removal control plan",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "465_NSW",
+            "title": "Asbestos removal control plan to be kept and available",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "466_NSW",
+            "title": "Regulator must be notified of asbestos removal",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "467_NSW",
+            "title": "Licensed asbestos removalist must inform certain persons about intended asbestos removal work",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "468_NSW",
+            "title": "Person with management or control of workplace must inform persons about asbestos removal work",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "469_NSW",
+            "title": "Signage and barricades for asbestos removal work",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "470_NSW",
+            "title": "Limiting access to asbestos removal area",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "471_NSW",
+            "title": "Decontamination facilities",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "472_NSW",
+            "title": "Disposing of asbestos waste and contaminated personal protective equipment",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "473_NSW",
+            "title": "Clearance inspection",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          },
+          {
+            "id": "474_NSW",
+            "title": "Clearance certificates",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.7_NSW"
+          }
+        ]
+      },
+      "Part 8.8_NSW": {
+        "id": "Part 8.8_NSW",
+        "title": "Asbestos removal requiring Class A asbestos removal licence",
+        "provisions": [
+          {
+            "id": "475_NSW",
+            "title": "Air monitoring\u2014asbestos removal requiring Class A asbestos removal licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.8_NSW"
+          },
+          {
+            "id": "476_NSW",
+            "title": "Action if respirable asbestos fibre level too high",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.8_NSW"
+          },
+          {
+            "id": "477_NSW",
+            "title": "Removing friable asbestos",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.8_NSW"
+          }
+        ]
+      },
+      "Part 8.9_NSW": {
+        "id": "Part 8.9_NSW",
+        "title": "Asbestos-related work",
+        "provisions": [
+          {
+            "id": "478_NSW",
+            "title": "Application of Part 8.9",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.9_NSW"
+          },
+          {
+            "id": "479_NSW",
+            "title": "Uncertainty as to presence of asbestos",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.9_NSW"
+          },
+          {
+            "id": "480_NSW",
+            "title": "Duty to give information about health risks of asbestos-related work",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.9_NSW"
+          },
+          {
+            "id": "481_NSW",
+            "title": "Asbestos-related work to be in separate area",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.9_NSW"
+          },
+          {
+            "id": "482_NSW",
+            "title": "Air monitoring",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.9_NSW"
+          },
+          {
+            "id": "483_NSW",
+            "title": "Decontamination facilities",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.9_NSW"
+          },
+          {
+            "id": "484_NSW",
+            "title": "Disposing of asbestos waste and contaminated personal protective equipment",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.9_NSW"
+          }
+        ]
+      },
+      "Part 8.10_NSW": {
+        "id": "Part 8.10_NSW",
+        "title": "Licensing of asbestos removalists and asbestos assessors",
+        "provisions": [
+          {
+            "id": "485_NSW",
+            "title": "Requirement to hold Class A asbestos removal licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "486_NSW",
+            "title": "Exception to requirement to hold Class A asbestos removal licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "487_NSW",
+            "title": "Requirement to hold Class B asbestos removal licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "488_NSW",
+            "title": "Recognition of asbestos removal licences in other jurisdictions",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "489_NSW",
+            "title": "Requirement to hold asbestos assessor licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "490_NSW",
+            "title": "Recognition of asbestos assessor licences in other jurisdictions",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "491_NSW",
+            "title": "Who may apply for a licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "492_NSW",
+            "title": "Application for asbestos removal licence or asbestos assessor licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "493_NSW",
+            "title": "Content of application\u2014Class A asbestos removal licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "494_NSW",
+            "title": "Content of application\u2014Class B asbestos removal licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "495_NSW",
+            "title": "Content of application\u2014asbestos assessor licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "496_NSW",
+            "title": "Additional information",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "497_NSW",
+            "title": "Decision on application",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "498_NSW",
+            "title": "Class A asbestos removal licence\u2014regulator to be satisfied about additional matters",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "499_NSW",
+            "title": "Class B asbestos removal licence\u2014regulator to be satisfied about additional matters",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "500_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "501_NSW",
+            "title": "Refusal to grant licence\u2014process",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "502_NSW",
+            "title": "Conditions of licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "503_NSW",
+            "title": "Duration of licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "504_NSW",
+            "title": "Licence document",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "505_NSW",
+            "title": "Licence document to be available",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "506_NSW",
+            "title": "Changes to information",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "507_NSW",
+            "title": "Change to nominated supervisor",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "508_NSW",
+            "title": "Amendment imposed by regulator",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "509_NSW",
+            "title": "Amendment on application by licence holder",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "510_NSW",
+            "title": "Minor corrections to licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "511_NSW",
+            "title": "Regulator to give amended licence to the holder",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "512_NSW",
+            "title": "Licence holder to return licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "513_NSW",
+            "title": "Replacement licence document",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "514_NSW",
+            "title": "Voluntary surrender of licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "515_NSW",
+            "title": "Regulator may renew licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "516_NSW",
+            "title": "Application for renewal",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "517_NSW",
+            "title": "Provisions relating to renewal of licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "518_NSW",
+            "title": "Renewal of asbestos removal licence\u2014regulator to be satisfied about certain matters",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "519_NSW",
+            "title": "Status of licence during review",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "520_NSW",
+            "title": "Suspension or cancellation of licence",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "521_NSW",
+            "title": "Matters taken into account",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "522_NSW",
+            "title": "Notice to and submissions by licence holder",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "523_NSW",
+            "title": "Notice of decision",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "524_NSW",
+            "title": "Immediate suspension",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "525_NSW",
+            "title": "Licence holder to return licence document",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "526_NSW",
+            "title": "Regulator to return licence document after suspension",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "527_NSW",
+            "title": "Asbestos removal licence register",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "528_NSW",
+            "title": "Asbestos assessors register",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          },
+          {
+            "id": "529_NSW",
+            "title": "Work must be supervised by named supervisor",
+            "chapter": "Chapter 8_NSW",
+            "part": "Part 8.10_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 8A_NSW",
+    "title": "Crystalline silica",
+    "parts": {
+      "Part 8A.1_NSW": {
+        "id": "Part 8A.1_NSW",
+        "title": "Preliminary",
+        "provisions": [
+          {
+            "id": "529A_NSW",
+            "title": "Meaning of \u201cprocessing\u201d in relation to crystalline silica substances and related terms",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.1_NSW"
+          },
+          {
+            "id": "529B_NSW",
+            "title": "When processing of CSS is \u201ccontrolled\u201d",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.1_NSW"
+          },
+          {
+            "id": "529C_NSW",
+            "title": "Duty for processing of CSS to be controlled",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.1_NSW"
+          },
+          {
+            "id": "529CA_NSW",
+            "title": "Identifying processing of CSS that is high risk",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.1_NSW"
+          },
+          {
+            "id": "529CB_NSW",
+            "title": "Silica risk control plan required for processing of CSS that is high risk",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.1_NSW"
+          },
+          {
+            "id": "529CC_NSW",
+            "title": "Compliance with silica risk control plan",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.1_NSW"
+          },
+          {
+            "id": "529CD_NSW",
+            "title": "Duty to train workers about risks of crystalline silica",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.1_NSW"
+          },
+          {
+            "id": "529CE_NSW",
+            "title": "Monitoring in relation to processing of CSS that is high risk",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.1_NSW"
+          }
+        ]
+      },
+      "Part 8A.2_NSW": {
+        "id": "Part 8A.2_NSW",
+        "title": "Work involving engineered stone benchtops, panels or slabs",
+        "provisions": [
+          {
+            "id": "529D_NSW",
+            "title": "Work involving engineered stone benchtops, panels or slabs\u2014prohibition",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.2_NSW"
+          },
+          {
+            "id": "529E_NSW",
+            "title": "Work involving engineered stone benchtops, panels or slabs\u2014exception for particular supply and installation",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.2_NSW"
+          },
+          {
+            "id": "529F_NSW",
+            "title": "Work involving engineered stone benchtops, panels or slabs\u2014exception for particular processing",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.2_NSW"
+          }
+        ]
+      },
+      "Part 8A.3_NSW": {
+        "id": "Part 8A.3_NSW",
+        "title": "Regulator to be notified of particular processing of engineered stone",
+        "provisions": [
+          {
+            "id": "529G_NSW",
+            "title": "Notification of particular processing of engineered stone",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.3_NSW"
+          },
+          {
+            "id": "529H_NSW",
+            "title": "Notification of change in information given under Part 8A.3",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.3_NSW"
+          },
+          {
+            "id": "529I_NSW",
+            "title": "Notification that work continues 12 months after last notice given under Part 8A.3",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.3_NSW"
+          },
+          {
+            "id": "529J_NSW",
+            "title": "Duty to keep notice given under Part 8A.3",
+            "chapter": "Chapter 8A_NSW",
+            "part": "Part 8A.3_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 9_NSW",
+    "title": "Major hazard facilities",
+    "parts": {
+      "Part 9.1_NSW": {
+        "id": "Part 9.1_NSW",
+        "title": "Preliminary",
+        "provisions": [
+          {
+            "id": "530_NSW",
+            "title": "This Chapter does not apply to certain facilities",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.1_NSW"
+          },
+          {
+            "id": "531_NSW",
+            "title": "Meaning of \u201cmajor incident\u201d",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.1_NSW"
+          },
+          {
+            "id": "532_NSW",
+            "title": "Meaning of hazardous chemicals that are \u201cpresent or likely to be present\u201d",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.1_NSW"
+          },
+          {
+            "id": "533_NSW",
+            "title": "Meaning of \u201coperator\u201d of a facility or proposed facility",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.1_NSW"
+          },
+          {
+            "id": "534_NSW",
+            "title": "Meaning of \u201cmodification\u201d of a facility",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.1_NSW"
+          },
+          {
+            "id": "535_NSW",
+            "title": "A major hazard facility must be licensed",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.1_NSW"
+          }
+        ]
+      },
+      "Part 9.2_NSW": {
+        "id": "Part 9.2_NSW",
+        "title": "Determinations about major hazard facilities",
+        "provisions": [
+          {
+            "id": "536_NSW",
+            "title": "Operators of certain facilities must notify regulator",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "537_NSW",
+            "title": "Notification\u2014proposed facilities",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "538_NSW",
+            "title": "Content of notification",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "539_NSW",
+            "title": "When regulator may conduct inquiry",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "540_NSW",
+            "title": "Inquiry procedure",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "541_NSW",
+            "title": "Determination in relation to facility, on inquiry",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "542_NSW",
+            "title": "Determination in relation to over-threshold facility",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "543_NSW",
+            "title": "Suitability of facility operator",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "544_NSW",
+            "title": "Conditions on determination of major hazard facility",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "544A_NSW",
+            "title": "Conditions on determination\u2014payment of relevant fee",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "545_NSW",
+            "title": "Notice and effect of determinations",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "546_NSW",
+            "title": "When regulator may revoke a determination",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "547_NSW",
+            "title": "Re-notification if quantity of Schedule 15 chemicals increases",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "548_NSW",
+            "title": "Notification by new operator",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          },
+          {
+            "id": "549_NSW",
+            "title": "Time in which major hazard facility licence must be applied for",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.2_NSW"
+          }
+        ]
+      },
+      "Part 9.3_NSW": {
+        "id": "Part 9.3_NSW",
+        "title": "Duties of operators of determined major hazard facilities",
+        "provisions": [
+          {
+            "id": "550_NSW",
+            "title": "Application of Part 9.3",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "551_NSW",
+            "title": "Safety case outline must be provided",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "552_NSW",
+            "title": "Content",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "553_NSW",
+            "title": "Alteration",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "554_NSW",
+            "title": "Identification of major incidents and major incident hazards",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "555_NSW",
+            "title": "Safety assessment",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "556_NSW",
+            "title": "Control of risk",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "557_NSW",
+            "title": "Emergency plan",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "558_NSW",
+            "title": "Safety management system",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "558A_NSW",
+            "title": "Security arrangements",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "559_NSW",
+            "title": "Review of risk management",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "560_NSW",
+            "title": "Safety case must be provided",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "561_NSW",
+            "title": "Content",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "562_NSW",
+            "title": "Co-ordination for multiple facilities",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          },
+          {
+            "id": "563_NSW",
+            "title": "Review",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.3_NSW"
+          }
+        ]
+      },
+      "Part 9.4_NSW": {
+        "id": "Part 9.4_NSW",
+        "title": "Licensed major hazard facilities\u2014risk management",
+        "provisions": [
+          {
+            "id": "564_NSW",
+            "title": "Identification of major incidents and major incident hazards",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "565_NSW",
+            "title": "Safety assessment",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "566_NSW",
+            "title": "Control of risk",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "567_NSW",
+            "title": "Emergency plan",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "568_NSW",
+            "title": "Safety management system",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "569_NSW",
+            "title": "Review of risk management",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "570_NSW",
+            "title": "Safety case\u2014review",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "571_NSW",
+            "title": "Information for visitors",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "572_NSW",
+            "title": "Information for local community\u2014general",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          },
+          {
+            "id": "573_NSW",
+            "title": "Information for local community\u2014major incident",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.4_NSW"
+          }
+        ]
+      },
+      "Part 9.5_NSW": {
+        "id": "Part 9.5_NSW",
+        "title": "Consultation and workers\u2019 safety role",
+        "provisions": [
+          {
+            "id": "574_NSW",
+            "title": "Safety role for workers",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.5_NSW"
+          },
+          {
+            "id": "575_NSW",
+            "title": "Operator of major hazard facility must consult with workers",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.5_NSW"
+          }
+        ]
+      },
+      "Part 9.6_NSW": {
+        "id": "Part 9.6_NSW",
+        "title": "Duties of workers at licensed major hazard facilities",
+        "provisions": [
+          {
+            "id": "576_NSW",
+            "title": "Duties",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.6_NSW"
+          }
+        ]
+      },
+      "Part 9.7_NSW": {
+        "id": "Part 9.7_NSW",
+        "title": "Licensing of major hazard facilities",
+        "provisions": [
+          {
+            "id": "577_NSW",
+            "title": "Who may apply for a licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "578_NSW",
+            "title": "Application for major hazard facility licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "579_NSW",
+            "title": "Additional information",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "580_NSW",
+            "title": "Decision on application",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "581_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "582_NSW",
+            "title": "When decision is to be made",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "583_NSW",
+            "title": "Refusal to grant major hazard facility licence\u2014process",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "584_NSW",
+            "title": "Conditions of licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "585_NSW",
+            "title": "Duration of licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "585A_NSW",
+            "title": "Conditions of licence\u2014payment of relevant fee",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "586_NSW",
+            "title": "Licence document",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "587_NSW",
+            "title": "Licence document to be available",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "588_NSW",
+            "title": "Changes to information",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "589_NSW",
+            "title": "Amendment imposed by regulator",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "590_NSW",
+            "title": "Amendment on application by operator",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "591_NSW",
+            "title": "Minor corrections to major hazard facility licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "592_NSW",
+            "title": "Regulator to give amended licence document to operator",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "593_NSW",
+            "title": "Operator to return licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "594_NSW",
+            "title": "Replacement licence document",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "595_NSW",
+            "title": "Regulator may renew licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "596_NSW",
+            "title": "Application for renewal",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "597_NSW",
+            "title": "Licence continues in force until application is decided",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "598_NSW",
+            "title": "Provisions relating to renewal of licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "599_NSW",
+            "title": "Status of major hazard facility licence during review",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "600_NSW",
+            "title": "Transfer of major hazard facility licence",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "601_NSW",
+            "title": "Cancellation of major hazard facility licence\u2014on operator\u2019s application",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "602_NSW",
+            "title": "Suspension or cancellation of licence\u2014on regulator\u2019s initiative",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "603_NSW",
+            "title": "Matters to be taken into account",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "604_NSW",
+            "title": "Notice to and submissions by operator",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "605_NSW",
+            "title": "Notice of decision",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "606_NSW",
+            "title": "Immediate suspension",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "607_NSW",
+            "title": "Operator to return licence document",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          },
+          {
+            "id": "608_NSW",
+            "title": "Regulator to return licence document after suspension",
+            "chapter": "Chapter 9_NSW",
+            "part": "Part 9.7_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 10_NSW",
+    "title": "Mines",
+    "parts": {},
+    "provisions": []
+  },
+  {
+    "id": "Chapter 11_NSW",
+    "title": "General",
+    "parts": {
+      "Part 11.1_NSW": {
+        "id": "Part 11.1_NSW",
+        "title": "Review of decisions under this Regulation",
+        "provisions": [
+          {
+            "id": "676_NSW",
+            "title": "Which decisions under this Regulation are reviewable",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.1_NSW"
+          },
+          {
+            "id": "677_NSW",
+            "title": "Application",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.1_NSW"
+          },
+          {
+            "id": "678_NSW",
+            "title": "Application for internal review",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.1_NSW"
+          },
+          {
+            "id": "679_NSW",
+            "title": "Internal reviewer",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.1_NSW"
+          },
+          {
+            "id": "680_NSW",
+            "title": "Decision of internal reviewer",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.1_NSW"
+          },
+          {
+            "id": "681_NSW",
+            "title": "Decision on internal review",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.1_NSW"
+          },
+          {
+            "id": "682_NSW",
+            "title": "Internal review\u2014reviewable decision continues",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.1_NSW"
+          },
+          {
+            "id": "683_NSW",
+            "title": "Application for external review",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.1_NSW"
+          }
+        ]
+      },
+      "Part 11.2_NSW": {
+        "id": "Part 11.2_NSW",
+        "title": "Exemptions",
+        "provisions": [
+          {
+            "id": "684_NSW",
+            "title": "General power to grant exemptions",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "685_NSW",
+            "title": "Matters to be considered in granting exemptions",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "686_NSW",
+            "title": "High risk work licence\u2014exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "687_NSW",
+            "title": "High risk work licence\u2014regulator to be satisfied about certain matters",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "688_NSW",
+            "title": "Major hazard facility\u2014exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "689_NSW",
+            "title": "Major hazard facility\u2014regulator to be satisfied about certain matters",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "689A_NSW",
+            "title": "Engineered stone\u2014exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "689B_NSW",
+            "title": "Engineered stone\u2014application for exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "689C_NSW",
+            "title": "Engineered stone\u2014notifying persons of application for exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "689D_NSW",
+            "title": "Engineered stone\u2014regulator to be satisfied about certain matters",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "689E_NSW",
+            "title": "Safe Work Australia may issue and publish documents in relation to exemptions",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "690_NSW",
+            "title": "Application for exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "691_NSW",
+            "title": "Conditions of exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "692_NSW",
+            "title": "Form of exemption document",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "693_NSW",
+            "title": "Compliance with conditions of exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "694_NSW",
+            "title": "Notice of decision in relation to exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "695_NSW",
+            "title": "Publication of exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "696_NSW",
+            "title": "Notice of refusal of exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "697_NSW",
+            "title": "Amendment or cancellation of exemption",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          },
+          {
+            "id": "698_NSW",
+            "title": "Notice of amendment or cancellation",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.2_NSW"
+          }
+        ]
+      },
+      "Part 11.3_NSW": {
+        "id": "Part 11.3_NSW",
+        "title": "Miscellaneous",
+        "provisions": [
+          {
+            "id": "699_NSW",
+            "title": "Incident notification\u2014prescribed serious illnesses",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "700_NSW",
+            "title": "Inspectors\u2019 identity cards",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "701_NSW",
+            "title": "Review of decisions under the Act\u2014stay of decision",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "701A_NSW",
+            "title": "Regulator\u2019s power to waive, reduce, postpone or refund fees",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "702_NSW",
+            "title": "Confidentiality of information\u2014exception relating to administration or enforcement of other laws",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "702AA_NSW",
+            "title": "Information about silicosis not required to be provided by Health Secretary to regulator",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "702A_NSW",
+            "title": "Savings and transitional provisions",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "702B_NSW",
+            "title": "Register of certain licences and training cards",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "702C_NSW",
+            "title": "(Repealed)",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          },
+          {
+            "id": "702D_NSW",
+            "title": "Signature not required for licences in digital form",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.3_NSW"
+          }
+        ]
+      },
+      "Part 11.4_NSW": {
+        "id": "Part 11.4_NSW",
+        "title": "Transitional and Saving Provisions for Model Work Health and Safety Regulations (Engineered Stone) Amendment 2024",
+        "provisions": [
+          {
+            "id": "703_NSW",
+            "title": "Particular work involving engineered stone\u2014exception if carried out before 1 July 2024",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.4_NSW"
+          },
+          {
+            "id": "704_NSW",
+            "title": "Particular work involving engineered stone\u2014exception if carried out under pre-2024 contract..479",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.4_NSW"
+          },
+          {
+            "id": "705_NSW",
+            "title": "Application of Part 8A.3 to processing of engineered stone carried out before 1 July 2024",
+            "chapter": "Chapter 11_NSW",
+            "part": "Part 11.4_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  }
+]

@@ -1,0 +1,3876 @@
+[
+  {
+    "id": "Chapter 1_Victoria",
+    "title": "Preliminary",
+    "parts": {
+      "Part 1.1_Victoria": {
+        "id": "Part 1.1_Victoria",
+        "title": "Introductory matters",
+        "provisions": [
+          {
+            "id": "1_Victoria",
+            "title": "Objectives",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "2_Victoria",
+            "title": "Authorising provisions",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "3_Victoria",
+            "title": "Commencement",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "4_Victoria",
+            "title": "Revocation of existing Regulations",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "5_Victoria",
+            "title": "Definitions",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "6_Victoria",
+            "title": "Determinations of Authority",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "6A_Victoria",
+            "title": "Determination of facilities by Authority",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "7_Victoria",
+            "title": "Act compliance notes",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "8_Victoria",
+            "title": "Independent contractors",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "9_Victoria",
+            "title": "Health and safety representatives",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "10_Victoria",
+            "title": "Designers, manufacturers and suppliers",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "11_Victoria",
+            "title": "Duties of self-employed persons",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          },
+          {
+            "id": "12_Victoria",
+            "title": "References to Parts",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.1_Victoria"
+          }
+        ]
+      },
+      "Part 1.2_Victoria": {
+        "id": "Part 1.2_Victoria",
+        "title": "Incorporated documents",
+        "provisions": [
+          {
+            "id": "13_Victoria",
+            "title": "Documents incorporated as in force from time to time",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.2_Victoria"
+          },
+          {
+            "id": "14_Victoria",
+            "title": "Publication date of amendments to certain incorporated documents",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.2_Victoria"
+          },
+          {
+            "id": "15_Victoria",
+            "title": "Date of effect of amendments to incorporated documents",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.2_Victoria"
+          },
+          {
+            "id": "16_Victoria",
+            "title": "Inconsistencies between provisions",
+            "chapter": "Chapter 1_Victoria",
+            "part": "Part 1.2_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 2_Victoria",
+    "title": "General duties and issue\u00a0resolution",
+    "parts": {
+      "Part 2.1_Victoria": {
+        "id": "Part 2.1_Victoria",
+        "title": "General duties",
+        "provisions": [
+          {
+            "id": "18_Victoria",
+            "title": "Proper installation, use and maintenance of risk control measures",
+            "chapter": "Chapter 2_Victoria",
+            "part": "Part 2.1_Victoria"
+          },
+          {
+            "id": "19_Victoria",
+            "title": "Medical examinations and health monitoring",
+            "chapter": "Chapter 2_Victoria",
+            "part": "Part 2.1_Victoria"
+          },
+          {
+            "id": "20_Victoria",
+            "title": "Reports of health monitoring to be kept confidential",
+            "chapter": "Chapter 2_Victoria",
+            "part": "Part 2.1_Victoria"
+          },
+          {
+            "id": "21_Victoria",
+            "title": "How to involve health and safety representatives in consultation",
+            "chapter": "Chapter 2_Victoria",
+            "part": "Part 2.1_Victoria"
+          }
+        ]
+      },
+      "Part 2.2_Victoria": {
+        "id": "Part 2.2_Victoria",
+        "title": "Issue resolution procedures",
+        "provisions": [
+          {
+            "id": "22_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 2_Victoria",
+            "part": "Part 2.2_Victoria"
+          },
+          {
+            "id": "23_Victoria",
+            "title": "Parties to the resolution of issues",
+            "chapter": "Chapter 2_Victoria",
+            "part": "Part 2.2_Victoria"
+          },
+          {
+            "id": "24_Victoria",
+            "title": "Procedure for reporting issues",
+            "chapter": "Chapter 2_Victoria",
+            "part": "Part 2.2_Victoria"
+          },
+          {
+            "id": "25_Victoria",
+            "title": "Procedure for resolving issues",
+            "chapter": "Chapter 2_Victoria",
+            "part": "Part 2.2_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 3_Victoria",
+    "title": "Physical hazards",
+    "parts": {
+      "Part 3.1_Victoria": {
+        "id": "Part 3.1_Victoria",
+        "title": "Hazardous manual handling",
+        "provisions": [
+          {
+            "id": "26_Victoria",
+            "title": "Hazard identification",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.1_Victoria"
+          },
+          {
+            "id": "27_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.1_Victoria"
+          },
+          {
+            "id": "28_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.1_Victoria"
+          }
+        ]
+      },
+      "Part 3.2_Victoria": {
+        "id": "Part 3.2_Victoria",
+        "title": "Noise",
+        "provisions": [
+          {
+            "id": "29_Victoria",
+            "title": "Designers",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "30_Victoria",
+            "title": "Manufacturers",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "31_Victoria",
+            "title": "Suppliers",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "32_Victoria",
+            "title": "Determination of exposure to noise",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "33_Victoria",
+            "title": "Record of determinations",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "34_Victoria",
+            "title": "Control of exposure to noise",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "35_Victoria",
+            "title": "Hearing protector signs and labels",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "36_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "37_Victoria",
+            "title": "Audiometric tests",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "38_Victoria",
+            "title": "Audiological examinations",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "39_Victoria",
+            "title": "Report of audiological examination",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          },
+          {
+            "id": "40_Victoria",
+            "title": "Test results and examination reports",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.2_Victoria"
+          }
+        ]
+      },
+      "Part 3.3_Victoria": {
+        "id": "Part 3.3_Victoria",
+        "title": "Prevention of falls",
+        "provisions": [
+          {
+            "id": "41_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          },
+          {
+            "id": "42_Victoria",
+            "title": "Application to employers of emergency service employees",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          },
+          {
+            "id": "43_Victoria",
+            "title": "Hazard identification",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          },
+          {
+            "id": "44_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          },
+          {
+            "id": "45_Victoria",
+            "title": "Use of ladder as a control measure",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          },
+          {
+            "id": "46_Victoria",
+            "title": "Use of administrative control only",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          },
+          {
+            "id": "47_Victoria",
+            "title": "Use of plant to control risk",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          },
+          {
+            "id": "48_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          },
+          {
+            "id": "49_Victoria",
+            "title": "Emergency procedures",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.3_Victoria"
+          }
+        ]
+      },
+      "Part 3.4_Victoria": {
+        "id": "Part 3.4_Victoria",
+        "title": "Confined spaces",
+        "provisions": [
+          {
+            "id": "50_Victoria",
+            "title": "Application to employers of emergency service employees",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "51_Victoria",
+            "title": "Designers",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "52_Victoria",
+            "title": "Manufacturers",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "53_Victoria",
+            "title": "Suppliers",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "54_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "55_Victoria",
+            "title": "Hazard identification",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "56_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "57_Victoria",
+            "title": "Isolation of plant and services",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "58_Victoria",
+            "title": "Atmosphere",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "59_Victoria",
+            "title": "Fire or explosion",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "60_Victoria",
+            "title": "Flammable gases or vapours",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "61_Victoria",
+            "title": "Signs",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "62_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "63_Victoria",
+            "title": "Confined space entry permit",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "64_Victoria",
+            "title": "Employer to keep entry permits",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "65_Victoria",
+            "title": "Communication and initiation of emergency procedures",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "66_Victoria",
+            "title": "Procedures to indicate entry into confined space",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "67_Victoria",
+            "title": "Procedures to ensure exit from confined space",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "68_Victoria",
+            "title": "Record of exit from confined space",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "69_Victoria",
+            "title": "Emergency procedures",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "70_Victoria",
+            "title": "Emergency procedures\u2014personal protective equipment",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "71_Victoria",
+            "title": "Emergency procedures\u2014entry and exit for rescue",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "72_Victoria",
+            "title": "Emergency procedures\u2014maintenance of plant",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          },
+          {
+            "id": "73_Victoria",
+            "title": "Information, instruction and training",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.4_Victoria"
+          }
+        ]
+      },
+      "Part 3.5_Victoria": {
+        "id": "Part 3.5_Victoria",
+        "title": "Plant",
+        "provisions": [
+          {
+            "id": "74_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "75_Victoria",
+            "title": "Hazard identification may be for classes of plant",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "76_Victoria",
+            "title": "Hazard identification",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "77_Victoria",
+            "title": "Guarding",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "78_Victoria",
+            "title": "Operator controls",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "79_Victoria",
+            "title": "Emergency stop devices",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "80_Victoria",
+            "title": "Warning devices",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "81_Victoria",
+            "title": "Designer must give information to manufacturer",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "82_Victoria",
+            "title": "Hazard identified in design during manufacture",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "83_Victoria",
+            "title": "Records and information",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "84_Victoria",
+            "title": "Record of standards or engineering principles used",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "85_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "86_Victoria",
+            "title": "Information must be given by a manufacturer",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "87_Victoria",
+            "title": "Records and information",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "88_Victoria",
+            "title": "Application of Subdivision",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "89_Victoria",
+            "title": "Information to be given\u2014new plant",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "90_Victoria",
+            "title": "Information to be given\u2014used plant",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "91_Victoria",
+            "title": "Information to be given\u2014scrap material",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "92_Victoria",
+            "title": "Roll-over protection on tractors",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "93_Victoria",
+            "title": "Inspection and maintenance",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "94_Victoria",
+            "title": "Records",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "95_Victoria",
+            "title": "Information must be obtained and given by agent",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "96_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "97_Victoria",
+            "title": "Hazard identification",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "98_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "99_Victoria",
+            "title": "Specific risk control measures\u2014Guarding",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "100_Victoria",
+            "title": "Specific risk control measures\u2014Guarding and insulation from heat and cold",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "101_Victoria",
+            "title": "Specific risk control measures\u2014Operator controls",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "102_Victoria",
+            "title": "Specific risk control measures\u2014Emergency stop devices",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "103_Victoria",
+            "title": "Specific risk control measures\u2014Warning devices",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "104_Victoria",
+            "title": "Specific risk control measures\u2014Installation, etc. of\u00a0plant",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "105_Victoria",
+            "title": "Use of plant",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "106_Victoria",
+            "title": "Record of inspection and maintenance",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "107_Victoria",
+            "title": "Plant not in use",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "108_Victoria",
+            "title": "Subdivision not to limit regulations 98 to\u00a0107",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "109_Victoria",
+            "title": "Powered mobile plant",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "110_Victoria",
+            "title": "Warning devices on powered mobile plant",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "111_Victoria",
+            "title": "Roll-over protection on tractors",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "112_Victoria",
+            "title": "Industrial lift trucks",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "113_Victoria",
+            "title": "Warning devices on industrial lift trucks",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "114_Victoria",
+            "title": "Electrical plant and electrical hazards",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "115_Victoria",
+            "title": "Plant used to lift or suspend loads",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "116_Victoria",
+            "title": "Lifts",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "117_Victoria",
+            "title": "Notice of rated capacity of lift",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "118_Victoria",
+            "title": "Scaffolds",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "119_Victoria",
+            "title": "Tower cranes",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "120_Victoria",
+            "title": "Employer or self-employed person to keep certain design information available",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "121_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "122_Victoria",
+            "title": "Information, instruction and training",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "123_Victoria",
+            "title": "Information for persons involved in a plant activity",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "124_Victoria",
+            "title": "Notice of prescribed incidents",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "125_Victoria",
+            "title": "Plant designs to be registered",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "126_Victoria",
+            "title": "Altered plant designs to be registered",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          },
+          {
+            "id": "127_Victoria",
+            "title": "Recognition of interstate designs",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.5_Victoria"
+          }
+        ]
+      },
+      "Part 3.6_Victoria": {
+        "id": "Part 3.6_Victoria",
+        "title": "High risk work",
+        "provisions": [
+          {
+            "id": "128_Victoria",
+            "title": "Person must not perform high risk work without licence",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "129_Victoria",
+            "title": "Employer must not allow unlicensed employee to perform high risk work",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "130_Victoria",
+            "title": "Exceptions to regulations 128 and 129",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "131_Victoria",
+            "title": "Recognition of interstate licences",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "132_Victoria",
+            "title": "Trainee to be under direct supervision",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "133_Victoria",
+            "title": "Person conducting training must ensure supervision",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "134_Victoria",
+            "title": "How to obtain an assessment of competency",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "135_Victoria",
+            "title": "Method of assessment",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "136_Victoria",
+            "title": "Assessment instruments",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "137_Victoria",
+            "title": "Process for re-assessment",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "138_Victoria",
+            "title": "Person may work while application for high risk work licence or renewal is being processed",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          },
+          {
+            "id": "139_Victoria",
+            "title": "Authorisation to carry out assessments of competency",
+            "chapter": "Chapter 3_Victoria",
+            "part": "Part 3.6_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 4_Victoria",
+    "title": "Hazardous substances and\u00a0materials",
+    "parts": {
+      "Part 4.1_Victoria": {
+        "id": "Part 4.1_Victoria",
+        "title": "Hazardous substances",
+        "provisions": [
+          {
+            "id": "140_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "141_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "142_Victoria",
+            "title": "Certain regulations not to apply",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "143_Victoria",
+            "title": "Determination of hazardous substances",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "144_Victoria",
+            "title": "Preparation of a safety data sheet",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "145_Victoria",
+            "title": "What must a safety data sheet contain?",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "146_Victoria",
+            "title": "Review and revision of safety data sheet",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "147_Victoria",
+            "title": "Duty to provide current safety data sheet",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "148_Victoria",
+            "title": "Duty to provide revised safety data sheet",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "149_Victoria",
+            "title": "Manufacturers and importing suppliers must label containers",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "150_Victoria",
+            "title": "Recognition of other labelling systems",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "151_Victoria",
+            "title": "Supplier must ensure container is labelled",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "152_Victoria",
+            "title": "Disclosure of chemical identity to registered medical practitioner",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "153_Victoria",
+            "title": "Prohibited hazardous substances",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "154_Victoria",
+            "title": "Application of Subdivision",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "155_Victoria",
+            "title": "Safety data sheet to be obtained",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "156_Victoria",
+            "title": "Safety data sheet must be readily accessible",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "157_Victoria",
+            "title": "Information in safety data sheet must not be altered",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "158_Victoria",
+            "title": "Containers must be labelled",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "159_Victoria",
+            "title": "How long must a container be labelled?",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "160_Victoria",
+            "title": "Identification of hazardous substances in plant",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "161_Victoria",
+            "title": "Identification of containers of waste",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "162_Victoria",
+            "title": "Register of hazardous substances",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "163_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "164_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "165_Victoria",
+            "title": "Exposure standard must not be exceeded",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "166_Victoria",
+            "title": "Atmospheric monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "167_Victoria",
+            "title": "Provision of results of atmospheric monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "168_Victoria",
+            "title": "Records of atmospheric monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "169_Victoria",
+            "title": "Health monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "170_Victoria",
+            "title": "Copy of report to Authority",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          },
+          {
+            "id": "171_Victoria",
+            "title": "Records of health monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.1_Victoria"
+          }
+        ]
+      },
+      "Part 4.2_Victoria": {
+        "id": "Part 4.2_Victoria",
+        "title": "Scheduled carcinogenic substances",
+        "provisions": [
+          {
+            "id": "172_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.2_Victoria"
+          },
+          {
+            "id": "173_Victoria",
+            "title": "Supply of scheduled carcinogenic substances",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.2_Victoria"
+          },
+          {
+            "id": "174_Victoria",
+            "title": "Requirement to hold carcinogens licence",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.2_Victoria"
+          },
+          {
+            "id": "175_Victoria",
+            "title": "Records",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.2_Victoria"
+          },
+          {
+            "id": "176_Victoria",
+            "title": "Statement of work with scheduled carcinogenic substance",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.2_Victoria"
+          }
+        ]
+      },
+      "Part 4.3_Victoria": {
+        "id": "Part 4.3_Victoria",
+        "title": "Lead",
+        "provisions": [
+          {
+            "id": "177_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "178_Victoria",
+            "title": "What is a lead process?",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "179_Victoria",
+            "title": "Women treated as being of reproductive capacity",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "180_Victoria",
+            "title": "Authority may determine lead process",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "181_Victoria",
+            "title": "Medical examinations and biological monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "182_Victoria",
+            "title": "Information to job applicants",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "183_Victoria",
+            "title": "Information to employees",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "184_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "185_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "186_Victoria",
+            "title": "Lead exposure standard not to be exceeded",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "187_Victoria",
+            "title": "Provision of results of monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "188_Victoria",
+            "title": "Containment of lead",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "189_Victoria",
+            "title": "Cleaning methods",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "190_Victoria",
+            "title": "Prohibition on eating, drinking and smoking",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "191_Victoria",
+            "title": "Provision of changing and washing facilities",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "192_Victoria",
+            "title": "Laundering, disposal and removal of protective clothing",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "193_Victoria",
+            "title": "What is lead-risk work?",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "194_Victoria",
+            "title": "Identification of lead-risk work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "195_Victoria",
+            "title": "Notice and recording of lead-risk work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "196_Victoria",
+            "title": "Health monitoring before first starting lead-risk work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "197_Victoria",
+            "title": "Health monitoring for work subsequently identified as lead-risk work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "198_Victoria",
+            "title": "Frequency of biological monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "199_Victoria",
+            "title": "Removal from lead-risk work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "200_Victoria",
+            "title": "Medical examination if removed from lead-risk work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "201_Victoria",
+            "title": "Return after medical removal",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "202_Victoria",
+            "title": "Requirements for medical examinations",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "203_Victoria",
+            "title": "Information to go to Authority",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "204_Victoria",
+            "title": "Records",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          },
+          {
+            "id": "205_Victoria",
+            "title": "Eating, drinking, smoking etc.",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.3_Victoria"
+          }
+        ]
+      },
+      "Part 4.4_Victoria": {
+        "id": "Part 4.4_Victoria",
+        "title": "Asbestos",
+        "provisions": [
+          {
+            "id": "206_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "207_Victoria",
+            "title": "Independent person",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "208_Victoria",
+            "title": "Asbestos-contaminated dust",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "209_Victoria",
+            "title": "Control risk of exposure\u2014person who manages or controls workplace",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "210_Victoria",
+            "title": "Control risk of exposure\u2014employer or self-employed person",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "211_Victoria",
+            "title": "Determination of employee's exposure",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "212_Victoria",
+            "title": "Results of atmospheric monitoring to be available",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "213_Victoria",
+            "title": "Analysis by approved asbestos laboratory",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "214_Victoria",
+            "title": "Asbestos removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "215_Victoria",
+            "title": "Removal of contaminated protective clothing",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "216_Victoria",
+            "title": "Use of certain tools or instruments",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "217_Victoria",
+            "title": "General exclusions",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "218_Victoria",
+            "title": "Manufacture of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "219_Victoria",
+            "title": "Supply of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "220_Victoria",
+            "title": "Storage of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "221_Victoria",
+            "title": "Transport of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "222_Victoria",
+            "title": "Sale of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "223_Victoria",
+            "title": "Use of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "224_Victoria",
+            "title": "Re-use, installation and replacement of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "225_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "226_Victoria",
+            "title": "Identification of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "227_Victoria",
+            "title": "Asbestos register",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "228_Victoria",
+            "title": "Asbestos register to be kept current",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "229_Victoria",
+            "title": "Access to asbestos register",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "230_Victoria",
+            "title": "Provision of register by person relinquishing management or control",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "231_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "232_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "233_Victoria",
+            "title": "Identification of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "234_Victoria",
+            "title": "Information about risks to be given to person who manages or controls workplace",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "235_Victoria",
+            "title": "Employer's asbestos register",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "236_Victoria",
+            "title": "Employer's asbestos register to be kept current",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "237_Victoria",
+            "title": "Access to employer's asbestos register",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "238_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "239_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "240_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "241_Victoria",
+            "title": "Review of asbestos register",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "242_Victoria",
+            "title": "Review of employer's asbestos register",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "243_Victoria",
+            "title": "Copies of asbestos registers to be obtained",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "244_Victoria",
+            "title": "Identification and removal of asbestos before demolition or refurbishment",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "245_Victoria",
+            "title": "Determination of presence of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "246_Victoria",
+            "title": "Requirements for asbestos removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "247_Victoria",
+            "title": "Emergency procedures",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "248_Victoria",
+            "title": "Notice to Authority",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "249_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "250_Victoria",
+            "title": "Limited asbestos removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "251_Victoria",
+            "title": "Training record",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "252_Victoria",
+            "title": "Self-employed persons performing limited asbestos removal work to have appropriate training",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "253_Victoria",
+            "title": "Asbestos register must be obtained",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "254_Victoria",
+            "title": "Protective clothing and protective equipment",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "255_Victoria",
+            "title": "Signs and barricades",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "256_Victoria",
+            "title": "Decontamination facilities and non-removal of personal protective clothing or equipment",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "257_Victoria",
+            "title": "Decontamination of equipment",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "258_Victoria",
+            "title": "Elimination of airborne asbestos fibres",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "259_Victoria",
+            "title": "Waste containment",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "260_Victoria",
+            "title": "Disposal of asbestos waste",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "261_Victoria",
+            "title": "Laundering of clothing contaminated with asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "262_Victoria",
+            "title": "Medical examinations",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "263_Victoria",
+            "title": "Results of medical examinations",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "264_Victoria",
+            "title": "Class A asbestos removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "265_Victoria",
+            "title": "Class B asbestos removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "266_Victoria",
+            "title": "Appointment of asbestos removal supervisors",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "267_Victoria",
+            "title": "Asbestos removal supervisor to be accessible",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "268_Victoria",
+            "title": "Information to job applicants and independent contractors",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "269_Victoria",
+            "title": "Persons performing asbestos removal work to be trained",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "270_Victoria",
+            "title": "Training record",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "271_Victoria",
+            "title": "Asbestos register to be obtained",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "272_Victoria",
+            "title": "Asbestos control plan",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "273_Victoria",
+            "title": "Asbestos control plan to be made available and accessible",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "274_Victoria",
+            "title": "Elimination of airborne asbestos fibres",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "275_Victoria",
+            "title": "Requirements in respect of airborne asbestos fibres",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "276_Victoria",
+            "title": "Protective clothing and protective equipment for persons performing asbestos removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "277_Victoria",
+            "title": "Signs and barricades",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "278_Victoria",
+            "title": "Decontamination facilities",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "279_Victoria",
+            "title": "Waste containment",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "280_Victoria",
+            "title": "Disposal of asbestos waste",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "281_Victoria",
+            "title": "Laundering of clothing contaminated with asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "282_Victoria",
+            "title": "Medical examinations",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "283_Victoria",
+            "title": "Results of medical examinations",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "284_Victoria",
+            "title": "Application of Subdivision",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "285_Victoria",
+            "title": "Asbestos removal supervisor to be on-site",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "286_Victoria",
+            "title": "Specific measures to control risk",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "287_Victoria",
+            "title": "Asbestos paraoccupational air monitoring requirements",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "288_Victoria",
+            "title": "Results of asbestos paraoccupational air monitoring to be readily accessible",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "289_Victoria",
+            "title": "Use of glove bags",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "290_Victoria",
+            "title": "Requirements at the end of removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "291_Victoria",
+            "title": "Application of Subdivision",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "292_Victoria",
+            "title": "Asbestos paraoccupational air monitoring",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "293_Victoria",
+            "title": "Results of monitoring to be made available",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "294_Victoria",
+            "title": "Requirements at end of removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "295_Victoria",
+            "title": "Results of inspection and monitoring to go to licence holder",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "296_Victoria",
+            "title": "Independent person to have requisite knowledge, skills and experience",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "297_Victoria",
+            "title": "Clearance certificates",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "298_Victoria",
+            "title": "Notice of asbestos removal work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "299_Victoria",
+            "title": "Notice in an unexpected situation",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "300_Victoria",
+            "title": "Information to be provided to those in area",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "301_Victoria",
+            "title": "Information to be provided to persons occupying premises in immediate and adjacent areas",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "302_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "303_Victoria",
+            "title": "Identification of asbestos-related activities",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "304_Victoria",
+            "title": "Uncertainty as to presence of asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "305_Victoria",
+            "title": "Asbestos register must be obtained",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "306_Victoria",
+            "title": "Elimination of airborne asbestos fibres",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "307_Victoria",
+            "title": "Specific measures to control risk",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "308_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "309_Victoria",
+            "title": "Work area to be separate and signed",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "310_Victoria",
+            "title": "Work area to be kept clean",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "311_Victoria",
+            "title": "Medical examinations",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "312_Victoria",
+            "title": "Results of atmospheric monitoring to be made available",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "313_Victoria",
+            "title": "Results of medical examinations",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "314_Victoria",
+            "title": "Decontamination facilities",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "315_Victoria",
+            "title": "Waste containment",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "316_Victoria",
+            "title": "Disposal of asbestos waste",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "317_Victoria",
+            "title": "Laundering of clothing contaminated with asbestos",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "318_Victoria",
+            "title": "Provision of information to job applicants",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          },
+          {
+            "id": "319_Victoria",
+            "title": "Training record",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.4_Victoria"
+          }
+        ]
+      },
+      "Part 4.5_Victoria": {
+        "id": "Part 4.5_Victoria",
+        "title": "Crystalline silica",
+        "provisions": [
+          {
+            "id": "319A_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319B_Victoria",
+            "title": "What is a crystalline silica process?",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319C_Victoria",
+            "title": "What is high risk crystalline silica work?",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319D_Victoria",
+            "title": "What is a crystalline silica hazard control statement?",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319E_Victoria",
+            "title": "What is an engineered stone process?",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319F_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319G_Victoria",
+            "title": "Manufacturer or supplier to give information about crystalline silica substances",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319H_Victoria",
+            "title": "Review and revision of information",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319I_Victoria",
+            "title": "Application of Subdivision",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319J_Victoria",
+            "title": "Identification of high risk crystalline silica work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319K_Victoria",
+            "title": "Record of high risk crystalline silica work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319L_Victoria",
+            "title": "Crystalline silica hazard control statement required for high risk crystalline silica work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319M_Victoria",
+            "title": "Crystalline silica hazard control statement to be reviewed and revised",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319N_Victoria",
+            "title": "Copy of crystalline silica hazard control statement to be kept",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319O_Victoria",
+            "title": "Analysis of material to be used in quarrying or tunnelling process",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319P_Victoria",
+            "title": "Application of Subdivision",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319Q_Victoria",
+            "title": "Information to job applicants",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319R_Victoria",
+            "title": "Information, instruction and training for employees",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319S_Victoria",
+            "title": "Specific risk control measures\u2014use of power tool or mechanical plant",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319T_Victoria",
+            "title": "Specific risk control measures\u2014design and installation",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319U_Victoria",
+            "title": "Specific risk control measures\u2014use and maintenance",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319V_Victoria",
+            "title": "Specific risk control measures\u2014respiratory protective equipment",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319W_Victoria",
+            "title": "Specific risk control measures\u2014information, instruction and training",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319X_Victoria",
+            "title": "Specific risk control measures\u2014cleaning",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319Y_Victoria",
+            "title": "Prohibition on work involving engineered stone benchtops, panels or slabs",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319Z_Victoria",
+            "title": "Exceptions for installation",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319ZA_Victoria",
+            "title": "Exceptions for supply",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319ZB_Victoria",
+            "title": "Exceptions for processing",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319ZC_Victoria",
+            "title": "Health monitoring to be conducted by specialist registered medical practitioner",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319ZD_Victoria",
+            "title": "Providing health monitoring reports to the Authority",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          },
+          {
+            "id": "319ZE_Victoria",
+            "title": "Statement of work",
+            "chapter": "Chapter 4_Victoria",
+            "part": "Part 4.5_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 5_Victoria",
+    "title": "Hazardous industries",
+    "parts": {
+      "Part 5.1_Victoria": {
+        "id": "Part 5.1_Victoria",
+        "title": "Construction",
+        "provisions": [
+          {
+            "id": "320_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "321_Victoria",
+            "title": "What is construction work?",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "322_Victoria",
+            "title": "What is high risk construction work?",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "323_Victoria",
+            "title": "What is a structure?",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "324_Victoria",
+            "title": "What is a safe work method statement?",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "325_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "326_Victoria",
+            "title": "Review of risk control measures",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "327_Victoria",
+            "title": "Safe work method statement required for high risk construction work",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "328_Victoria",
+            "title": "Safe work method statement to be reviewed and revised",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "329_Victoria",
+            "title": "Copy of safe work method statement to be kept",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "330_Victoria",
+            "title": "Site-specific training",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "331_Victoria",
+            "title": "Emergency procedures",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "332_Victoria",
+            "title": "Application of Subdivision",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "333_Victoria",
+            "title": "Who is the principal contractor for a construction project?",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "334_Victoria",
+            "title": "Signage of principal contractor",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "335_Victoria",
+            "title": "Health and safety co-ordination plans",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "336_Victoria",
+            "title": "Content of health and safety co-ordination plans",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "337_Victoria",
+            "title": "Health and safety co-ordination plan available for inspection",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "338_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "339_Victoria",
+            "title": "Construction induction training to be provided",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "340_Victoria",
+            "title": "Requirement to hold a current construction induction card",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "341_Victoria",
+            "title": "Employer must not allow a person to perform construction work unless the person holds a current construction induction card",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "342_Victoria",
+            "title": "Exemptions",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "343_Victoria",
+            "title": "Offence to refuse to accept a current construction induction card",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "344_Victoria",
+            "title": "Application for construction induction card",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "345_Victoria",
+            "title": "Authority may refuse to recognise or accept a construction statement of attainment obtained by fraud",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "346_Victoria",
+            "title": "Construction induction card",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "347_Victoria",
+            "title": "Construction induction card to be of unlimited duration",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "348_Victoria",
+            "title": "Destruction, loss and replacement of construction induction cards",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "349_Victoria",
+            "title": "Lapse of construction induction cards",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "350_Victoria",
+            "title": "Authority may cancel construction induction card based on false or misleading information",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "351_Victoria",
+            "title": "Authority may cancel construction induction card on request",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "352_Victoria",
+            "title": "Construction induction card to be kept available",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "353_Victoria",
+            "title": "Changes to information provided",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "354_Victoria",
+            "title": "Application of Division",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          },
+          {
+            "id": "355_Victoria",
+            "title": "Requirement to notify intention to perform construction excavation work",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.1_Victoria"
+          }
+        ]
+      },
+      "Part 5.2_Victoria": {
+        "id": "Part 5.2_Victoria",
+        "title": "Major hazard facilities",
+        "provisions": [
+          {
+            "id": "356_Victoria",
+            "title": "Application of Part",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "357_Victoria",
+            "title": "Schedule 14 materials",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "358_Victoria",
+            "title": "Only licensed or registered major hazard facility to be operated",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "359_Victoria",
+            "title": "Authority may require information",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "360_Victoria",
+            "title": "Operators of certain facilities to notify Authority",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "361_Victoria",
+            "title": "Changes to information provided",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "362_Victoria",
+            "title": "Inquiry before making determination",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "363_Victoria",
+            "title": "Authority may determine facility to be a major hazard facility\u2014notice",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "364_Victoria",
+            "title": "Authority may determine facility to be a major hazard facility\u2014own initiative",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "365_Victoria",
+            "title": "Written notice of determination",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "366_Victoria",
+            "title": "Effect of determination",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "367_Victoria",
+            "title": "Outline of safety case",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "368_Victoria",
+            "title": "Identification of major incidents and major incident hazards",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "369_Victoria",
+            "title": "Safety assessment",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "370_Victoria",
+            "title": "Operator to keep safety assessment available",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "371_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "372_Victoria",
+            "title": "Safety management system",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "373_Victoria",
+            "title": "Operator to keep safety management system available",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "374_Victoria",
+            "title": "Review of safety management system",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "375_Victoria",
+            "title": "Emergency plan",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "376_Victoria",
+            "title": "Emergency plan to be kept and sent to emergency services and municipal councils",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "377_Victoria",
+            "title": "Emergency plan must be tested",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "378_Victoria",
+            "title": "Emergency plan to be put into action if a major incident occurs",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "379_Victoria",
+            "title": "Review by operator",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "380_Victoria",
+            "title": "Safety role for employees",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "381_Victoria",
+            "title": "Risk control measures",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "382_Victoria",
+            "title": "Property protection assessment",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "383_Victoria",
+            "title": "Review of property protection assessment",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "384_Victoria",
+            "title": "Operator to provide safety case",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "385_Victoria",
+            "title": "Content of safety case",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "386_Victoria",
+            "title": "Co-ordination of safety cases",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "387_Victoria",
+            "title": "Review of safety case",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "388_Victoria",
+            "title": "Consultation with employees and health and safety representatives",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "389_Victoria",
+            "title": "Information, instruction and training",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "390_Victoria",
+            "title": "Record of training",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "391_Victoria",
+            "title": "Further information and access to documents",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "392_Victoria",
+            "title": "Response to employee alert at major hazard facility",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "393_Victoria",
+            "title": "Information and instruction to non-employees at the facility",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "394_Victoria",
+            "title": "Information to local community",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "395_Victoria",
+            "title": "Content of information",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "396_Victoria",
+            "title": "Consultation with municipal councils",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "397_Victoria",
+            "title": "Further information on request",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          },
+          {
+            "id": "398_Victoria",
+            "title": "General requirements",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.2_Victoria"
+          }
+        ]
+      },
+      "Part 5.3_Victoria": {
+        "id": "Part 5.3_Victoria",
+        "title": "Mines",
+        "provisions": [
+          {
+            "id": "399_Victoria",
+            "title": "What is a mine?",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "400_Victoria",
+            "title": "What is a mining hazard?",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "401_Victoria",
+            "title": "What is a prescribed mine?",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "402_Victoria",
+            "title": "Inquiry before making determination",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "403_Victoria",
+            "title": "Authority may determine that a mine is a prescribed mine",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "404_Victoria",
+            "title": "Identification of mining hazards and assessment of risk",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "405_Victoria",
+            "title": "Control of risk",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "406_Victoria",
+            "title": "Review by operator of a mine",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "407_Victoria",
+            "title": "Application of this Subdivision",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "408_Victoria",
+            "title": "Who may enter mine",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "409_Victoria",
+            "title": "Alcohol and drugs",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "410_Victoria",
+            "title": "Employee fatigue",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "411_Victoria",
+            "title": "Health monitoring",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "412_Victoria",
+            "title": "Report of health monitoring",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "413_Victoria",
+            "title": "Notice to Authority",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "414_Victoria",
+            "title": "Report provided on person ceasing work at mine",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "415_Victoria",
+            "title": "Communication in the event of an employee working alone",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "416_Victoria",
+            "title": "Communication in respect of shift change-over",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "417_Victoria",
+            "title": "Application of this Subdivision",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "418_Victoria",
+            "title": "Safety management system",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "419_Victoria",
+            "title": "Operator to keep safety management system available",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "420_Victoria",
+            "title": "Review of safety management system",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "421_Victoria",
+            "title": "Safety assessment of major mining hazards",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "422_Victoria",
+            "title": "Operator to keep safety assessment available",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "423_Victoria",
+            "title": "Testing risk control measures for major mining hazards",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "423A_Victoria",
+            "title": "Operators of prescribed mines to notify Authority",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "423B_Victoria",
+            "title": "Changes to information provided\u2014prescribed mines",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "424_Victoria",
+            "title": "Safety role for employees",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "425_Victoria",
+            "title": "Shafts and winding",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "426_Victoria",
+            "title": "Progress of mine workings",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "427_Victoria",
+            "title": "Emergency exit",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "428_Victoria",
+            "title": "Filling",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "429_Victoria",
+            "title": "Working environment",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "430_Victoria",
+            "title": "Ventilation system",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "431_Victoria",
+            "title": "Record of monitoring and testing",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "432_Victoria",
+            "title": "Prohibitions",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "433_Victoria",
+            "title": "Emergency plan",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "434_Victoria",
+            "title": "Emergency plan to be kept and sent to emergency services and municipal councils",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "435_Victoria",
+            "title": "Emergency plan must be tested",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "436_Victoria",
+            "title": "Self-rescue",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "437_Victoria",
+            "title": "Plan of mine",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "438_Victoria",
+            "title": "Plan of mine to be available for inspection",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "439_Victoria",
+            "title": "Consultation with employees and health and safety representatives",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "440_Victoria",
+            "title": "Information about adoption of risk control measure",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "441_Victoria",
+            "title": "Information, instruction and training",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "442_Victoria",
+            "title": "Record of training",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "443_Victoria",
+            "title": "Further information and availability of documents in respect of prescribed mines",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "444_Victoria",
+            "title": "Response to employee alert at prescribed mine",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "445_Victoria",
+            "title": "Information and instruction to non-employees",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "446_Victoria",
+            "title": "Information to job applicants",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "447_Victoria",
+            "title": "General requirements",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          },
+          {
+            "id": "448_Victoria",
+            "title": "Major mining hazards in prescribed mines",
+            "chapter": "Chapter 5_Victoria",
+            "part": "Part 5.3_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 6_Victoria",
+    "title": "Licensing and registration",
+    "parts": {
+      "Part 6.1_Victoria": {
+        "id": "Part 6.1_Victoria",
+        "title": "Licences",
+        "provisions": [
+          {
+            "id": "449_Victoria",
+            "title": "Matters to be included in licence application",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "450_Victoria",
+            "title": "Application fees\u2014high risk work licences",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "451_Victoria",
+            "title": "Application fees\u2014asbestos removal licences",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "452_Victoria",
+            "title": "Matters to be satisfied before licence can be granted",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "453_Victoria",
+            "title": "Time for processing licence application",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "454_Victoria",
+            "title": "Authority may request additional information",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "455_Victoria",
+            "title": "Procedure if the Authority proposes to refuse to grant licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "456_Victoria",
+            "title": "Form of evidence of licence document",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "457_Victoria",
+            "title": "When licence starts and ends",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "458_Victoria",
+            "title": "Additional information to be included in high risk work licence application",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "459_Victoria",
+            "title": "Additional matters to be satisfied before high risk work licence can be granted",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "460_Victoria",
+            "title": "Restriction on who may apply for asbestos removal licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "461_Victoria",
+            "title": "Scope of licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "462_Victoria",
+            "title": "Additional information to be included in asbestos removal licence application",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "463_Victoria",
+            "title": "Additional matters to be satisfied before asbestos removal licence can be granted",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "464_Victoria",
+            "title": "Restriction on who may apply for carcinogens licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "465_Victoria",
+            "title": "Additional information to be included in carcinogens licence application",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "466_Victoria",
+            "title": "Fee to be paid before a carcinogens licence can be granted",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "467_Victoria",
+            "title": "Restriction on who may apply for major hazard facility licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "468_Victoria",
+            "title": "Time limit for applications in relation to a registered major hazard facility",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "469_Victoria",
+            "title": "Additional information to be included in major hazard facility licence application",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "470_Victoria",
+            "title": "Additional matters to be satisfied before major hazard facility licence can be granted",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "471_Victoria",
+            "title": "Additional time limits for notifying applicants",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "472_Victoria",
+            "title": "Fee to be paid before major hazard facility licence can be granted",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "473_Victoria",
+            "title": "Authority may impose terms and conditions on licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "474_Victoria",
+            "title": "Licence holder must comply with terms and conditions",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "475_Victoria",
+            "title": "Changes to information given in relation to a licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "476_Victoria",
+            "title": "Licence holder to keep evidence of licence available",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "477_Victoria",
+            "title": "Replacement of lost, stolen or destroyed licence documents",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "478_Victoria",
+            "title": "Nomination of additional asbestos removal supervisors",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "479_Victoria",
+            "title": "Transfer of a major hazard facility licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "480_Victoria",
+            "title": "Notice of major hazard facility licence details in the Government Gazette",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "481_Victoria",
+            "title": "Additional requirements concerning availability of copy of major hazard facility licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "482_Victoria",
+            "title": "Authority may amend licence unilaterally",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "483_Victoria",
+            "title": "Authority may amend licence at the request of the licence holder",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "484_Victoria",
+            "title": "Evidence of licence document to be returned on request if licence amended",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "485_Victoria",
+            "title": "Application for the renewal of licence (except a high risk work licence)",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "486_Victoria",
+            "title": "Notice of intention to renew or refuse to renew a licence (except a high risk work licence)",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "487_Victoria",
+            "title": "Procedure if the Authority proposes to refuse to renew licence (except a high risk work licence)",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "488_Victoria",
+            "title": "Additional time limits for notifying applicants",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "489_Victoria",
+            "title": "Time in which licence continues to have effect",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "490_Victoria",
+            "title": "Application for the renewal of high risk work licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "491_Victoria",
+            "title": "Combining interstate and Victorian high risk work licences on renewal",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "492_Victoria",
+            "title": "Renewal fees for certain licences",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "493_Victoria",
+            "title": "Fee to be paid before carcinogens licence can be renewed",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "494_Victoria",
+            "title": "Additional information required for the renewal of major hazard facility licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "495_Victoria",
+            "title": "Fee to be paid before major hazard facility licence can be renewed",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "496_Victoria",
+            "title": "Grounds for suspension or cancellation",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "497_Victoria",
+            "title": "Matters that may be taken into account",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "498_Victoria",
+            "title": "Automatic suspension or cancellation of a high risk work licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "499_Victoria",
+            "title": "Process for suspending or cancelling a licence in all other cases",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "500_Victoria",
+            "title": "Extension of date of suspension or cancellation if review sought",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "501_Victoria",
+            "title": "Partial suspension or cancellation of high risk work licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "502_Victoria",
+            "title": "Flow on suspension or cancellation of some classes of high risk work licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "503_Victoria",
+            "title": "Authority may grant alternative asbestos removal licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "504_Victoria",
+            "title": "Inquiry into an interstate high risk work licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "505_Victoria",
+            "title": "Request to suspend or cancel licence",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          },
+          {
+            "id": "506_Victoria",
+            "title": "Evidence of licence document of suspended or cancelled licence must be surrendered on demand",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.1_Victoria"
+          }
+        ]
+      },
+      "Part 6.2_Victoria": {
+        "id": "Part 6.2_Victoria",
+        "title": "Registration",
+        "provisions": [
+          {
+            "id": "507_Victoria",
+            "title": "Application of this Part",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "508_Victoria",
+            "title": "Application for registration of plant design",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "509_Victoria",
+            "title": "Information to be included in application for registration of plant design",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "510_Victoria",
+            "title": "Duties of various persons associated with design verification",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "511_Victoria",
+            "title": "Authority to notify applicant of deferral",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "512_Victoria",
+            "title": "Notice of registration",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "513_Victoria",
+            "title": "Registration to be of unlimited duration",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "514_Victoria",
+            "title": "Eligibility to apply for registration to operate a major hazard facility",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "515_Victoria",
+            "title": "Registration of a major hazard facility",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "516_Victoria",
+            "title": "Notice of registration",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "517_Victoria",
+            "title": "Registration expiry date",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "518_Victoria",
+            "title": "Variation of registration expiry date",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "519_Victoria",
+            "title": "Expiry of registration",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "520_Victoria",
+            "title": "Authority may withdraw registration based on false, misleading or incomplete information",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "521_Victoria",
+            "title": "Authority may withdraw registration on request",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "522_Victoria",
+            "title": "Evidence of registration to be kept available",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          },
+          {
+            "id": "523_Victoria",
+            "title": "Changes to registration information provided",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.2_Victoria"
+          }
+        ]
+      },
+      "Part 6.3_Victoria": {
+        "id": "Part 6.3_Victoria",
+        "title": "Review of decisions",
+        "provisions": [
+          {
+            "id": "524_Victoria",
+            "title": "What is a reviewable decision?",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.3_Victoria"
+          },
+          {
+            "id": "525_Victoria",
+            "title": "What is a process review?",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.3_Victoria"
+          },
+          {
+            "id": "526_Victoria",
+            "title": "Who may apply for a process review",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.3_Victoria"
+          },
+          {
+            "id": "527_Victoria",
+            "title": "Time limits when applying for a process review",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.3_Victoria"
+          },
+          {
+            "id": "528_Victoria",
+            "title": "Review by the Authority",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.3_Victoria"
+          },
+          {
+            "id": "529_Victoria",
+            "title": "Process for new decisions to be started within 7 days",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.3_Victoria"
+          },
+          {
+            "id": "530_Victoria",
+            "title": "Right of Tribunal review",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.3_Victoria"
+          },
+          {
+            "id": "531_Victoria",
+            "title": "Notices of decisions must contain a copy of review rights",
+            "chapter": "Chapter 6_Victoria",
+            "part": "Part 6.3_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 7_Victoria",
+    "title": "Administrative matters and\u00a0exemptions",
+    "parts": {
+      "Part 7.1_Victoria": {
+        "id": "Part 7.1_Victoria",
+        "title": "Administrative matters",
+        "provisions": [
+          {
+            "id": "532_Victoria",
+            "title": "Form and information to be supplied",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.1_Victoria"
+          },
+          {
+            "id": "533_Victoria",
+            "title": "Return of incomplete applications or notices",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.1_Victoria"
+          },
+          {
+            "id": "534_Victoria",
+            "title": "Means of giving written notice",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.1_Victoria"
+          },
+          {
+            "id": "535_Victoria",
+            "title": "Form of submissions to the Authority",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.1_Victoria"
+          },
+          {
+            "id": "536_Victoria",
+            "title": "Information to be included in entry permits",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.1_Victoria"
+          }
+        ]
+      },
+      "Part 7.2_Victoria": {
+        "id": "Part 7.2_Victoria",
+        "title": "Exemptions",
+        "provisions": [
+          {
+            "id": "537_Victoria",
+            "title": "Authority may grant exemptions from these Regulations",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "538_Victoria",
+            "title": "Exemptions in relation to high risk work",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "539_Victoria",
+            "title": "Who may apply for an exemption",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "540_Victoria",
+            "title": "Consultation",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "541_Victoria",
+            "title": "Applications",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "542_Victoria",
+            "title": "Grounds on which an exemption (other than in relation to high risk work) may be granted",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "543_Victoria",
+            "title": "Grounds on which an exemption in relation to high risk work may be granted",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "544_Victoria",
+            "title": "Conditions",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "545_Victoria",
+            "title": "Form and contents of exemptions",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "546_Victoria",
+            "title": "Notice of exemptions to be given to individual applicants",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "547_Victoria",
+            "title": "Notice of exemptions to be published",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "548_Victoria",
+            "title": "Additional obligation on the operator of a mine",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "549_Victoria",
+            "title": "Notice of refusal",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "550_Victoria",
+            "title": "Variation or revocation of exemption",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "551_Victoria",
+            "title": "Exemptions, revocations and variations not to have retrospective effect",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "552_Victoria",
+            "title": "Terms and conditions to be made available",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          },
+          {
+            "id": "553_Victoria",
+            "title": "Fee for considering exemption application",
+            "chapter": "Chapter 7_Victoria",
+            "part": "Part 7.2_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Chapter 7A_Victoria",
+    "title": "Workplace Incidents Consultative Committee",
+    "parts": {},
+    "provisions": [
+      {
+        "id": "553A_Victoria",
+        "title": "Objective of this Chapter",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553B_Victoria",
+        "title": "Definitions",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553C_Victoria",
+        "title": "Membership of the Committee",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553D_Victoria",
+        "title": "Appointment of members who are affected persons",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553E_Victoria",
+        "title": "Terms of appointment and reappointment of members who are affected persons",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553F_Victoria",
+        "title": "Appointment of government co-chairperson",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553G_Victoria",
+        "title": "Provision of expert and technical advice",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553H_Victoria",
+        "title": "Vacancies in Committee membership",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553I_Victoria",
+        "title": "Circumstances for acting non-government co-chairperson",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553J_Victoria",
+        "title": "Appointment of acting government co-chairperson",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553K_Victoria",
+        "title": "Meetings of the Committee",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553L_Victoria",
+        "title": "Committee support",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553M_Victoria",
+        "title": "Duty to declare conflict of interest",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553N_Victoria",
+        "title": "Confidentiality",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      },
+      {
+        "id": "553O_Victoria",
+        "title": "Review of this Chapter's operation",
+        "chapter": "Chapter 7A_Victoria",
+        "part": null
+      }
+    ]
+  },
+  {
+    "id": "Chapter 7B_Victoria",
+    "title": "Enforcement",
+    "parts": {},
+    "provisions": [
+      {
+        "id": "553P_Victoria",
+        "title": "Infringement offences and infringement penalties",
+        "chapter": "Chapter 7B_Victoria",
+        "part": null
+      }
+    ]
+  },
+  {
+    "id": "Chapter 8_Victoria",
+    "title": "Saving and transitional\u00a0provisions",
+    "parts": {
+      "Part 8.1_Victoria": {
+        "id": "Part 8.1_Victoria",
+        "title": "General transitional provisions",
+        "provisions": [
+          {
+            "id": "554_Victoria",
+            "title": "Commencement day",
+            "chapter": "Chapter 8_Victoria",
+            "part": "Part 8.1_Victoria"
+          },
+          {
+            "id": "555_Victoria",
+            "title": "General transitional provisions",
+            "chapter": "Chapter 8_Victoria",
+            "part": "Part 8.1_Victoria"
+          },
+          {
+            "id": "556_Victoria",
+            "title": "Former Regulations",
+            "chapter": "Chapter 8_Victoria",
+            "part": "Part 8.1_Victoria"
+          },
+          {
+            "id": "557_Victoria",
+            "title": "Licence classes for pressure equipment operation",
+            "chapter": "Chapter 8_Victoria",
+            "part": "Part 8.1_Victoria"
+          },
+          {
+            "id": "558_Victoria",
+            "title": "Construction",
+            "chapter": "Chapter 8_Victoria",
+            "part": "Part 8.1_Victoria"
+          },
+          {
+            "id": "559_Victoria",
+            "title": "Major hazard facilities\u201412 months transition period",
+            "chapter": "Chapter 8_Victoria",
+            "part": "Part 8.1_Victoria"
+          },
+          {
+            "id": "560_Victoria",
+            "title": "Major hazard facilities\u2014Other transition periods",
+            "chapter": "Chapter 8_Victoria",
+            "part": "Part 8.1_Victoria"
+          },
+          {
+            "id": "560A_Victoria",
+            "title": "GHS\u201424 months transition period",
+            "chapter": "Chapter 8_Victoria",
+            "part": "Part 8.1_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  }
+]
