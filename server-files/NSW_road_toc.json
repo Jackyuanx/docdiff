@@ -1,0 +1,3325 @@
+[
+  {
+    "id": "Part 1_NSW",
+    "title": "Introductory",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "General",
+        "part": "Part 1_NSW",
+        "provisions": [
+          {
+            "id": "1_NSW",
+            "title": "Name of Rules",
+            "part": "Part 1_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "2_NSW",
+            "title": "Commencement",
+            "part": "Part 1_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "3_NSW",
+            "title": "Objects of these Rules",
+            "part": "Part 1_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Some features of these Rules",
+        "part": "Part 1_NSW",
+        "provisions": [
+          {
+            "id": "4_NSW",
+            "title": "Definitions\u2014the Dictionary etc",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "5_NSW",
+            "title": "Diagrams",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "6_NSW",
+            "title": "Examples",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "7_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "8_NSW",
+            "title": "Notes",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "9_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "10_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "10\u20131_NSW",
+            "title": "NSW rule: determination of criminal responsibility",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "10\u20132_NSW",
+            "title": "NSW rule: penalties and disqualifications for speeding offences",
+            "part": "Part 1_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 2_NSW",
+    "title": "Application of these Rules",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Roads and road related areas",
+        "part": "Part 2_NSW",
+        "provisions": [
+          {
+            "id": "11_NSW",
+            "title": "Rules apply to vehicles and road users on roads and road related areas",
+            "part": "Part 2_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "12_NSW",
+            "title": "What is a road",
+            "part": "Part 2_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "13_NSW",
+            "title": "What is a road related area",
+            "part": "Part 2_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Road users and vehicles",
+        "part": "Part 2_NSW",
+        "provisions": [
+          {
+            "id": "14_NSW",
+            "title": "Road users",
+            "part": "Part 2_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "15_NSW",
+            "title": "What is a vehicle",
+            "part": "Part 2_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "16_NSW",
+            "title": "Who is a driver",
+            "part": "Part 2_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "17_NSW",
+            "title": "Who is a rider",
+            "part": "Part 2_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "18_NSW",
+            "title": "Who is a pedestrian",
+            "part": "Part 2_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "19_NSW",
+            "title": "References to driver includes rider etc",
+            "part": "Part 2_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 3_NSW",
+    "title": "Speed limits",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "20_NSW",
+        "title": "Obeying the speed limit",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "21_NSW",
+        "title": "Speed limit where a speed limit sign applies",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "21\u20131_NSW",
+        "title": "NSW rule: school bus stop zone sign is speed limit sign",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "22_NSW",
+        "title": "Speed limit in a speed limited area",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "23_NSW",
+        "title": "Speed limit in a school zone",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "24_NSW",
+        "title": "Speed limit in a shared zone",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "24\u20131_NSW",
+        "title": "NSW rule: speed limits for learner and provisional licence holders",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "24\u20132_NSW",
+        "title": "NSW rule: speed limit on Lord Howe Island",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "24\u20133_NSW",
+        "title": "NSW rule: speed limit when bus displaying when lights flash speed limit sign",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "24\u20134_NSW",
+        "title": "NSW rule: speed limits for small motor bikes during periods of darkness",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "25_NSW",
+        "title": "Speed limit elsewhere",
+        "part": "Part 3_NSW",
+        "division": null
+      },
+      {
+        "id": "25\u20131_NSW",
+        "title": "NSW rule: drivers to which Part does not apply",
+        "part": "Part 3_NSW",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 4_NSW",
+    "title": "Making turns",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Left turns",
+        "part": "Part 4_NSW",
+        "provisions": [
+          {
+            "id": "26_NSW",
+            "title": "Application of Division to roundabouts, road related areas and adjacent land",
+            "part": "Part 4_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "27_NSW",
+            "title": "Starting a left turn from a road (except a multi-lane road)",
+            "part": "Part 4_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "28_NSW",
+            "title": "Starting a left turn from a multi-lane road",
+            "part": "Part 4_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "29_NSW",
+            "title": "Making a left turn as indicated by a turn line",
+            "part": "Part 4_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Right turns",
+        "part": "Part 4_NSW",
+        "provisions": [
+          {
+            "id": "30_NSW",
+            "title": "Application of Division to certain right turns",
+            "part": "Part 4_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "31_NSW",
+            "title": "Starting a right turn from a road (except a multi-lane road)",
+            "part": "Part 4_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "32_NSW",
+            "title": "Starting a right turn from a multi-lane road",
+            "part": "Part 4_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "33_NSW",
+            "title": "Making a right turn",
+            "part": "Part 4_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Hook turns at intersections",
+        "part": "Part 4_NSW",
+        "provisions": [
+          {
+            "id": "34_NSW",
+            "title": "Making a hook turn at a hook turn only sign",
+            "part": "Part 4_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "35_NSW",
+            "title": "Optional hook turn by a bicycle rider",
+            "part": "Part 4_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "36_NSW",
+            "title": "Bicycle rider making a hook turn contrary to no hook turn by bicycles sign",
+            "part": "Part 4_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      },
+      "Division 4_NSW": {
+        "id": "Division 4_NSW",
+        "title": "U-turns",
+        "part": "Part 4_NSW",
+        "provisions": [
+          {
+            "id": "37_NSW",
+            "title": "Beginning a U-turn",
+            "part": "Part 4_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "38_NSW",
+            "title": "Giving way when making a U-turn",
+            "part": "Part 4_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "39_NSW",
+            "title": "Making a U-turn contrary to a no U-turn sign",
+            "part": "Part 4_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "40_NSW",
+            "title": "Making a U-turn at an intersection with traffic lights",
+            "part": "Part 4_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "41_NSW",
+            "title": "Making a U-turn at an intersection without traffic lights",
+            "part": "Part 4_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "42_NSW",
+            "title": "Starting a U-turn at an intersection",
+            "part": "Part 4_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "43_NSW",
+            "title": "Making a U-turn at certain crossings",
+            "part": "Part 4_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "43A_NSW",
+            "title": "Making a U-turn on a road related area with traffic lights",
+            "part": "Part 4_NSW",
+            "division": "Division 4_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 5_NSW",
+    "title": "Change of direction and stop signals",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Change of direction signals",
+        "part": "Part 5_NSW",
+        "provisions": [
+          {
+            "id": "44_NSW",
+            "title": "Division does not apply to entering or leaving a roundabout, lane filtering or repositioning",
+            "part": "Part 5_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "45_NSW",
+            "title": "What is changing direction",
+            "part": "Part 5_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "46_NSW",
+            "title": "Giving a left change of direction signal",
+            "part": "Part 5_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "47_NSW",
+            "title": "How to give a left change of direction signal",
+            "part": "Part 5_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "48_NSW",
+            "title": "Giving a right change of direction signal",
+            "part": "Part 5_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "49_NSW",
+            "title": "How to give a right change of direction signal",
+            "part": "Part 5_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "50_NSW",
+            "title": "How to give a right change of direction signal by giving a hand signal",
+            "part": "Part 5_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "51_NSW",
+            "title": "When use of direction indicator lights permitted",
+            "part": "Part 5_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Stop signals",
+        "part": "Part 5_NSW",
+        "provisions": [
+          {
+            "id": "52_NSW",
+            "title": "Division does not apply to bicycle riders or certain tram drivers",
+            "part": "Part 5_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "53_NSW",
+            "title": "Giving a stop signal",
+            "part": "Part 5_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "54_NSW",
+            "title": "How to give a stop signal",
+            "part": "Part 5_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "55_NSW",
+            "title": "How to give a stop signal by giving a hand signal",
+            "part": "Part 5_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 6_NSW",
+    "title": "Traffic lights, traffic arrows and twin red lights",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Obeying traffic lights and traffic arrows",
+        "part": "Part 6_NSW",
+        "provisions": [
+          {
+            "id": "56_NSW",
+            "title": "Stopping for a red traffic light or arrow",
+            "part": "Part 6_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "57_NSW",
+            "title": "Stopping for a yellow traffic light or arrow",
+            "part": "Part 6_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "58_NSW",
+            "title": "Exceptions to stopping for a red or yellow traffic light",
+            "part": "Part 6_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "59_NSW",
+            "title": "Proceeding through a red traffic light",
+            "part": "Part 6_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "60_NSW",
+            "title": "Proceeding through a red traffic arrow",
+            "part": "Part 6_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "60A_NSW",
+            "title": "Proceeding through a bicycle storage area before a red traffic light or arrow",
+            "part": "Part 6_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "61_NSW",
+            "title": "Proceeding when traffic lights or arrows at an intersection change to yellow or red",
+            "part": "Part 6_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Giving way at traffic lights and traffic arrows",
+        "part": "Part 6_NSW",
+        "provisions": [
+          {
+            "id": "62_NSW",
+            "title": "Giving way when turning at an intersection with traffic lights",
+            "part": "Part 6_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "63_NSW",
+            "title": "Giving way at an intersection with traffic lights not operating or only partly operating",
+            "part": "Part 6_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "64_NSW",
+            "title": "Giving way at a flashing yellow traffic arrow at an intersection",
+            "part": "Part 6_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "65_NSW",
+            "title": "Giving way at a marked foot crossing (except at an intersection) with a flashing yellow traffic light",
+            "part": "Part 6_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Twin red lights (except at level crossings)",
+        "part": "Part 6_NSW",
+        "provisions": [
+          {
+            "id": "66_NSW",
+            "title": "Stopping for twin red lights (except at level crossings)",
+            "part": "Part 6_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 7_NSW",
+    "title": "Giving way",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Giving way at a stop sign, stop line, give way sign or give way line applying to the driver",
+        "part": "Part 7_NSW",
+        "provisions": [
+          {
+            "id": "67_NSW",
+            "title": "Stopping and giving way at a stop sign or stop line at an intersection without traffic lights",
+            "part": "Part 7_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "68_NSW",
+            "title": "Stopping and giving way at a stop sign or stop line at other places",
+            "part": "Part 7_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "69_NSW",
+            "title": "Giving way at a give way sign or give way line at an intersection (except a roundabout)",
+            "part": "Part 7_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "70_NSW",
+            "title": "Giving way at a give way sign at a bridge or length of narrow road",
+            "part": "Part 7_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "71_NSW",
+            "title": "Giving way at a give way sign or give way line at other places",
+            "part": "Part 7_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Giving way at an intersection without traffic lights or a stop sign, stop line, give way sign or give way line applying to the driver",
+        "part": "Part 7_NSW",
+        "provisions": [
+          {
+            "id": "72_NSW",
+            "title": "Giving way at an intersection (except a T-intersection or roundabout)",
+            "part": "Part 7_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "73_NSW",
+            "title": "Giving way at a T-intersection",
+            "part": "Part 7_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Entering or leaving road related areas and adjacent land",
+        "part": "Part 7_NSW",
+        "provisions": [
+          {
+            "id": "74_NSW",
+            "title": "Giving way when entering a road from a road related area or adjacent land",
+            "part": "Part 7_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "75_NSW",
+            "title": "Giving way when entering a road related area or adjacent land from a road",
+            "part": "Part 7_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      },
+      "Division 4_NSW": {
+        "id": "Division 4_NSW",
+        "title": "Keeping clear of and giving way to particular vehicles",
+        "part": "Part 7_NSW",
+        "provisions": [
+          {
+            "id": "76_NSW",
+            "title": "Keeping clear of trams travelling in tram lanes etc",
+            "part": "Part 7_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "77_NSW",
+            "title": "Giving way to buses",
+            "part": "Part 7_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "78_NSW",
+            "title": "Keeping clear of police and emergency vehicles",
+            "part": "Part 7_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "78\u20131_NSW",
+            "title": "NSW rule: Approaching or passing stationary emergency response vehicles",
+            "part": "Part 7_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "79_NSW",
+            "title": "Giving way to police and emergency vehicles",
+            "part": "Part 7_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "79\u20131_NSW",
+            "title": "NSW rule: interfering or interrupting funeral cortege or authorised procession",
+            "part": "Part 7_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "79\u20132_NSW",
+            "title": "NSW rule: precedence at ferries, punts, bridges or railway crossings",
+            "part": "Part 7_NSW",
+            "division": "Division 4_NSW"
+          }
+        ]
+      },
+      "Division 5_NSW": {
+        "id": "Division 5_NSW",
+        "title": "Crossings and shared zones",
+        "part": "Part 7_NSW",
+        "provisions": [
+          {
+            "id": "80_NSW",
+            "title": "Stopping at a children\u2019s crossing",
+            "part": "Part 7_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "81_NSW",
+            "title": "Giving way at a pedestrian crossing",
+            "part": "Part 7_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "82_NSW",
+            "title": "Overtaking or passing a vehicle at a children\u2019s crossing or pedestrian crossing",
+            "part": "Part 7_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "83_NSW",
+            "title": "Giving way to pedestrians in a shared zone",
+            "part": "Part 7_NSW",
+            "division": "Division 5_NSW"
+          }
+        ]
+      },
+      "Division 6_NSW": {
+        "id": "Division 6_NSW",
+        "title": "Other give way rules",
+        "part": "Part 7_NSW",
+        "provisions": [
+          {
+            "id": "84_NSW",
+            "title": "Giving way when driving through a break in a dividing strip",
+            "part": "Part 7_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "85_NSW",
+            "title": "Giving way on a painted island",
+            "part": "Part 7_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "86_NSW",
+            "title": "Giving way in median turning bays",
+            "part": "Part 7_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "87_NSW",
+            "title": "Giving way when moving from a side of a road or a median strip parking area",
+            "part": "Part 7_NSW",
+            "division": "Division 6_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 8_NSW",
+    "title": "Traffic signs and road markings",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Traffic signs and road markings at intersections and other places",
+        "part": "Part 8_NSW",
+        "provisions": [
+          {
+            "id": "88_NSW",
+            "title": "Left turn signs",
+            "part": "Part 8_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "89_NSW",
+            "title": "Right turn signs",
+            "part": "Part 8_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "90_NSW",
+            "title": "No turns signs",
+            "part": "Part 8_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "91_NSW",
+            "title": "No left turn and no right turn signs",
+            "part": "Part 8_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "92_NSW",
+            "title": "Traffic lane arrows",
+            "part": "Part 8_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Traffic signs and road markings generally",
+        "part": "Part 8_NSW",
+        "provisions": [
+          {
+            "id": "93_NSW",
+            "title": "No overtaking or passing signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "94_NSW",
+            "title": "No overtaking on bridge signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "95_NSW",
+            "title": "Emergency stopping lane only signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "96_NSW",
+            "title": "Keep clear markings",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "97_NSW",
+            "title": "Road access signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "98_NSW",
+            "title": "One-way signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "99_NSW",
+            "title": "Keep left and keep right signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "100_NSW",
+            "title": "No entry signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "101_NSW",
+            "title": "Hand-held stop signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "101A_NSW",
+            "title": "Safety ramp and arrester bed signs",
+            "part": "Part 8_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Signs for trucks, buses and other large vehicles",
+        "part": "Part 8_NSW",
+        "provisions": [
+          {
+            "id": "102_NSW",
+            "title": "Clearance and low clearance signs",
+            "part": "Part 8_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "103_NSW",
+            "title": "Load limit signs",
+            "part": "Part 8_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "104_NSW",
+            "title": "No trucks signs",
+            "part": "Part 8_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "105_NSW",
+            "title": "Trucks must enter signs",
+            "part": "Part 8_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "106_NSW",
+            "title": "No buses signs",
+            "part": "Part 8_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "107_NSW",
+            "title": "Buses must enter signs",
+            "part": "Part 8_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "108_NSW",
+            "title": "Trucks and buses low gear signs",
+            "part": "Part 8_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 9_NSW",
+    "title": "Roundabouts",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "109_NSW",
+        "title": "What is a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "110_NSW",
+        "title": "Meaning of halfway around a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "111_NSW",
+        "title": "Entering a roundabout from a multi-lane road or a road with 2 or more lines of traffic travelling in the same direction",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "112_NSW",
+        "title": "Giving a left change of direction signal when entering a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "113_NSW",
+        "title": "Giving a right change of direction signal when entering a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "114_NSW",
+        "title": "Giving way when entering or driving in a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "115_NSW",
+        "title": "Driving in a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "116_NSW",
+        "title": "Obeying traffic lane arrows when driving in or leaving a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "117_NSW",
+        "title": "Giving a change of direction signal when changing marked lanes or lines of traffic in a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "118_NSW",
+        "title": "Giving a left change of direction signal when leaving a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      },
+      {
+        "id": "119_NSW",
+        "title": "Giving way by the rider of a bicycle or animal to a vehicle leaving a roundabout",
+        "part": "Part 9_NSW",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 10_NSW",
+    "title": "Level crossings",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "120_NSW",
+        "title": "What is a level crossing",
+        "part": "Part 10_NSW",
+        "division": null
+      },
+      {
+        "id": "121_NSW",
+        "title": "Stopping and giving way at a stop sign at a level crossing",
+        "part": "Part 10_NSW",
+        "division": null
+      },
+      {
+        "id": "122_NSW",
+        "title": "Giving way at a give way sign or give way line at a level crossing",
+        "part": "Part 10_NSW",
+        "division": null
+      },
+      {
+        "id": "123_NSW",
+        "title": "Entering a level crossing when a train or tram is approaching etc",
+        "part": "Part 10_NSW",
+        "division": null
+      },
+      {
+        "id": "124_NSW",
+        "title": "Leaving a level crossing",
+        "part": "Part 10_NSW",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 11_NSW",
+    "title": "Keeping left, overtaking and other driving rules",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "General",
+        "part": "Part 11_NSW",
+        "provisions": [
+          {
+            "id": "125_NSW",
+            "title": "Unreasonably obstructing drivers or pedestrians",
+            "part": "Part 11_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "126_NSW",
+            "title": "Keeping a safe distance behind vehicles",
+            "part": "Part 11_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "127_NSW",
+            "title": "Keeping a minimum distance between long vehicles",
+            "part": "Part 11_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "128_NSW",
+            "title": "Entering blocked intersections",
+            "part": "Part 11_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "128A_NSW",
+            "title": "Entering blocked crossings",
+            "part": "Part 11_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Keeping to the left",
+        "part": "Part 11_NSW",
+        "provisions": [
+          {
+            "id": "129_NSW",
+            "title": "Keeping to the far left side of a road",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "130_NSW",
+            "title": "Keeping to the left on a multi-lane road",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "131_NSW",
+            "title": "Keeping to the left of oncoming vehicles",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "132_NSW",
+            "title": "Keeping to the left of the centre of a road or the dividing line",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "133_NSW",
+            "title": "Exceptions to keeping to the left of the centre of a road",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "134_NSW",
+            "title": "Exceptions to keeping to the left of a dividing line",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "135_NSW",
+            "title": "Keeping to the left of a median strip",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "136_NSW",
+            "title": "Driving on a one-way service road",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "137_NSW",
+            "title": "Keeping off a dividing strip",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "138_NSW",
+            "title": "Keeping off a painted island",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "139_NSW",
+            "title": "Exceptions for avoiding obstructions on a road",
+            "part": "Part 11_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Overtaking",
+        "part": "Part 11_NSW",
+        "provisions": [
+          {
+            "id": "140_NSW",
+            "title": "No overtaking unless safe to do so",
+            "part": "Part 11_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "141_NSW",
+            "title": "No overtaking etc to the left of a vehicle",
+            "part": "Part 11_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "142_NSW",
+            "title": "No overtaking to the right of a vehicle turning right etc",
+            "part": "Part 11_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "143_NSW",
+            "title": "Passing or overtaking a vehicle displaying a do not overtake turning vehicle sign",
+            "part": "Part 11_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "144_NSW",
+            "title": "Keeping a safe distance when overtaking",
+            "part": "Part 11_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "144\u20131_NSW",
+            "title": "NSW rule: keeping a safe distance when passing bicycle rider",
+            "part": "Part 11_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "144\u20132_NSW",
+            "title": "NSW rule: exceptions for passing bicycle rider",
+            "part": "Part 11_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "145_NSW",
+            "title": "Driver being overtaken not to increase speed",
+            "part": "Part 11_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      },
+      "Division 4_NSW": {
+        "id": "Division 4_NSW",
+        "title": "Driving in marked lanes or lines of traffic",
+        "part": "Part 11_NSW",
+        "provisions": [
+          {
+            "id": "146_NSW",
+            "title": "Driving within a single marked lane or line of traffic",
+            "part": "Part 11_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "147_NSW",
+            "title": "Moving from one marked lane to another marked lane across a continuous line separating the lanes",
+            "part": "Part 11_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "148_NSW",
+            "title": "Giving way when moving from one marked lane or line of traffic to another marked lane or line of traffic",
+            "part": "Part 11_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "148A_NSW",
+            "title": "Giving way when moving within a single marked lane",
+            "part": "Part 11_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "149_NSW",
+            "title": "Giving way when lines of traffic merge into a single line of traffic",
+            "part": "Part 11_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "150_NSW",
+            "title": "Driving on or across a continuous white edge line",
+            "part": "Part 11_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "151_NSW",
+            "title": "Riding a motor bike or bicycle alongside more than 1 other rider",
+            "part": "Part 11_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "151A_NSW",
+            "title": "Lane filtering between vehicles on a motor bike",
+            "part": "Part 11_NSW",
+            "division": "Division 4_NSW"
+          }
+        ]
+      },
+      "Division 5_NSW": {
+        "id": "Division 5_NSW",
+        "title": "Obeying overhead lane control devices applying to marked lanes",
+        "part": "Part 11_NSW",
+        "provisions": [
+          {
+            "id": "152_NSW",
+            "title": "Complying with overhead lane control devices",
+            "part": "Part 11_NSW",
+            "division": "Division 5_NSW"
+          }
+        ]
+      },
+      "Division 6_NSW": {
+        "id": "Division 6_NSW",
+        "title": "Driving in marked lanes designated for special purposes",
+        "part": "Part 11_NSW",
+        "provisions": [
+          {
+            "id": "153_NSW",
+            "title": "Bicycle lanes",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "154_NSW",
+            "title": "Bus lanes",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "154A_NSW",
+            "title": "Bus only lanes",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "155_NSW",
+            "title": "Tram lanes",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "155A_NSW",
+            "title": "Tramways",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "156_NSW",
+            "title": "Transit lanes",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "157_NSW",
+            "title": "Truck lanes",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "157\u20131_NSW",
+            "title": "NSW rule: T-Way lanes",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "158_NSW",
+            "title": "Exceptions to driving in special purpose lanes etc",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "159_NSW",
+            "title": "Marked lanes required to be used by particular kinds of vehicles",
+            "part": "Part 11_NSW",
+            "division": "Division 6_NSW"
+          }
+        ]
+      },
+      "Division 7_NSW": {
+        "id": "Division 7_NSW",
+        "title": "Passing trams and safety zones",
+        "part": "Part 11_NSW",
+        "provisions": [
+          {
+            "id": "160_NSW",
+            "title": "Passing or overtaking a tram that is not at or near the left side of a road",
+            "part": "Part 11_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "161_NSW",
+            "title": "Passing or overtaking a tram at or near the left side of a road",
+            "part": "Part 11_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "162_NSW",
+            "title": "Driving past a safety zone",
+            "part": "Part 11_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "163_NSW",
+            "title": "Driving past the rear of a stopped tram at a tram stop",
+            "part": "Part 11_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "164_NSW",
+            "title": "Stopping beside a stopped tram at a tram stop",
+            "part": "Part 11_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "164A_NSW",
+            "title": "Staying stopped if a tram comes from behind a stopped driver and stops",
+            "part": "Part 11_NSW",
+            "division": "Division 7_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 12_NSW",
+    "title": "Restrictions on stopping and parking",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "General",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "165_NSW",
+            "title": "Stopping in an emergency etc or to comply with another rule",
+            "part": "Part 12_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "166_NSW",
+            "title": "Application of Part to bicycles",
+            "part": "Part 12_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "No stopping and no parking signs and road markings",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "167_NSW",
+            "title": "No stopping signs",
+            "part": "Part 12_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "167\u20131_NSW",
+            "title": "NSW rule: taxis stopping in Central Sydney Taxi Zone",
+            "part": "Part 12_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "168_NSW",
+            "title": "No parking signs",
+            "part": "Part 12_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "168\u20131_NSW",
+            "title": "NSW rule: restricted parking areas",
+            "part": "Part 12_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "169_NSW",
+            "title": "No stopping on a road with a yellow edge line",
+            "part": "Part 12_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Stopping at intersections and crossings",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "170_NSW",
+            "title": "Stopping in or near an intersection",
+            "part": "Part 12_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "171_NSW",
+            "title": "Stopping on or near a children\u2019s crossing",
+            "part": "Part 12_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "172_NSW",
+            "title": "Stopping on or near a pedestrian crossing (except at an intersection)",
+            "part": "Part 12_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "173_NSW",
+            "title": "Stopping on or near a marked foot crossing (except at an intersection)",
+            "part": "Part 12_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "174_NSW",
+            "title": "Stopping on or near a bicycle crossing (except at an intersection)",
+            "part": "Part 12_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "175_NSW",
+            "title": "Stopping on or near a level crossing",
+            "part": "Part 12_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      },
+      "Division 4_NSW": {
+        "id": "Division 4_NSW",
+        "title": "Stopping on clearways and freeways and in emergency stopping lanes",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "176_NSW",
+            "title": "Stopping on a clearway",
+            "part": "Part 12_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "176\u20131_NSW",
+            "title": "NSW rule: stopping next to clearway (no stopping) line",
+            "part": "Part 12_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "177_NSW",
+            "title": "Stopping on a freeway",
+            "part": "Part 12_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "178_NSW",
+            "title": "Stopping in an emergency stopping lane",
+            "part": "Part 12_NSW",
+            "division": "Division 4_NSW"
+          }
+        ]
+      },
+      "Division 5_NSW": {
+        "id": "Division 5_NSW",
+        "title": "Stopping in zones for particular vehicles",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "179_NSW",
+            "title": "Stopping in a loading zone",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "179\u20131_NSW",
+            "title": "NSW rule: stopping in controlled loading zone",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "180_NSW",
+            "title": "Stopping in a truck zone",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "181_NSW",
+            "title": "Stopping in a works zone",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "182_NSW",
+            "title": "Stopping in a taxi zone",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "183_NSW",
+            "title": "Stopping in a bus zone",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "184_NSW",
+            "title": "Stopping in a minibus zone",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "185_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          },
+          {
+            "id": "186_NSW",
+            "title": "Stopping in a mail zone",
+            "part": "Part 12_NSW",
+            "division": "Division 5_NSW"
+          }
+        ]
+      },
+      "Division 6_NSW": {
+        "id": "Division 6_NSW",
+        "title": "Other places where stopping is restricted",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "187_NSW",
+            "title": "Stopping in a bicycle lane, bus lane, bus only lane, tram lane, tramway, transit lane, truck lane or on tram tracks",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "188_NSW",
+            "title": "Stopping in a shared zone",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "189_NSW",
+            "title": "Double parking",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "190_NSW",
+            "title": "Stopping in or near a safety zone",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "191_NSW",
+            "title": "Stopping near an obstruction",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "192_NSW",
+            "title": "Stopping on a bridge or in a tunnel etc",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "193_NSW",
+            "title": "Stopping on a crest or curve outside a built-up area",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "194_NSW",
+            "title": "Stopping near a fire hydrant etc",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "195_NSW",
+            "title": "Stopping at or near a bus stop",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "196_NSW",
+            "title": "Stopping at or near a tram stop",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "197_NSW",
+            "title": "Stopping on a path, dividing strip, nature strip, painted island or traffic island",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "198_NSW",
+            "title": "Obstructing access to and from a footpath, driveway etc",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "199_NSW",
+            "title": "Stopping near a postbox",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "200_NSW",
+            "title": "Stopping on roads\u2014heavy and long vehicles",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "201_NSW",
+            "title": "Stopping on a road with bicycle parking sign",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "202_NSW",
+            "title": "Stopping on a road with motor bike parking sign",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "203_NSW",
+            "title": "Stopping in a parking area for people with disabilities",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "203A_NSW",
+            "title": "Stopping in a slip lane",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "203B_NSW",
+            "title": "Stopping in a parking area for electric-powered vehicles",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          },
+          {
+            "id": "203C_NSW",
+            "title": "Stopping in a parking area for the charging of electric-powered vehicles",
+            "part": "Part 12_NSW",
+            "division": "Division 6_NSW"
+          }
+        ]
+      },
+      "Division 7_NSW": {
+        "id": "Division 7_NSW",
+        "title": "Permissive parking signs and parking fees",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "204_NSW",
+            "title": "Meaning of certain information on or with permissive parking signs",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "205_NSW",
+            "title": "Parking for longer than indicated",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "205A_NSW",
+            "title": "Parking outside times indicated",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "205A\u20131_NSW",
+            "title": "NSW rule: parking in special event parking areas",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "206_NSW",
+            "title": "Time extension for people with disabilities",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "207_NSW",
+            "title": "Parking where fees are payable",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "207\u20131\u2013207\u20136_NSW",
+            "title": "(Repealed)",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "207\u20137_NSW",
+            "title": "NSW rule: parking in temporarily closed pay parking areas and spaces",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          },
+          {
+            "id": "207\u20138, 207\u20139_NSW",
+            "title": "(Repealed)",
+            "part": "Part 12_NSW",
+            "division": "Division 7_NSW"
+          }
+        ]
+      },
+      "Division 8_NSW": {
+        "id": "Division 8_NSW",
+        "title": "Parallel parking",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "208_NSW",
+            "title": "Parallel parking on a road (except in a median strip parking area)",
+            "part": "Part 12_NSW",
+            "division": "Division 8_NSW"
+          },
+          {
+            "id": "208A_NSW",
+            "title": "Parallel parking in a road related area (except in a median strip parking area)",
+            "part": "Part 12_NSW",
+            "division": "Division 8_NSW"
+          },
+          {
+            "id": "209_NSW",
+            "title": "Parallel parking in a median strip parking area",
+            "part": "Part 12_NSW",
+            "division": "Division 8_NSW"
+          }
+        ]
+      },
+      "Division 9_NSW": {
+        "id": "Division 9_NSW",
+        "title": "Angle parking",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "210_NSW",
+            "title": "Angle parking",
+            "part": "Part 12_NSW",
+            "division": "Division 9_NSW"
+          }
+        ]
+      },
+      "Division 10_NSW": {
+        "id": "Division 10_NSW",
+        "title": "Other parking related rules",
+        "part": "Part 12_NSW",
+        "provisions": [
+          {
+            "id": "211_NSW",
+            "title": "Parking in parking bays",
+            "part": "Part 12_NSW",
+            "division": "Division 10_NSW"
+          },
+          {
+            "id": "212_NSW",
+            "title": "Entering and leaving a median strip parking area",
+            "part": "Part 12_NSW",
+            "division": "Division 10_NSW"
+          },
+          {
+            "id": "213_NSW",
+            "title": "Making a motor vehicle secure",
+            "part": "Part 12_NSW",
+            "division": "Division 10_NSW"
+          },
+          {
+            "id": "213\u20131_NSW",
+            "title": "NSW rule: exemption orders for rule 213",
+            "part": "Part 12_NSW",
+            "division": "Division 10_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 13_NSW",
+    "title": "Lights and warning devices",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Lights on vehicles (except bicycles, animals and animal- drawn vehicles)",
+        "part": "Part 13_NSW",
+        "provisions": [
+          {
+            "id": "214_NSW",
+            "title": "Division does not apply to riders of bicycles, animals or animal-drawn vehicles",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "214\u20131_NSW",
+            "title": "NSW rule: interpretation",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "215_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "215\u20131_NSW",
+            "title": "NSW rule: using lights when driving in dark",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "216_NSW",
+            "title": "Towing a vehicle at night or in hazardous weather conditions",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "217_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "218_NSW",
+            "title": "Using headlights on high-beam",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "218\u20131_NSW",
+            "title": "NSW rule: using lights on vehicles generally",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "219_NSW",
+            "title": "Lights not to be used to dazzle other road users",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "220_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "220\u20131_NSW",
+            "title": "NSW rule: using lights on stationary vehicles",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "221_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "221\u20131_NSW",
+            "title": "NSW rule: using crimson flashing warning lights on certain local council vehicles",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "221\u20132_NSW",
+            "title": "NSW rule: using flashing warning lights on street vending vehicles",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "222_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "222\u20131_NSW",
+            "title": "NSW rule: using four-way flashers on school buses",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "222\u20132_NSW",
+            "title": "NSW rule: using warning systems for buses carrying school children",
+            "part": "Part 13_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Lights on animal-drawn vehicles",
+        "part": "Part 13_NSW",
+        "provisions": [
+          {
+            "id": "223_NSW",
+            "title": "Using lights when riding an animal-drawn vehicle at night or in hazardous weather conditions",
+            "part": "Part 13_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Horns and radar detectors",
+        "part": "Part 13_NSW",
+        "provisions": [
+          {
+            "id": "224_NSW",
+            "title": "Using horns and similar warning devices",
+            "part": "Part 13_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "225_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 13_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      },
+      "Division 4_NSW": {
+        "id": "Division 4_NSW",
+        "title": "Portable warning triangles for heavy vehicles",
+        "part": "Part 13_NSW",
+        "provisions": [
+          {
+            "id": "226_NSW",
+            "title": "Heavy vehicles to be equipped with portable warning triangles",
+            "part": "Part 13_NSW",
+            "division": "Division 4_NSW"
+          },
+          {
+            "id": "227_NSW",
+            "title": "Using portable warning triangles",
+            "part": "Part 13_NSW",
+            "division": "Division 4_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 14_NSW",
+    "title": "Rules for pedestrians",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "General",
+        "part": "Part 14_NSW",
+        "provisions": [
+          {
+            "id": "228\u20131_NSW",
+            "title": "NSW Rule: pedestrians on electric skateboards",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "228_NSW",
+            "title": "No pedestrians signs",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "229_NSW",
+            "title": "Pedestrians on a road with a road access sign",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "229\u20131_NSW",
+            "title": "NSW Rule: exemption from prohibition on pedestrians being on a road with a road access sign",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "230_NSW",
+            "title": "Crossing a road\u2014general",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "231_NSW",
+            "title": "Crossing a road at pedestrian lights",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "232_NSW",
+            "title": "Crossing a road at traffic lights",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "233_NSW",
+            "title": "Crossing a road to or from a tram",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "234_NSW",
+            "title": "Crossing a road on or near a crossing for pedestrians",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "235_NSW",
+            "title": "Crossing a level crossing",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "235A_NSW",
+            "title": "Crossing a pedestrian level crossing that has a red pedestrian light",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "236_NSW",
+            "title": "Pedestrians not to cause a traffic hazard or obstruction",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "237_NSW",
+            "title": "Getting on or into a moving vehicle",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "238_NSW",
+            "title": "Pedestrians travelling along a road (except in or on a wheeled recreational device or toy)",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "239_NSW",
+            "title": "Pedestrians on a bicycle path or separated footpath",
+            "part": "Part 14_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Rules for persons travelling in or on wheeled recreational devices and wheeled toys",
+        "part": "Part 14_NSW",
+        "provisions": [
+          {
+            "id": "240A_NSW",
+            "title": "No wheeled recreational devices or toys sign",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "240_NSW",
+            "title": "Wheeled recreational devices and toys not to be used on certain roads",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "241_NSW",
+            "title": "Travelling in or on a wheeled recreational device or toy on a road",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "242_NSW",
+            "title": "Travelling in or on a wheeled recreational device or toy on a footpath or shared path",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "243_NSW",
+            "title": "Travelling on rollerblades etc on a bicycle path or separated footpath",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "244_NSW",
+            "title": "Wheeled recreational devices or wheeled toys being towed etc",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "244A_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "244B_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "244C_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 14_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 15_NSW",
+    "title": "Additional rules for bicycle riders",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "245_NSW",
+        "title": "Riding a bicycle",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "245\u20131_NSW",
+        "title": "NSW rule: riding a bicycle negligently, furiously or recklessly",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "246_NSW",
+        "title": "Carrying people on a bicycle",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "247_NSW",
+        "title": "Riding in a bicycle lane on a road",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "247A_NSW",
+        "title": "Entering a bicycle storage area",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "247B_NSW",
+        "title": "Giving way while entering or in a bicycle storage area",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "248_NSW",
+        "title": "No riding across a road on a crossing",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "249_NSW",
+        "title": "Riding on a separated footpath",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "250_NSW",
+        "title": "Riding on a footpath or shared path",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "250\u20131_NSW",
+        "title": "NSW rule: children under 16 years not to ride on certain footpaths",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "251_NSW",
+        "title": "Riding to the left of oncoming bicycle riders on a path",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "252_NSW",
+        "title": "No bicycles signs and markings",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "253_NSW",
+        "title": "Bicycle riders not to cause a traffic hazard",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "254_NSW",
+        "title": "Bicycles being towed etc",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "255_NSW",
+        "title": "Riding too close to the rear of a motor vehicle",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "256_NSW",
+        "title": "Bicycle helmets",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "257_NSW",
+        "title": "Riding with a person on a bicycle trailer",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "258_NSW",
+        "title": "Equipment on a bicycle",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "259_NSW",
+        "title": "Riding at night",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "260_NSW",
+        "title": "Stopping for a red bicycle crossing light",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "261_NSW",
+        "title": "Stopping for a yellow bicycle crossing light",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "262_NSW",
+        "title": "Proceeding when bicycle crossing at an intersection or another place on road",
+        "part": "Part 15_NSW",
+        "division": null
+      },
+      {
+        "id": "262A_NSW",
+        "title": "(Repealed)",
+        "part": "Part 15_NSW",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 15\u20131_NSW",
+    "title": "Additional rules for electric scooter riders",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "General prohibition on electric scooters",
+        "part": "Part 15\u20131_NSW",
+        "provisions": [
+          {
+            "id": "262\u20131_NSW",
+            "title": "NSW rule: Electric scooter use on roads prohibited",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "262\u20132_NSW",
+            "title": "NSW rule: Exemption to prohibition",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Use of electric scooters",
+        "part": "Part 15\u20131_NSW",
+        "provisions": [
+          {
+            "id": "262\u20133_NSW",
+            "title": "NSW rule: Application of Rules to electric scooters",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u20134_NSW",
+            "title": "NSW rule: Riding on footpaths prohibited",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u20135_NSW",
+            "title": "NSW rule: Electric scooters not to be used on certain roads",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u20136_NSW",
+            "title": "NSW rule: Electric scooter must ride single-file on roads",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u20137_NSW",
+            "title": "NSW rule: Riding electric scooters on bicycle paths, separated footpaths and shared paths..313",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u20138_NSW",
+            "title": "NSW rule: Speed limits",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u20139_NSW",
+            "title": "NSW rule: Wearing of bicycle helmets",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u201310_NSW",
+            "title": "NSW rule: Minimum age of electric scooter riders",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u201311_NSW",
+            "title": "NSW rule: Carrying people or animals prohibited",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u201312_NSW",
+            "title": "NSW rule: Equipment on an electric scooter",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u201313_NSW",
+            "title": "NSW rule: No sharp protrusions",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u201314_NSW",
+            "title": "NSW rule: Disapplied or modified provisions",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "262\u201315_NSW",
+            "title": "NSW rule: Repeal of trial provisions",
+            "part": "Part 15\u20131_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 16_NSW",
+    "title": "Rules for persons travelling in or on vehicles",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "263_NSW",
+        "title": "Application of Part to persons in or on trams",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "264_NSW",
+        "title": "Wearing of seatbelts by drivers",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "264\u20131_NSW",
+        "title": "NSW rule: drivers must ensure passengers comply with seatbelt requirements",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "264\u20132_NSW",
+        "title": "NSW rule: medical exemption\u2014passenger less than 16 years of age",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "265_NSW",
+        "title": "Wearing of seatbelts by passengers 16 years old or older",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "266_NSW",
+        "title": "Wearing of seatbelts by passengers under 16 years old",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "267_NSW",
+        "title": "Exemptions from wearing seatbelts",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "267\u20131_NSW",
+        "title": "NSW rule: restraint of drivers who are holders of learner licences or provisional P1 or P2 licences and their passengers",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "267\u20132_NSW",
+        "title": "(Repealed)",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "268_NSW",
+        "title": "How persons must travel in or on a motor vehicle",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "268\u20131_NSW",
+        "title": "NSW rule: exemptions from rule 268",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "268\u20132_NSW",
+        "title": "NSW rule: persons must not travel in or on boots",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "268\u20133_NSW",
+        "title": "NSW rule: how persons must travel in or on trailers",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "269_NSW",
+        "title": "Opening doors and getting out of a vehicle etc",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "270_NSW",
+        "title": "Wearing motor bike helmets",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "271_NSW",
+        "title": "Riding on motor bikes",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "271\u20131_NSW",
+        "title": "NSW rule: passengers on motor bikes not permitted unless rider holds licence for at least 12 months",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "271\u20132_NSW",
+        "title": "NSW rule: children under 16 years travelling in or on car-based motor tricycles",
+        "part": "Part 16_NSW",
+        "division": null
+      },
+      {
+        "id": "272_NSW",
+        "title": "Interfering with the driver\u2019s control of the vehicle etc",
+        "part": "Part 16_NSW",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 17_NSW",
+    "title": "Additional rules for drivers of trams, tram recovery vehicles and public buses",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Trams",
+        "part": "Part 17_NSW",
+        "provisions": [
+          {
+            "id": "273_NSW",
+            "title": "Division applies to tram recovery vehicles and public buses travelling along tram tracks where B lights do not apply",
+            "part": "Part 17_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "274_NSW",
+            "title": "Stopping for a red T light",
+            "part": "Part 17_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "275_NSW",
+            "title": "Stopping for a yellow T light",
+            "part": "Part 17_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "276_NSW",
+            "title": "Exception to stopping for a red or yellow T light",
+            "part": "Part 17_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "277_NSW",
+            "title": "Proceeding after stopping for a red or yellow T light",
+            "part": "Part 17_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "278_NSW",
+            "title": "Proceeding when a red traffic light and a white T light or white traffic arrow is showing",
+            "part": "Part 17_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "279_NSW",
+            "title": "Proceeding when a white T light or white traffic arrow is no longer showing",
+            "part": "Part 17_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Public buses",
+        "part": "Part 17_NSW",
+        "provisions": [
+          {
+            "id": "280_NSW",
+            "title": "Application of Division",
+            "part": "Part 17_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "281_NSW",
+            "title": "Stopping for a red B light",
+            "part": "Part 17_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "282_NSW",
+            "title": "Stopping for a yellow B light",
+            "part": "Part 17_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "283_NSW",
+            "title": "Exception to stopping for a red or yellow B light",
+            "part": "Part 17_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "284_NSW",
+            "title": "Proceeding after stopping for a red or yellow B light",
+            "part": "Part 17_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "285_NSW",
+            "title": "Proceeding when a red traffic light and a white B light or white traffic arrow is showing",
+            "part": "Part 17_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "286_NSW",
+            "title": "Proceeding when a white B light or white traffic arrow is no longer showing",
+            "part": "Part 17_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 18_NSW",
+    "title": "Miscellaneous road rules",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "Miscellaneous rules for drivers",
+        "part": "Part 18_NSW",
+        "provisions": [
+          {
+            "id": "287_NSW",
+            "title": "Duties of a driver involved in a crash",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "288_NSW",
+            "title": "Driving on a path",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "289_NSW",
+            "title": "Driving on a nature strip",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "290_NSW",
+            "title": "Driving on a traffic island",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "291_NSW",
+            "title": "Making unnecessary noise or smoke",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "291\u20131_NSW",
+            "title": "NSW rule: engine of stationary vehicle to be switched off to prevent noise",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "291\u20132_NSW",
+            "title": "NSW rule: use of vehicle that drops waste oil or grease",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "291\u20133_NSW",
+            "title": "(Repealed)",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "292_NSW",
+            "title": "Insecure or overhanging load",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "292A_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "293_NSW",
+            "title": "Removing fallen etc things from the road",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "294_NSW",
+            "title": "Keeping control of a vehicle being towed",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "294\u20131_NSW",
+            "title": "NSW rule: number of vehicles that may be towed together",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "294\u20132_NSW",
+            "title": "NSW rule: towing by vehicles under 4.5 tonnes",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "294\u20133_NSW",
+            "title": "NSW rule: towing restrictions generally",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "294\u20134_NSW",
+            "title": "NSW rule: special provisions relating to boat trailers",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "295_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "296_NSW",
+            "title": "Driving a vehicle in reverse",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "297_NSW",
+            "title": "Driver to have proper control of a vehicle etc",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "298_NSW",
+            "title": "Driving with a person in a trailer",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "298\u20131_NSW",
+            "title": "NSW rule: drinking while driving",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "299_NSW",
+            "title": "Television receivers and visual display units in vehicles",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "300_NSW",
+            "title": "Use of mobile phones",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "300\u20131_NSW",
+            "title": "NSW rule: use of mobile phones by drivers who are holders of learner or provisional P1 or P2 licences",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "300\u20132_NSW",
+            "title": "NSW rule: carriage of dangerous goods in prohibited areas",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "300\u20133_NSW",
+            "title": "NSW rule: driving lengthy vehicles in central Sydney and on certain other roads",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "300\u20134_NSW",
+            "title": "NSW rule: school bus signs for school buses",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "300\u20135_NSW",
+            "title": "NSW rule: driver to carry licence while driving motor vehicle",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "300A_NSW",
+            "title": "Australian Road Rule not reproduced",
+            "part": "Part 18_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Rules for people in charge of animals",
+        "part": "Part 18_NSW",
+        "provisions": [
+          {
+            "id": "301_NSW",
+            "title": "Leading an animal while in or on a vehicle",
+            "part": "Part 18_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "302_NSW",
+            "title": "Rider of an animal on a footpath or nature strip to give way to pedestrians",
+            "part": "Part 18_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "303_NSW",
+            "title": "Riding an animal alongside more than 1 other rider",
+            "part": "Part 18_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Obeying directions",
+        "part": "Part 18_NSW",
+        "provisions": [
+          {
+            "id": "304_NSW",
+            "title": "Direction by a police officer or authorised person",
+            "part": "Part 18_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 19_NSW",
+    "title": "Exemptions",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "305_NSW",
+        "title": "Exemption for drivers of police vehicles",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "306_NSW",
+        "title": "Exemption for drivers of emergency vehicles",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "307_NSW",
+        "title": "Stopping and parking exemption for police and emergency vehicles and authorised persons",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "307\u20131_NSW",
+        "title": "NSW rule: exemption for drivers conducting traffic enforcement operations",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "307\u20132_NSW",
+        "title": "NSW rule: exemption for drivers of motor breakdown service vehicles or tow trucks",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "307\u20133_NSW",
+        "title": "NSW rule: Exemption for relevant government officer",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "307\u20134_NSW",
+        "title": "NSW rule: exemption for Surf Rescue drivers",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "308_NSW",
+        "title": "Exemption for police officers and emergency workers on foot",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "308\u20131_NSW",
+        "title": "NSW rule: exemption for officer of National Heavy Vehicle Regulator",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "309_NSW",
+        "title": "Exemption for drivers of trams etc",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "310_NSW",
+        "title": "Exemption for road workers etc",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "311_NSW",
+        "title": "Exemption for oversize vehicles",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "312_NSW",
+        "title": "Exemption for tow truck drivers",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "313_NSW",
+        "title": "Exemption for postal vehicles",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "313\u20131_NSW",
+        "title": "NSW rule: exemptions for cash in transit vehicle drivers and escort vehicle drivers",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "313\u20132_NSW",
+        "title": "(Repealed)",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "313A_NSW",
+        "title": "Exemption for garbage truck drivers etc",
+        "part": "Part 19_NSW",
+        "division": null
+      },
+      {
+        "id": "313B_NSW",
+        "title": "Australian Road Rule not reproduced",
+        "part": "Part 19_NSW",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 20_NSW",
+    "title": "Traffic control devices and traffic-related items",
+    "divisions": {
+      "Division 1_NSW": {
+        "id": "Division 1_NSW",
+        "title": "General",
+        "part": "Part 20_NSW",
+        "provisions": [
+          {
+            "id": "314_NSW",
+            "title": "Diagrams of traffic control devices, traffic-related items and symbols",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "315_NSW",
+            "title": "Legal effect of traffic control devices mentioned in these Rules",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "316_NSW",
+            "title": "When do traffic control devices comply substantially with these Rules",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "316\u20131_NSW",
+            "title": "NSW rule: minimum sizes for do not overtake turning vehicle signs and give way to buses signs",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "316\u20132_NSW",
+            "title": "NSW rule: do not overtake turning vehicle signs to be used only on vehicles 7.5 metres long or longer",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "317_NSW",
+            "title": "Information on or with traffic control devices",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "318_NSW",
+            "title": "Limited effect of certain traffic control devices",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "319_NSW",
+            "title": "Legal effect of traffic-related items mentioned in these Rules",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "320_NSW",
+            "title": "When do traffic-related items comply substantially with these Rules",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "321_NSW",
+            "title": "Meaning of information on or with traffic control devices and traffic-related items",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "322_NSW",
+            "title": "References to traffic control devices and traffic-related items on a road etc",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "323_NSW",
+            "title": "References to lights that are traffic signals",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          },
+          {
+            "id": "323A_NSW",
+            "title": "Audible lines",
+            "part": "Part 20_NSW",
+            "division": "Division 1_NSW"
+          }
+        ]
+      },
+      "Division 2_NSW": {
+        "id": "Division 2_NSW",
+        "title": "Application of traffic control devices to lengths of roads and areas",
+        "part": "Part 20_NSW",
+        "provisions": [
+          {
+            "id": "324_NSW",
+            "title": "Purpose of Division",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "325_NSW",
+            "title": "References to traffic control devices\u2014application to lengths of road and areas",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "326_NSW",
+            "title": "When do traffic control devices apply to a length of road or area\u2014the basic rules",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "327_NSW",
+            "title": "Length of road to which a traffic sign (except a parking control sign) applies",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "328_NSW",
+            "title": "References to a traffic control device applying to a length of road",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "329_NSW",
+            "title": "Traffic control devices applying to a marked lane",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "330_NSW",
+            "title": "Traffic control devices applying to a slip lane",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "331_NSW",
+            "title": "Traffic control devices applying to an intersection",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "332_NSW",
+            "title": "Parking control signs applying to a length of road",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "333_NSW",
+            "title": "Parking control signs applying to a length of road in an area to which another parking control sign applies etc",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "334_NSW",
+            "title": "How parking control signs apply to a length of road",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "335_NSW",
+            "title": "Traffic control devices applying to an area",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          },
+          {
+            "id": "336_NSW",
+            "title": "How separated footpath signs and separated footpath road markings apply",
+            "part": "Part 20_NSW",
+            "division": "Division 2_NSW"
+          }
+        ]
+      },
+      "Division 3_NSW": {
+        "id": "Division 3_NSW",
+        "title": "Application of traffic control devices to persons",
+        "part": "Part 20_NSW",
+        "provisions": [
+          {
+            "id": "337_NSW",
+            "title": "Purpose of Division",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "338_NSW",
+            "title": "References to traffic control devices\u2014application to persons",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "339_NSW",
+            "title": "When do traffic control devices apply to a person\u2014the basic rules",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "340_NSW",
+            "title": "Traffic control devices (except road markings and parking control signs)",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "341_NSW",
+            "title": "Road markings",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "342_NSW",
+            "title": "Traffic signs (except parking control signs) applying to a length of road",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "343_NSW",
+            "title": "Traffic signs (except parking control signs) applying to an area",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "344_NSW",
+            "title": "Traffic control devices applying to a driver in a marked lane",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "345_NSW",
+            "title": "Traffic control devices applying to a driver in a slip lane",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          },
+          {
+            "id": "346_NSW",
+            "title": "Parking control signs",
+            "part": "Part 20_NSW",
+            "division": "Division 3_NSW"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 21_NSW",
+    "title": "General",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "347_NSW",
+        "title": "Meaning of abbreviations and symbols",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "348_NSW",
+        "title": "References to a driver doing something etc",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "349_NSW",
+        "title": "References to certain kinds of roads",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "350_NSW",
+        "title": "References to stopping or parking on a length of road etc",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "351_NSW",
+        "title": "References to left and right",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "352_NSW",
+        "title": "References to stopping as near as practicable to a place",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "353_NSW",
+        "title": "References to pedestrians crossing a road",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "353\u20131_NSW",
+        "title": "NSW rule: amendment, repeal etc of approvals and other matters under these Rules",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "353\u20132_NSW",
+        "title": "NSW rule: repeal of Road Rules 2008",
+        "part": "Part 21_NSW",
+        "division": null
+      },
+      {
+        "id": "353\u20133_NSW",
+        "title": "NSW rule: savings",
+        "part": "Part 21_NSW",
+        "division": null
+      }
+    ]
+  }
+]
