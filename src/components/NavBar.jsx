@@ -11,13 +11,19 @@ export default function Navbar() {
             to="/"
             className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
           >
-            Regulations
+            WHS Regulations
           </Link>
           <Link
             to="/climate"
             className="px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700 transition"
           >
             Climate
+          </Link>
+          <Link
+            to="/road"
+            className="px-4 py-2 bg-yellow-600 text-white rounded hover:bg-yellow-700 transition"
+          >
+            Road Regulations
           </Link>
         </div>
       </div>

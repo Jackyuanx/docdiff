@@ -1,0 +1,3277 @@
+[
+  {
+    "id": "Part 1_Victoria",
+    "title": "Introductory",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "General",
+        "part": "Part 1_Victoria",
+        "provisions": [
+          {
+            "id": "1_Victoria",
+            "title": "Objectives",
+            "part": "Part 1_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "1A_Victoria",
+            "title": "Authorising provision",
+            "part": "Part 1_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "2_Victoria",
+            "title": "Commencement",
+            "part": "Part 1_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "3_Victoria",
+            "title": "Revocations",
+            "part": "Part 1_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Some features of these Rules",
+        "part": "Part 1_Victoria",
+        "provisions": [
+          {
+            "id": "4_Victoria",
+            "title": "Definitions",
+            "part": "Part 1_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "5_Victoria",
+            "title": "Diagrams",
+            "part": "Part 1_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "6_Victoria",
+            "title": "Examples",
+            "part": "Part 1_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "7_Victoria",
+            "title": "Headings",
+            "part": "Part 1_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "8_Victoria",
+            "title": "Notes",
+            "part": "Part 1_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "9_Victoria",
+            "title": "Reader's Guide",
+            "part": "Part 1_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "10_Victoria",
+            "title": "Offences",
+            "part": "Part 1_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 2_Victoria",
+    "title": "Application of Rules",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Roads and road related areas",
+        "part": "Part 2_Victoria",
+        "provisions": [
+          {
+            "id": "11_Victoria",
+            "title": "Rules apply to vehicles and road users on roads and road related areas",
+            "part": "Part 2_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "12_Victoria",
+            "title": "What is a road",
+            "part": "Part 2_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "13_Victoria",
+            "title": "What is a road related area",
+            "part": "Part 2_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Road users and vehicles",
+        "part": "Part 2_Victoria",
+        "provisions": [
+          {
+            "id": "14_Victoria",
+            "title": "Road users",
+            "part": "Part 2_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "15_Victoria",
+            "title": "What is a vehicle",
+            "part": "Part 2_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "16_Victoria",
+            "title": "Who is a driver",
+            "part": "Part 2_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "17_Victoria",
+            "title": "Who is a rider",
+            "part": "Part 2_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "18_Victoria",
+            "title": "Who is a pedestrian",
+            "part": "Part 2_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "19_Victoria",
+            "title": "References to driver includes rider etc.",
+            "part": "Part 2_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 3_Victoria",
+    "title": "Speed-limits",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "20_Victoria",
+        "title": "Obeying the speed-limit",
+        "part": "Part 3_Victoria",
+        "division": null
+      },
+      {
+        "id": "21_Victoria",
+        "title": "Speed-limit where a speed-limit sign applies",
+        "part": "Part 3_Victoria",
+        "division": null
+      },
+      {
+        "id": "22_Victoria",
+        "title": "Speed-limit in a speed-limited area",
+        "part": "Part 3_Victoria",
+        "division": null
+      },
+      {
+        "id": "23_Victoria",
+        "title": "Speed-limit in a school zone",
+        "part": "Part 3_Victoria",
+        "division": null
+      },
+      {
+        "id": "24_Victoria",
+        "title": "Speed-limit in a shared zone",
+        "part": "Part 3_Victoria",
+        "division": null
+      },
+      {
+        "id": "25_Victoria",
+        "title": "Speed-limit elsewhere",
+        "part": "Part 3_Victoria",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 4_Victoria",
+    "title": "Making turns",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Left turns at intersections",
+        "part": "Part 4_Victoria",
+        "provisions": [
+          {
+            "id": "26_Victoria",
+            "title": "Application of Division to roundabouts, road related areas and adjacent land",
+            "part": "Part 4_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "27_Victoria",
+            "title": "Starting a left turn from a road (except a multi-lane road)",
+            "part": "Part 4_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "28_Victoria",
+            "title": "Starting a left turn from a multi-lane road",
+            "part": "Part 4_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "29_Victoria",
+            "title": "Making a left turn as indicated by a road marking",
+            "part": "Part 4_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Right turns (except hook turns) at\u00a0intersections",
+        "part": "Part 4_Victoria",
+        "provisions": [
+          {
+            "id": "30_Victoria",
+            "title": "Division does not apply to certain turns",
+            "part": "Part 4_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "31_Victoria",
+            "title": "Starting a right turn from a road (except a multi-lane road)",
+            "part": "Part 4_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "32_Victoria",
+            "title": "Starting a right turn from a multi-lane road",
+            "part": "Part 4_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "33_Victoria",
+            "title": "Making a right turn",
+            "part": "Part 4_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Hook turns at intersections",
+        "part": "Part 4_Victoria",
+        "provisions": [
+          {
+            "id": "34_Victoria",
+            "title": "Making a hook turn at a hook turn only sign",
+            "part": "Part 4_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "35_Victoria",
+            "title": "Optional hook turn by a rider of a bicycle or an electric scooter",
+            "part": "Part 4_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "36_Victoria",
+            "title": "Rider of bicycle or electric scooter making a hook turn contrary to no hook turn by bicycles sign",
+            "part": "Part 4_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      },
+      "Division 4_Victoria": {
+        "id": "Division 4_Victoria",
+        "title": "U-turns",
+        "part": "Part 4_Victoria",
+        "provisions": [
+          {
+            "id": "37_Victoria",
+            "title": "Beginning a U-turn",
+            "part": "Part 4_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "38_Victoria",
+            "title": "Giving way when making a U-turn",
+            "part": "Part 4_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "39_Victoria",
+            "title": "Making a U-turn contrary to a no U-turn sign",
+            "part": "Part 4_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "40_Victoria",
+            "title": "Making a U-turn at an intersection with traffic lights",
+            "part": "Part 4_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "41_Victoria",
+            "title": "Making a U-turn at an intersection without traffic lights",
+            "part": "Part 4_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "42_Victoria",
+            "title": "Starting a U-turn at an intersection",
+            "part": "Part 4_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "43_Victoria",
+            "title": "Making a U-turn at certain crossings",
+            "part": "Part 4_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "43A_Victoria",
+            "title": "Making a U-turn on a road related area with traffic lights",
+            "part": "Part 4_Victoria",
+            "division": "Division 4_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 5_Victoria",
+    "title": "Change of direction and stop signals",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Change of direction signals",
+        "part": "Part 5_Victoria",
+        "provisions": [
+          {
+            "id": "44_Victoria",
+            "title": "Division does not apply to entering or leaving a roundabout or lane filtering or repositioning",
+            "part": "Part 5_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "45_Victoria",
+            "title": "What is changing direction",
+            "part": "Part 5_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "46_Victoria",
+            "title": "Giving a left change of direction signal",
+            "part": "Part 5_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "47_Victoria",
+            "title": "How to give a left change of direction signal",
+            "part": "Part 5_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "48_Victoria",
+            "title": "Giving a right change of direction signal",
+            "part": "Part 5_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "49_Victoria",
+            "title": "How to give a right change of direction signal",
+            "part": "Part 5_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "50_Victoria",
+            "title": "How to give a right change of direction signal by giving a hand signal",
+            "part": "Part 5_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "51_Victoria",
+            "title": "When use of direction indicator lights permitted",
+            "part": "Part 5_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Stop signals",
+        "part": "Part 5_Victoria",
+        "provisions": [
+          {
+            "id": "52_Victoria",
+            "title": "Division does not apply to riders of bicycles or electric scooters or certain tram drivers",
+            "part": "Part 5_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "53_Victoria",
+            "title": "Giving a stop signal",
+            "part": "Part 5_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "54_Victoria",
+            "title": "How to give a stop signal",
+            "part": "Part 5_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "55_Victoria",
+            "title": "How to give a stop signal by giving a hand signal",
+            "part": "Part 5_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 6_Victoria",
+    "title": "Traffic lights and twin red lights",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Obeying traffic lights",
+        "part": "Part 6_Victoria",
+        "provisions": [
+          {
+            "id": "56_Victoria",
+            "title": "Stopping for a red traffic light or arrow",
+            "part": "Part 6_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "57_Victoria",
+            "title": "Stopping for a yellow traffic light or arrow",
+            "part": "Part 6_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "58_Victoria",
+            "title": "Exceptions to stopping for a red or yellow traffic light",
+            "part": "Part 6_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "59_Victoria",
+            "title": "Proceeding through a red traffic light",
+            "part": "Part 6_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "60_Victoria",
+            "title": "Proceeding through a red traffic arrow",
+            "part": "Part 6_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "60A_Victoria",
+            "title": "Proceeding through a bicycle storage area before a red traffic light or arrow",
+            "part": "Part 6_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "61_Victoria",
+            "title": "Proceeding when traffic lights or arrows at an intersection change to yellow or red",
+            "part": "Part 6_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Giving way at traffic lights",
+        "part": "Part 6_Victoria",
+        "provisions": [
+          {
+            "id": "62_Victoria",
+            "title": "Giving way when turning at an intersection with traffic lights",
+            "part": "Part 6_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "63_Victoria",
+            "title": "Giving way at an intersection with traffic lights not operating or only partly operating",
+            "part": "Part 6_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "64_Victoria",
+            "title": "Giving way at a flashing yellow traffic arrow at an intersection",
+            "part": "Part 6_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "65_Victoria",
+            "title": "Giving way at a marked foot crossing (except at an intersection) with a flashing yellow traffic light",
+            "part": "Part 6_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Twin red lights (except at level\u00a0crossings)",
+        "part": "Part 6_Victoria",
+        "provisions": [
+          {
+            "id": "66_Victoria",
+            "title": "Stopping for twin red lights (except at level crossings)",
+            "part": "Part 6_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 7_Victoria",
+    "title": "Giving way",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Giving way at a stop sign, stop line, give way sign or give way line applying to the driver",
+        "part": "Part 7_Victoria",
+        "provisions": [
+          {
+            "id": "67_Victoria",
+            "title": "Stopping and giving way at a stop sign or stop line at an intersection without traffic lights",
+            "part": "Part 7_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "68_Victoria",
+            "title": "Stopping and giving way at a stop sign or stop line at other places",
+            "part": "Part 7_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "69_Victoria",
+            "title": "Giving way at a give way sign or give way line at an intersection (except a roundabout)",
+            "part": "Part 7_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "70_Victoria",
+            "title": "Giving way at a give way sign at a bridge or length of narrow road",
+            "part": "Part 7_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "71_Victoria",
+            "title": "Giving way at a give way sign or give way line at other places",
+            "part": "Part 7_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Giving way at an intersection without traffic\u00a0lights or a stop sign, stop line, give way sign or\u00a0give\u00a0way line applying to the driver",
+        "part": "Part 7_Victoria",
+        "provisions": [
+          {
+            "id": "72_Victoria",
+            "title": "Giving way at an intersection (except a T-intersection or roundabout)",
+            "part": "Part 7_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "73_Victoria",
+            "title": "Giving way at a T-intersection",
+            "part": "Part 7_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Entering or leaving road related areas\u00a0and\u00a0adjacent land",
+        "part": "Part 7_Victoria",
+        "provisions": [
+          {
+            "id": "74_Victoria",
+            "title": "Giving way when entering a road from a road related area or adjacent land",
+            "part": "Part 7_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "75_Victoria",
+            "title": "Giving way when entering a road related area or adjacent land from a road",
+            "part": "Part 7_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      },
+      "Division 4_Victoria": {
+        "id": "Division 4_Victoria",
+        "title": "Keeping clear of and giving way to\u00a0particular\u00a0vehicles",
+        "part": "Part 7_Victoria",
+        "provisions": [
+          {
+            "id": "76_Victoria",
+            "title": "Keeping clear of trams travelling in tram lanes etc.",
+            "part": "Part 7_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "77_Victoria",
+            "title": "Giving way to buses",
+            "part": "Part 7_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "77A_Victoria",
+            "title": "Interfering with or interrupting funeral procession",
+            "part": "Part 7_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "78_Victoria",
+            "title": "Keeping clear of police vehicles, emergency vehicles, enforcement vehicles and escort vehicles",
+            "part": "Part 7_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "79_Victoria",
+            "title": "Giving way to police vehicles, emergency vehicles, enforcement vehicles and escort vehicles",
+            "part": "Part 7_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "79A_Victoria",
+            "title": "Approaching and passing stationary or slow-moving police vehicles, emergency vehicles, enforcement vehicles, escort vehicles, incident response service vehicles and roadside assistance vehicles",
+            "part": "Part 7_Victoria",
+            "division": "Division 4_Victoria"
+          }
+        ]
+      },
+      "Division 5_Victoria": {
+        "id": "Division 5_Victoria",
+        "title": "Crossing and shared zones",
+        "part": "Part 7_Victoria",
+        "provisions": [
+          {
+            "id": "80_Victoria",
+            "title": "Stopping at a children's crossing",
+            "part": "Part 7_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "81_Victoria",
+            "title": "Giving way at a pedestrian crossing",
+            "part": "Part 7_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "82_Victoria",
+            "title": "Overtaking or passing a vehicle at a children's crossing or pedestrian crossing",
+            "part": "Part 7_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "83_Victoria",
+            "title": "Giving way to pedestrians in a shared zone",
+            "part": "Part 7_Victoria",
+            "division": "Division 5_Victoria"
+          }
+        ]
+      },
+      "Division 6_Victoria": {
+        "id": "Division 6_Victoria",
+        "title": "Other give way rules",
+        "part": "Part 7_Victoria",
+        "provisions": [
+          {
+            "id": "84_Victoria",
+            "title": "Giving way when driving through a break in a dividing strip",
+            "part": "Part 7_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "85_Victoria",
+            "title": "Giving way on a painted island",
+            "part": "Part 7_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "86_Victoria",
+            "title": "Giving way in median turning bays",
+            "part": "Part 7_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "87_Victoria",
+            "title": "Giving way when moving from a side or shoulder of the road or a median strip parking area",
+            "part": "Part 7_Victoria",
+            "division": "Division 6_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 8_Victoria",
+    "title": "Traffic signs and road markings",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Traffic signs and road markings at intersections\u00a0and other places",
+        "part": "Part 8_Victoria",
+        "provisions": [
+          {
+            "id": "88_Victoria",
+            "title": "Left turn signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "89_Victoria",
+            "title": "Right turn signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "90_Victoria",
+            "title": "No turns signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "91_Victoria",
+            "title": "No left turn and no right turn signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "92_Victoria",
+            "title": "Traffic lane arrows",
+            "part": "Part 8_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Traffic signs and road markings\u00a0generally",
+        "part": "Part 8_Victoria",
+        "provisions": [
+          {
+            "id": "93_Victoria",
+            "title": "No overtaking or passing signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "94_Victoria",
+            "title": "No overtaking on bridge signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "95_Victoria",
+            "title": "Emergency stopping lane only signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "96_Victoria",
+            "title": "Keep clear markings",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "97_Victoria",
+            "title": "Road access signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "98_Victoria",
+            "title": "One-way signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "99_Victoria",
+            "title": "Keep left and keep right signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "100_Victoria",
+            "title": "No entry signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "101_Victoria",
+            "title": "Hand-held stop signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "101A_Victoria",
+            "title": "Safety ramp and arrester bed signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Signs for trucks, buses and other large vehicles",
+        "part": "Part 8_Victoria",
+        "provisions": [
+          {
+            "id": "102_Victoria",
+            "title": "Clearance and low clearance signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "103_Victoria",
+            "title": "Load limit signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "104_Victoria",
+            "title": "No trucks signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "105_Victoria",
+            "title": "Trucks must enter signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "106_Victoria",
+            "title": "No buses signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "107_Victoria",
+            "title": "Buses must enter signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "108_Victoria",
+            "title": "Trucks and buses low gear signs",
+            "part": "Part 8_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 9_Victoria",
+    "title": "Roundabouts",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "109_Victoria",
+        "title": "What is a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "110_Victoria",
+        "title": "Meaning of halfway around a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "111_Victoria",
+        "title": "Entering a roundabout from a multi-lane road or a road with 2 or more lines of traffic travelling in the same direction",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "112_Victoria",
+        "title": "Giving a left change of direction signal when entering a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "113_Victoria",
+        "title": "Giving a right change of direction signal when entering a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "114_Victoria",
+        "title": "Giving way when entering or driving in a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "115_Victoria",
+        "title": "Driving in a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "116_Victoria",
+        "title": "Obeying traffic lane arrows when driving in or leaving a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "117_Victoria",
+        "title": "Giving a change of direction signal when changing marked lanes or lines of traffic in a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "118_Victoria",
+        "title": "Giving a left change of direction signal when leaving a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      },
+      {
+        "id": "119_Victoria",
+        "title": "Giving way by the rider of a bicycle, an electric scooter or animal to a vehicle leaving a roundabout",
+        "part": "Part 9_Victoria",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 10_Victoria",
+    "title": "Level crossings",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "120_Victoria",
+        "title": "What is a level crossing",
+        "part": "Part 10_Victoria",
+        "division": null
+      },
+      {
+        "id": "121_Victoria",
+        "title": "Stopping and giving way at a stop sign at a level crossing",
+        "part": "Part 10_Victoria",
+        "division": null
+      },
+      {
+        "id": "122_Victoria",
+        "title": "Giving way at a give way sign or give way line at a level crossing",
+        "part": "Part 10_Victoria",
+        "division": null
+      },
+      {
+        "id": "123_Victoria",
+        "title": "Entering a level crossing when a train or tram is approaching etc.",
+        "part": "Part 10_Victoria",
+        "division": null
+      },
+      {
+        "id": "124_Victoria",
+        "title": "Leaving a level crossing",
+        "part": "Part 10_Victoria",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 11_Victoria",
+    "title": "Keeping left, overtaking and\u00a0other\u00a0driving rules",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "General",
+        "part": "Part 11_Victoria",
+        "provisions": [
+          {
+            "id": "125_Victoria",
+            "title": "Unreasonably obstructing drivers or pedestrians",
+            "part": "Part 11_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "126_Victoria",
+            "title": "Keeping a safe distance behind vehicles",
+            "part": "Part 11_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "127_Victoria",
+            "title": "Keeping a minimum distance between long vehicles",
+            "part": "Part 11_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "128_Victoria",
+            "title": "Entering blocked intersections",
+            "part": "Part 11_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "128A_Victoria",
+            "title": "Entering blocked crossings",
+            "part": "Part 11_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Keeping to the left",
+        "part": "Part 11_Victoria",
+        "provisions": [
+          {
+            "id": "129_Victoria",
+            "title": "Keeping to the far left side of a road",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "130_Victoria",
+            "title": "Keeping to the left on a multi-lane road",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "131_Victoria",
+            "title": "Keeping to the left of oncoming vehicles",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "132_Victoria",
+            "title": "Keeping to the left of the centre of a road or the dividing line",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "133_Victoria",
+            "title": "Exceptions to keeping to the left of the centre of a road",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "134_Victoria",
+            "title": "Exceptions to keeping to the left of a dividing line",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "135_Victoria",
+            "title": "Keeping to the left of a median strip",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "136_Victoria",
+            "title": "Driving on a one-way service road",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "137_Victoria",
+            "title": "Keeping off a dividing strip",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "138_Victoria",
+            "title": "Keeping off a painted island",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "139_Victoria",
+            "title": "Exceptions for avoiding obstructions on a road",
+            "part": "Part 11_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Overtaking",
+        "part": "Part 11_Victoria",
+        "provisions": [
+          {
+            "id": "140_Victoria",
+            "title": "No overtaking unless safe to do so",
+            "part": "Part 11_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "141_Victoria",
+            "title": "No overtaking etc. to the left of a vehicle",
+            "part": "Part 11_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "142_Victoria",
+            "title": "No overtaking to the right of a vehicle turning right\u00a0etc.",
+            "part": "Part 11_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "143_Victoria",
+            "title": "Passing or overtaking a vehicle displaying a do not overtake turning vehicle sign",
+            "part": "Part 11_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "144_Victoria",
+            "title": "Keeping a safe distance when overtaking",
+            "part": "Part 11_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "144A_Victoria",
+            "title": "Keeping a sufficient distance when passing to the right side of a bicycle or an electric scooter",
+            "part": "Part 11_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "145_Victoria",
+            "title": "Driver being overtaken not to increase speed",
+            "part": "Part 11_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      },
+      "Division 4_Victoria": {
+        "id": "Division 4_Victoria",
+        "title": "Driving in marked lanes or\u00a0lines\u00a0of\u00a0traffic",
+        "part": "Part 11_Victoria",
+        "provisions": [
+          {
+            "id": "146_Victoria",
+            "title": "Driving within a single marked lane or line of traffic",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "147_Victoria",
+            "title": "Moving from one marked lane to another marked lane across a continuous line separating the lanes",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "148_Victoria",
+            "title": "Giving way when moving from one marked lane or line of traffic to another marked lane or line of traffic",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "148A_Victoria",
+            "title": "Giving way when moving within a single marked lane",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "149_Victoria",
+            "title": "Giving way when lines of traffic merge into a single line of traffic",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "150_Victoria",
+            "title": "Driving on or across a continuous white edge line",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "151_Victoria",
+            "title": "Riding a motor bike or bicycle alongside more than one\u00a0other rider",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "151A_Victoria",
+            "title": "Lane filtering at excessive speed",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "151B_Victoria",
+            "title": "Circumstances in which a motor cycle rider may engage in lane filtering",
+            "part": "Part 11_Victoria",
+            "division": "Division 4_Victoria"
+          }
+        ]
+      },
+      "Division 5_Victoria": {
+        "id": "Division 5_Victoria",
+        "title": "Obeying overhead lane control devices\u00a0applying\u00a0to marked lanes",
+        "part": "Part 11_Victoria",
+        "provisions": [
+          {
+            "id": "152_Victoria",
+            "title": "Complying with overhead lane control devices",
+            "part": "Part 11_Victoria",
+            "division": "Division 5_Victoria"
+          }
+        ]
+      },
+      "Division 6_Victoria": {
+        "id": "Division 6_Victoria",
+        "title": "Driving in marked lanes designated for special purposes",
+        "part": "Part 11_Victoria",
+        "provisions": [
+          {
+            "id": "153_Victoria",
+            "title": "Bicycle lanes",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "154_Victoria",
+            "title": "Bus lanes",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "154A_Victoria",
+            "title": "Bus only lanes",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "155_Victoria",
+            "title": "Tram lanes",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "155A_Victoria",
+            "title": "Tramways",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "156_Victoria",
+            "title": "Transit lanes",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "157_Victoria",
+            "title": "Truck lanes",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "158_Victoria",
+            "title": "Exceptions to driving in special purpose lanes etc.",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "159_Victoria",
+            "title": "Marked lanes required to be used by particular kinds of vehicles",
+            "part": "Part 11_Victoria",
+            "division": "Division 6_Victoria"
+          }
+        ]
+      },
+      "Division 7_Victoria": {
+        "id": "Division 7_Victoria",
+        "title": "Passing trams and safety zones",
+        "part": "Part 11_Victoria",
+        "provisions": [
+          {
+            "id": "160_Victoria",
+            "title": "Passing or overtaking a tram that is not at or near the left side of a road",
+            "part": "Part 11_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "161_Victoria",
+            "title": "Passing or overtaking a tram at or near the left side of a road",
+            "part": "Part 11_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "162_Victoria",
+            "title": "Driving past a safety zone",
+            "part": "Part 11_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "163_Victoria",
+            "title": "Driving past the rear of a stopped tram at a tram stop",
+            "part": "Part 11_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "164_Victoria",
+            "title": "Stopping beside a stopped tram at a tram stop",
+            "part": "Part 11_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "164A_Victoria",
+            "title": "Tram stopping beside a driver at a tram stop",
+            "part": "Part 11_Victoria",
+            "division": "Division 7_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 12_Victoria",
+    "title": "Restrictions on stopping and\u00a0parking",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "General",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "165_Victoria",
+            "title": "Stopping in an emergency etc. or to comply with another rule",
+            "part": "Part 12_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "166_Victoria",
+            "title": "Application of Part to bicycles",
+            "part": "Part 12_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "No stopping and no parking signs and\u00a0road\u00a0markings",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "167_Victoria",
+            "title": "No stopping signs",
+            "part": "Part 12_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "168_Victoria",
+            "title": "No parking signs",
+            "part": "Part 12_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "169_Victoria",
+            "title": "No stopping on a road with a yellow edge line",
+            "part": "Part 12_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Stopping at intersections and crossing",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "170_Victoria",
+            "title": "Stopping in or near an intersection",
+            "part": "Part 12_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "171_Victoria",
+            "title": "Stopping on or near a children's crossing",
+            "part": "Part 12_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "172_Victoria",
+            "title": "Stopping on or near a pedestrian crossing (except at an intersection)",
+            "part": "Part 12_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "173_Victoria",
+            "title": "Stopping on or near a marked foot crossing (except\u00a0at an intersection)",
+            "part": "Part 12_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "174_Victoria",
+            "title": "Stopping on or near a bicycle crossing (except\u00a0at an intersection)",
+            "part": "Part 12_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "175_Victoria",
+            "title": "Stopping on or near a level crossing",
+            "part": "Part 12_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      },
+      "Division 4_Victoria": {
+        "id": "Division 4_Victoria",
+        "title": "Stopping on clearways and freeways and\u00a0in\u00a0emergency stopping lanes",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "176_Victoria",
+            "title": "Stopping on a clearway",
+            "part": "Part 12_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "177_Victoria",
+            "title": "Stopping on a freeway",
+            "part": "Part 12_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "178_Victoria",
+            "title": "Stopping in an emergency stopping lane",
+            "part": "Part 12_Victoria",
+            "division": "Division 4_Victoria"
+          }
+        ]
+      },
+      "Division 5_Victoria": {
+        "id": "Division 5_Victoria",
+        "title": "Stopping in zones for particular\u00a0vehicles",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "179_Victoria",
+            "title": "Stopping in a loading zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "180_Victoria",
+            "title": "Stopping in a truck zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "181_Victoria",
+            "title": "Stopping in a works zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "182_Victoria",
+            "title": "Stopping in a taxi zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "183_Victoria",
+            "title": "Stopping in a bus zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "184_Victoria",
+            "title": "Stopping in a minibus zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "185_Victoria",
+            "title": "Stopping in a permit zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 5_Victoria"
+          },
+          {
+            "id": "186_Victoria",
+            "title": "Stopping in a mail zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 5_Victoria"
+          }
+        ]
+      },
+      "Division 6_Victoria": {
+        "id": "Division 6_Victoria",
+        "title": "Other places where stopping\u00a0is\u00a0restricted",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "187_Victoria",
+            "title": "Stopping in a bus lane, bus only lane, tram lane, tramway, transit lane, truck lane or on tram tracks",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "188_Victoria",
+            "title": "Stopping in a shared zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "189_Victoria",
+            "title": "Double parking",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "190_Victoria",
+            "title": "Stopping in or near a safety zone",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "191_Victoria",
+            "title": "Stopping near an obstruction",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "192_Victoria",
+            "title": "Stopping on a bridge or in a tunnel etc.",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "193_Victoria",
+            "title": "Stopping on a crest or curve outside a built-up area",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "194_Victoria",
+            "title": "Stopping near a fire hydrant etc.",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "195_Victoria",
+            "title": "Stopping at or near a bus stop",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "196_Victoria",
+            "title": "Stopping at or near a tram stop",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "197_Victoria",
+            "title": "Stopping on a path, dividing strip, nature strip, painted island or traffic island",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "198_Victoria",
+            "title": "Obstructing access to and from a footpath, driveway\u00a0etc.",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "199_Victoria",
+            "title": "Stopping near a postbox",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "200_Victoria",
+            "title": "Stopping on roads\u2014heavy and long vehicles",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "201_Victoria",
+            "title": "Stopping on a road with a bicycle parking sign",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "202_Victoria",
+            "title": "Stopping on a road with a motor bike parking sign",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "203_Victoria",
+            "title": "Stopping in a parking area for people with disabilities",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "203A_Victoria",
+            "title": "Stopping in a slip lane",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "203B_Victoria",
+            "title": "Stopping in a parking area for electric-powered vehicles",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          },
+          {
+            "id": "203C_Victoria",
+            "title": "Stopping in a parking area for the charging of electric-powered vehicles",
+            "part": "Part 12_Victoria",
+            "division": "Division 6_Victoria"
+          }
+        ]
+      },
+      "Division 7_Victoria": {
+        "id": "Division 7_Victoria",
+        "title": "Permissive parking signs and parking\u00a0fees",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "204_Victoria",
+            "title": "Meaning of certain information on or with permissive parking signs",
+            "part": "Part 12_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "205_Victoria",
+            "title": "Parking for longer than indicated",
+            "part": "Part 12_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "205A_Victoria",
+            "title": "Parking outside times indicated",
+            "part": "Part 12_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "206_Victoria",
+            "title": "Time extension for people with disabilities",
+            "part": "Part 12_Victoria",
+            "division": "Division 7_Victoria"
+          },
+          {
+            "id": "207_Victoria",
+            "title": "Parking where fees are payable",
+            "part": "Part 12_Victoria",
+            "division": "Division 7_Victoria"
+          }
+        ]
+      },
+      "Division 8_Victoria": {
+        "id": "Division 8_Victoria",
+        "title": "Parallel parking",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "208_Victoria",
+            "title": "Parallel parking on a road (except in a median strip parking area)",
+            "part": "Part 12_Victoria",
+            "division": "Division 8_Victoria"
+          },
+          {
+            "id": "208A_Victoria",
+            "title": "Parallel parking in a road related area (except in a median strip parking area)",
+            "part": "Part 12_Victoria",
+            "division": "Division 8_Victoria"
+          },
+          {
+            "id": "209_Victoria",
+            "title": "Parallel parking in a median strip parking area",
+            "part": "Part 12_Victoria",
+            "division": "Division 8_Victoria"
+          }
+        ]
+      },
+      "Division 9_Victoria": {
+        "id": "Division 9_Victoria",
+        "title": "Angle parking",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "210_Victoria",
+            "title": "Angle parking",
+            "part": "Part 12_Victoria",
+            "division": "Division 9_Victoria"
+          }
+        ]
+      },
+      "Division 10_Victoria": {
+        "id": "Division 10_Victoria",
+        "title": "Other parking related rules",
+        "part": "Part 12_Victoria",
+        "provisions": [
+          {
+            "id": "211_Victoria",
+            "title": "Parking in parking bays",
+            "part": "Part 12_Victoria",
+            "division": "Division 10_Victoria"
+          },
+          {
+            "id": "212_Victoria",
+            "title": "Entering and leaving a median strip parking area",
+            "part": "Part 12_Victoria",
+            "division": "Division 10_Victoria"
+          },
+          {
+            "id": "213_Victoria",
+            "title": "Making a motor vehicle secure",
+            "part": "Part 12_Victoria",
+            "division": "Division 10_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 13_Victoria",
+    "title": "Lights and warning devices",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Lights on vehicles (except bicycles, electric\u00a0scooters, animals and animal-drawn vehicles)",
+        "part": "Part 13_Victoria",
+        "provisions": [
+          {
+            "id": "214_Victoria",
+            "title": "Division does not apply to riders of bicycles, electric\u00a0scooters, animals or animal-drawn vehicles",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "215_Victoria",
+            "title": "Using lights when driving at night or in hazardous weather conditions",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "216_Victoria",
+            "title": "Towing a vehicle at night or in hazardous weather conditions",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "217_Victoria",
+            "title": "Using fog lights",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "218_Victoria",
+            "title": "Using headlights on high-beam",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "219_Victoria",
+            "title": "Lights not to be used to dazzle other road users",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "220_Victoria",
+            "title": "Using lights on vehicles that are stopped",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "221_Victoria",
+            "title": "Using hazard warning lights",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "222_Victoria",
+            "title": "Using warning lights on buses carrying children",
+            "part": "Part 13_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Lights on animal-drawn vehicles",
+        "part": "Part 13_Victoria",
+        "provisions": [
+          {
+            "id": "223_Victoria",
+            "title": "Using lights when riding an animal-drawn vehicle at night or in hazardous weather conditions",
+            "part": "Part 13_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Horns and radar detectors",
+        "part": "Part 13_Victoria",
+        "provisions": [
+          {
+            "id": "224_Victoria",
+            "title": "Using horns and similar warning devices",
+            "part": "Part 13_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "225_Victoria",
+            "title": "Using radar detectors and similar devices",
+            "part": "Part 13_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      },
+      "Division 4_Victoria": {
+        "id": "Division 4_Victoria",
+        "title": "Portable warning triangles for heavy\u00a0vehicles",
+        "part": "Part 13_Victoria",
+        "provisions": [
+          {
+            "id": "226_Victoria",
+            "title": "Heavy vehicles to be equipped with portable warning triangles",
+            "part": "Part 13_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "227_Victoria",
+            "title": "Using portable warning triangles",
+            "part": "Part 13_Victoria",
+            "division": "Division 4_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 14_Victoria",
+    "title": "Rules for pedestrians",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "General",
+        "part": "Part 14_Victoria",
+        "provisions": [
+          {
+            "id": "228_Victoria",
+            "title": "No pedestrians signs",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "229_Victoria",
+            "title": "Pedestrians on a road with a road access sign",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "230_Victoria",
+            "title": "Crossing a road\u2014general",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "231_Victoria",
+            "title": "Crossing a road at pedestrian lights",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "232_Victoria",
+            "title": "Crossing a road at traffic lights",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "233_Victoria",
+            "title": "Crossing a road to or from a tram",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "234_Victoria",
+            "title": "Crossing a road on or near a crossing for pedestrians",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "235_Victoria",
+            "title": "Crossing a level crossing",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "235A_Victoria",
+            "title": "Crossing a pedestrian level crossing that has a red pedestrian light",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "236_Victoria",
+            "title": "Pedestrians not to cause a traffic hazard or obstruction",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "237_Victoria",
+            "title": "Getting on or into a moving vehicle",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "238_Victoria",
+            "title": "Pedestrians travelling along a road (except while travelling on an electric personal transporter or in or on a wheeled recreational device or toy)",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "239_Victoria",
+            "title": "Pedestrians on a bicycle path or separated footpath",
+            "part": "Part 14_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Rules for persons travelling in or on wheeled recreational devices and wheeled toys",
+        "part": "Part 14_Victoria",
+        "provisions": [
+          {
+            "id": "240_Victoria",
+            "title": "Wheeled recreational devices and toys not to be used on certain roads",
+            "part": "Part 14_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "240A_Victoria",
+            "title": "No wheeled recreational devices or toys sign",
+            "part": "Part 14_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "241_Victoria",
+            "title": "Travelling in or on a wheeled recreational device or toy on a road",
+            "part": "Part 14_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "242_Victoria",
+            "title": "Travelling in or on a wheeled recreational device or toy on a footpath or shared path",
+            "part": "Part 14_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "243_Victoria",
+            "title": "Travelling on rollerblades etc. on a bicycle path or separated footpath",
+            "part": "Part 14_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "244_Victoria",
+            "title": "Wheeled recreational devices or wheeled toys being towed\u00a0etc.",
+            "part": "Part 14_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "244A_Victoria",
+            "title": "Meanings of scooter",
+            "part": "Part 14_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "244B_Victoria",
+            "title": "Wearing of helmets and other requirements for users of scooters",
+            "part": "Part 14_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Rules for persons travelling on electric personal transporters",
+        "part": "Part 14_Victoria",
+        "provisions": [
+          {
+            "id": "244C_Victoria",
+            "title": "Electric personal transporter routes and use areas",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244D_Victoria",
+            "title": "Electric personal transporters must only be used on roads or road related areas as part of an electric personal transporter tour",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244E_Victoria",
+            "title": "Electric personal transporters must only be used on electric personal transporter routes or in electric personal transporter use areas",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244F_Victoria",
+            "title": "Electric personal transporters not to be used on certain roads",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244G_Victoria",
+            "title": "No electric personal transporter sign",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244H_Victoria",
+            "title": "Travelling on an electric personal transporter on a road",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244I_Victoria",
+            "title": "Travelling on an electric personal transporter on a footpath or shared path or in a shared zone",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244J_Victoria",
+            "title": "Travelling on an electric personal transporter on a bicycle path or separated footpath",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244K_Victoria",
+            "title": "Electric personal transporter user to stop at red bicycle crossing light",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244L_Victoria",
+            "title": "Electric personal transporter user to stop at yellow bicycle crossing light",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244M_Victoria",
+            "title": "Electric personal transporter user proceeding when bicycle crossing lights change to yellow or red",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244N_Victoria",
+            "title": "Electric personal transporters being towed",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244O_Victoria",
+            "title": "Person to have proper control of an electric personal transporter",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244P_Victoria",
+            "title": "Wearing of bicycle helmets by persons travelling on electric personal transporters",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244Q_Victoria",
+            "title": "Equipment on electric personal transporters",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244R_Victoria",
+            "title": "Minimum age requirement for travelling on electric personal transporters",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244S_Victoria",
+            "title": "Speed-limit applicable to electric personal transporters",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244T_Victoria",
+            "title": "Carrying people or animals on electric personal transporters",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "244U_Victoria",
+            "title": "Offence to consume intoxicating liquor while travelling on an electric personal transporter",
+            "part": "Part 14_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 15_Victoria",
+    "title": "Additional rules for riders of bicycles and electric scooters",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Rules for riders of bicycles and electric scooters",
+        "part": "Part 15_Victoria",
+        "provisions": [
+          {
+            "id": "244W_Victoria",
+            "title": "Application of Division",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "245_Victoria",
+            "title": "Riding a bicycle",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "246_Victoria",
+            "title": "Carrying people on a bicycle",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "247_Victoria",
+            "title": "Riding in a bicycle lane on a road",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "247A_Victoria",
+            "title": "Entering a bicycle storage area",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "247B_Victoria",
+            "title": "Giving way while entering or in a bicycle storage area",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "248_Victoria",
+            "title": "No riding across a road on a crossing",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "249_Victoria",
+            "title": "Riding on a separated footpath",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "250_Victoria",
+            "title": "Riding on a footpath or shared path",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "251_Victoria",
+            "title": "Riding to the left of oncoming riders of bicycles or electric scooters on a path",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "252_Victoria",
+            "title": "No bicycles signs and markings",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "253_Victoria",
+            "title": "Riders of bicycles or electric scooters not to cause a traffic hazard",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "254_Victoria",
+            "title": "Bicycles or electric scooters being towed etc.",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "255_Victoria",
+            "title": "Riding too close to the rear of a motor vehicle",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "256_Victoria",
+            "title": "Bicycle helmets",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "257_Victoria",
+            "title": "Riding with a person on a bicycle trailer",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "258_Victoria",
+            "title": "Equipment on a bicycle or an electric scooter",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "259_Victoria",
+            "title": "Riding at night",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "260_Victoria",
+            "title": "Stopping for a red bicycle crossing light",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "261_Victoria",
+            "title": "Stopping for a yellow bicycle crossing light",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "262_Victoria",
+            "title": "Proceeding when bicycle crossing lights change to yellow or red",
+            "part": "Part 15_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Additional rules for riders of electric scooters",
+        "part": "Part 15_Victoria",
+        "provisions": [
+          {
+            "id": "262C_Victoria",
+            "title": "Riding electric scooters on a footpath",
+            "part": "Part 15_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "262D_Victoria",
+            "title": "Riding electric scooters on certain roads",
+            "part": "Part 15_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "262E_Victoria",
+            "title": "Riding an electric scooter on a road alongside another rider or pedestrian",
+            "part": "Part 15_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "262F_Victoria",
+            "title": "Minimum age requirement for riding an electric scooter",
+            "part": "Part 15_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "262G_Victoria",
+            "title": "Speed-limit applicable to electric scooter",
+            "part": "Part 15_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "262H_Victoria",
+            "title": "Carrying people on electric scooter",
+            "part": "Part 15_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "262HA_Victoria",
+            "title": "Passengers not permitted on an electric scooter",
+            "part": "Part 15_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "262I_Victoria",
+            "title": "Offence to consume intoxicating liquor while riding an electric scooter",
+            "part": "Part 15_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 16_Victoria",
+    "title": "Rules for persons travelling in\u00a0or\u00a0on vehicles",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "263_Victoria",
+        "title": "Application of Part to persons in or on trams",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "263A_Victoria",
+        "title": "Requirement that seatbelt etc. be properly adjusted and fastened",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "263B_Victoria",
+        "title": "Driver or passenger in motor vehicle must not occupy the same seating position as another person",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "264_Victoria",
+        "title": "Drivers must comply with seatbelt requirements",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "264A_Victoria",
+        "title": "Driver must ensure passengers comply with seatbelt requirements",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "265_Victoria",
+        "title": "Passengers 16 years old or older must comply with seatbelt requirements",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "266_Victoria",
+        "title": "Driver must ensure passengers under 16 years old are appropriately secured",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "266A_Victoria",
+        "title": "Appropriate securing of passengers under 16 years old",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "267_Victoria",
+        "title": "Exemptions from wearing seatbelts\u2014certificate exempting person",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "267A_Victoria",
+        "title": "Exemption from wearing seatbelt\u2014seating position not fitted with seatbelt",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "267B_Victoria",
+        "title": "Exemption from wearing seatbelt\u2014passenger in police vehicle etc.",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "267C_Victoria",
+        "title": "Exemption from wearing seatbelt\u2014other exemptions",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "268_Victoria",
+        "title": "How persons must travel in or on a motor vehicle",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "269_Victoria",
+        "title": "Opening doors and getting out of a vehicle etc.",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "270_Victoria",
+        "title": "Wearing motor bike helmets",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "271_Victoria",
+        "title": "Riding on motor bikes and motor cycles",
+        "part": "Part 16_Victoria",
+        "division": null
+      },
+      {
+        "id": "272_Victoria",
+        "title": "Interfering with the driver's control of the vehicle\u00a0etc.",
+        "part": "Part 16_Victoria",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 17_Victoria",
+    "title": "Additional rules for drivers of trams and public buses and, in the case of B\u00a0Lights, for drivers of other vehicles permitted to drive\u00a0in a bus lane",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Trams",
+        "part": "Part 17_Victoria",
+        "provisions": [
+          {
+            "id": "273_Victoria",
+            "title": "Division also applies to tram recovery vehicles and public buses travelling along tram tracks",
+            "part": "Part 17_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "274_Victoria",
+            "title": "Stopping for a red T\u00a0light",
+            "part": "Part 17_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "275_Victoria",
+            "title": "Stopping for a yellow T\u00a0light",
+            "part": "Part 17_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "276_Victoria",
+            "title": "Exception to stopping for a red or yellow T\u00a0light",
+            "part": "Part 17_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "277_Victoria",
+            "title": "Proceeding after stopping for a red or yellow T\u00a0light",
+            "part": "Part 17_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "278_Victoria",
+            "title": "Proceeding when a red traffic light and a white T\u00a0light or white traffic arrow is showing",
+            "part": "Part 17_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "279_Victoria",
+            "title": "Proceeding when a white T\u00a0light or white traffic arrow is no longer showing",
+            "part": "Part 17_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Public buses",
+        "part": "Part 17_Victoria",
+        "provisions": [
+          {
+            "id": "280_Victoria",
+            "title": "Application of Division",
+            "part": "Part 17_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "281_Victoria",
+            "title": "Stopping for a red B\u00a0light",
+            "part": "Part 17_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "282_Victoria",
+            "title": "Stopping for a yellow B\u00a0light",
+            "part": "Part 17_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "283_Victoria",
+            "title": "Exception to stopping for a red or yellow B\u00a0light",
+            "part": "Part 17_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "284_Victoria",
+            "title": "Proceeding after stopping for a red or yellow B\u00a0light",
+            "part": "Part 17_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "285_Victoria",
+            "title": "Proceeding when a red traffic light and a white B\u00a0light or white traffic arrow is showing",
+            "part": "Part 17_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "286_Victoria",
+            "title": "Proceeding when a white B\u00a0light or white traffic arrow is no longer showing",
+            "part": "Part 17_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 18_Victoria",
+    "title": "Miscellaneous road rules",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Miscellaneous rules for drivers",
+        "part": "Part 18_Victoria",
+        "provisions": [
+          {
+            "id": "287_Victoria",
+            "title": "Duties of driver involved in an accident",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "288_Victoria",
+            "title": "Driving on a path",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "289_Victoria",
+            "title": "Driving on a nature strip",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "290_Victoria",
+            "title": "Driving on a traffic island",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "291_Victoria",
+            "title": "Making unnecessary noise or smoke",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "292_Victoria",
+            "title": "Insecure or overhanging load",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "293_Victoria",
+            "title": "Removing fallen etc. things from the road",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "294_Victoria",
+            "title": "Keeping control of a vehicle being towed",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "295_Victoria",
+            "title": "Motor vehicle towing another vehicle with a towline",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "296_Victoria",
+            "title": "Driving a vehicle in reverse",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "297_Victoria",
+            "title": "Driver to have proper control of a vehicle etc.",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "298_Victoria",
+            "title": "Driving with a person in a trailer",
+            "part": "Part 18_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Rules for people in charge of animals",
+        "part": "Part 18_Victoria",
+        "provisions": [
+          {
+            "id": "301_Victoria",
+            "title": "Leading an animal while in or on a vehicle",
+            "part": "Part 18_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "302_Victoria",
+            "title": "Rider of an animal on a footpath or nature strip to give way to pedestrians",
+            "part": "Part 18_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "303_Victoria",
+            "title": "Riding an animal alongside more than one other rider",
+            "part": "Part 18_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "303AA_Victoria",
+            "title": "Riding an animal-drawn vehicle in the animal-drawn vehicle prohibited area",
+            "part": "Part 18_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "303A_Victoria",
+            "title": "Horse riding helmets to be worn by riders under 18",
+            "part": "Part 18_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Obeying directions",
+        "part": "Part 18_Victoria",
+        "provisions": [
+          {
+            "id": "304_Victoria",
+            "title": "Direction by a police officer or authorised person",
+            "part": "Part 18_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 18A_Victoria",
+    "title": "Use of devices in or on vehicles, wheeled recreational devices and electric personal transporters",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "Interpretation",
+        "part": "Part 18A_Victoria",
+        "provisions": [
+          {
+            "id": "304A_Victoria",
+            "title": "Definitions",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304B_Victoria",
+            "title": "What is a device",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304C_Victoria",
+            "title": "Meaning of required capabilities",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304D_Victoria",
+            "title": "What is a display",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304E_Victoria",
+            "title": "Meaning of operating, touching and ongoing activity",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304F_Victoria",
+            "title": "Stationary and parked vehicles, wheeled recreational devices or electric personal transporters",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304G_Victoria",
+            "title": "Permitted device interactions",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304GA_Victoria",
+            "title": "What is an in-vehicle transaction",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304GB_Victoria",
+            "title": "Who is a fully licensed driver",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304GC_Victoria",
+            "title": "Who is a novice driver",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "304GD_Victoria",
+            "title": "Calculation of period for which person has held a motor cycle licence",
+            "part": "Part 18A_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Operation of devices in motor vehicles",
+        "part": "Part 18A_Victoria",
+        "provisions": [
+          {
+            "id": "304H_Victoria",
+            "title": "Operation of inbuilt devices, mounted devices and motor bike helmet devices in motor vehicles",
+            "part": "Part 18A_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "304I_Victoria",
+            "title": "Operation of wearable devices in motor vehicles",
+            "part": "Part 18A_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "304J_Victoria",
+            "title": "Touching or looking at portable devices in motor vehicles",
+            "part": "Part 18A_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "304K_Victoria",
+            "title": "Operation of portable devices other than by touching by fully licensed drivers",
+            "part": "Part 18A_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "304KA_Victoria",
+            "title": "Operation of portable devices other than by touching by other drivers",
+            "part": "Part 18A_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Operation of devices in relation to bicycles, electric scooters and vehicles that are not motor vehicles",
+        "part": "Part 18A_Victoria",
+        "provisions": [
+          {
+            "id": "304L_Victoria",
+            "title": "Operation of inbuilt devices, mounted devices and motor bike helmet devices on bicycles and electric scooters and in vehicles that are not motor vehicles",
+            "part": "Part 18A_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "304M_Victoria",
+            "title": "Operation of wearable devices on bicycles and electric scooters and in vehicles that are not motor vehicles",
+            "part": "Part 18A_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "304N_Victoria",
+            "title": "Operation of portable devices on bicycles and electric scooters and in vehicles that are not motor vehicles",
+            "part": "Part 18A_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      },
+      "Division 4_Victoria": {
+        "id": "Division 4_Victoria",
+        "title": "Operation of devices in relation to wheeled recreational devices and electric personal transporters",
+        "part": "Part 18A_Victoria",
+        "provisions": [
+          {
+            "id": "304O_Victoria",
+            "title": "Operation of inbuilt devices, mounted devices and motor bike helmet devices in or on wheeled recreational devices and electric personal transporters",
+            "part": "Part 18A_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "304P_Victoria",
+            "title": "Operation of wearable devices in or on wheeled recreational devices and electric personal transporters",
+            "part": "Part 18A_Victoria",
+            "division": "Division 4_Victoria"
+          },
+          {
+            "id": "304Q_Victoria",
+            "title": "Operation of portable devices in or on wheeled recreational devices and electric personal transporters",
+            "part": "Part 18A_Victoria",
+            "division": "Division 4_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 19_Victoria",
+    "title": "Exemptions",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "305_Victoria",
+        "title": "Exemption for drivers of police vehicles",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "305A_Victoria",
+        "title": "Exemption for drivers of vehicles being used for police driver training",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "306_Victoria",
+        "title": "Exemption for drivers of emergency vehicles",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "306A_Victoria",
+        "title": "Exemption for drivers of enforcement vehicles and escort vehicles",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "307_Victoria",
+        "title": "Stopping and parking exemption for police vehicles, emergency vehicles, enforcement vehicles, escort vehicles and authorised persons",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "308_Victoria",
+        "title": "Exemption for police officers, emergency workers, enforcement vehicle workers and escort vehicle workers on foot",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "309_Victoria",
+        "title": "Exemption for drivers of trams etc.",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "310_Victoria",
+        "title": "Exemption for road workers etc.",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "311_Victoria",
+        "title": "Exemption for oversize vehicles",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "312_Victoria",
+        "title": "Exemption for tow truck drivers",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "313_Victoria",
+        "title": "Exemption for postal vehicles",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "313A_Victoria",
+        "title": "Exemptions for drivers of incident response service vehicles",
+        "part": "Part 19_Victoria",
+        "division": null
+      },
+      {
+        "id": "313B_Victoria",
+        "title": "Exemptions for drivers of railway incident response vehicles",
+        "part": "Part 19_Victoria",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 20_Victoria",
+    "title": "Traffic control devices and traffic-related items",
+    "divisions": {
+      "Division 1_Victoria": {
+        "id": "Division 1_Victoria",
+        "title": "General",
+        "part": "Part 20_Victoria",
+        "provisions": [
+          {
+            "id": "314_Victoria",
+            "title": "Diagrams of traffic control devices, traffic-related items and symbols",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "315_Victoria",
+            "title": "Legal effect of traffic control devices mentioned in these Rules",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "316_Victoria",
+            "title": "When do traffic control devices comply substantially with these Rules",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "317_Victoria",
+            "title": "Information on or with traffic control devices",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "317A_Victoria",
+            "title": "Traffic control devices applying on school days",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "318_Victoria",
+            "title": "Limited effect of certain traffic control devices",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "319_Victoria",
+            "title": "Legal effect of traffic-related items mentioned in these Rules",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "320_Victoria",
+            "title": "When do traffic-related items comply substantially with these Rules",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "321_Victoria",
+            "title": "Meaning of information on or with traffic control devices and traffic-related items",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "322_Victoria",
+            "title": "References to traffic control devices and traffic-related items on a road etc.",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "323_Victoria",
+            "title": "References to lights that are traffic signals",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          },
+          {
+            "id": "323A_Victoria",
+            "title": "Audible lines",
+            "part": "Part 20_Victoria",
+            "division": "Division 1_Victoria"
+          }
+        ]
+      },
+      "Division 2_Victoria": {
+        "id": "Division 2_Victoria",
+        "title": "Application of traffic control devices to\u00a0lengths of roads and areas",
+        "part": "Part 20_Victoria",
+        "provisions": [
+          {
+            "id": "324_Victoria",
+            "title": "Purpose of Division",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "325_Victoria",
+            "title": "References to traffic control devices\u2014application to lengths of road and areas",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "326_Victoria",
+            "title": "When do traffic control devices apply to a length of road or area\u2014the basic rules",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "327_Victoria",
+            "title": "Length of road to which a traffic sign (except a parking control sign) applies",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "328_Victoria",
+            "title": "References to a traffic control device applying to a length of road",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "329_Victoria",
+            "title": "Traffic control devices applying to a marked lane",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "330_Victoria",
+            "title": "Traffic control devices applying to a slip lane",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "331_Victoria",
+            "title": "Traffic control devices applying to an intersection",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "332_Victoria",
+            "title": "Parking control signs applying to a length of road",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "333_Victoria",
+            "title": "Parking control signs applying to a length of road in\u00a0an area to which another parking control sign applies etc.",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "334_Victoria",
+            "title": "How parking control signs apply to a length of road",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "335_Victoria",
+            "title": "Traffic control devices applying to an area",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          },
+          {
+            "id": "336_Victoria",
+            "title": "How separated footpath signs and separated footpath road markings apply",
+            "part": "Part 20_Victoria",
+            "division": "Division 2_Victoria"
+          }
+        ]
+      },
+      "Division 3_Victoria": {
+        "id": "Division 3_Victoria",
+        "title": "Application of traffic control devices\u00a0to\u00a0persons",
+        "part": "Part 20_Victoria",
+        "provisions": [
+          {
+            "id": "337_Victoria",
+            "title": "Purpose of Division",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "338_Victoria",
+            "title": "References to traffic control devices\u2014application to persons",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "339_Victoria",
+            "title": "When do traffic control devices apply to a person\u2014the basic rules",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "340_Victoria",
+            "title": "Traffic control devices (except road markings and parking control signs)",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "341_Victoria",
+            "title": "Road markings",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "342_Victoria",
+            "title": "Traffic signs (except parking control signs) applying to a length of road",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "343_Victoria",
+            "title": "Traffic signs (except parking control signs) applying to an area",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "344_Victoria",
+            "title": "Traffic control devices applying to a driver in a marked lane",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "345_Victoria",
+            "title": "Traffic control devices applying to a driver in a slip lane",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          },
+          {
+            "id": "346_Victoria",
+            "title": "Parking control signs",
+            "part": "Part 20_Victoria",
+            "division": "Division 3_Victoria"
+          }
+        ]
+      }
+    },
+    "provisions": []
+  },
+  {
+    "id": "Part 21_Victoria",
+    "title": "General",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "347_Victoria",
+        "title": "Meaning of abbreviations and symbols",
+        "part": "Part 21_Victoria",
+        "division": null
+      },
+      {
+        "id": "348_Victoria",
+        "title": "References to a driver doing something etc.",
+        "part": "Part 21_Victoria",
+        "division": null
+      },
+      {
+        "id": "349_Victoria",
+        "title": "References to certain kinds of roads",
+        "part": "Part 21_Victoria",
+        "division": null
+      },
+      {
+        "id": "350_Victoria",
+        "title": "References to stopping or parking on a length of road\u00a0etc.",
+        "part": "Part 21_Victoria",
+        "division": null
+      },
+      {
+        "id": "351_Victoria",
+        "title": "References to left and right",
+        "part": "Part 21_Victoria",
+        "division": null
+      },
+      {
+        "id": "352_Victoria",
+        "title": "References to stopping as near as practicable to a place",
+        "part": "Part 21_Victoria",
+        "division": null
+      },
+      {
+        "id": "353_Victoria",
+        "title": "References to pedestrians crossing a road",
+        "part": "Part 21_Victoria",
+        "division": null
+      }
+    ]
+  },
+  {
+    "id": "Part 22_Victoria",
+    "title": "Additional Victorian road rules",
+    "divisions": {},
+    "provisions": [
+      {
+        "id": "400_Victoria",
+        "title": "Definitions",
+        "part": "Part 22_Victoria",
+        "division": null
+      },
+      {
+        "id": "401_Victoria",
+        "title": "Obstructing roads",
+        "part": "Part 22_Victoria",
+        "division": null
+      },
+      {
+        "id": "402_Victoria",
+        "title": "Giving way to stock",
+        "part": "Part 22_Victoria",
+        "division": null
+      },
+      {
+        "id": "403_Victoria",
+        "title": "Requirement to travel at a safe speed near stock",
+        "part": "Part 22_Victoria",
+        "division": null
+      },
+      {
+        "id": "404_Victoria",
+        "title": "Requirement to stop at a stock crossing",
+        "part": "Part 22_Victoria",
+        "division": null
+      },
+      {
+        "id": "406_Victoria",
+        "title": "Supervising drivers and excessive speed",
+        "part": "Part 22_Victoria",
+        "division": null
+      },
+      {
+        "id": "407_Victoria",
+        "title": "Secretary may declare or approve items for the purposes of the Road Rules",
+        "part": "Part 22_Victoria",
+        "division": null
+      },
+      {
+        "id": "408_Victoria",
+        "title": "Transitional provision\u2014Corporation approvals",
+        "part": "Part 22_Victoria",
+        "division": null
+      }
+    ]
+  }
+]
