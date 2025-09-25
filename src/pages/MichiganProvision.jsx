@@ -2,24 +2,26 @@ import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import Navbar from "../components/NavBar";
 
-const FLAT_JSONL_URL   = "../../server-files/road/processed/road_michigan_flat.jsonl";
-const MIC_NSW_TOP5_URL = "../../server-files/road/processed/mic_top5.json";      // [{ id, doc:"mic", top5:[{id,score},...] }, ...]
-const MIC_VIC_TOP5_URL = "../../server-files/road/processed/mic_vic_top5.json";  // optional, same shape
+const API_BASE = "https://docdiff.mooo.com";
 
-async function fetchJsonl(url, signal) {
-  const res = await fetch(url, { signal });
-  if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
-  const text = await res.text();
-  return text
-    .split(/\r?\n/)
-    .map((line) => line.trim())
-    .filter(Boolean)
-    .map((line) => JSON.parse(line));
-}
-async function fetchJson(url, signal) {
-  const res = await fetch(url, { signal });
+async function fetchProvision(uid, signal) {
+  const res = await fetch(`${API_BASE}/road_michigan/${encodeURIComponent(uid)}`, { signal });
   if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
   return res.json();
+}
+
+async function fetchTop5NSW(uid, signal) {
+  const res = await fetch(`${API_BASE}/mic_nsw_top5/${encodeURIComponent(uid)}`, { signal });
+  if (!res.ok) return [];
+  const data = await res.json();
+  return data.top5 || [];
+}
+
+async function fetchTop5VIC(uid, signal) {
+  const res = await fetch(`${API_BASE}/mic_vic_top5/${encodeURIComponent(uid)}`, { signal });
+  if (!res.ok) return [];
+  const data = await res.json();
+  return data.top5 || [];
 }
 
 export default function MichiganProvision() {
@@ -34,45 +36,29 @@ export default function MichiganProvision() {
   useEffect(() => {
     const ac = new AbortController();
     (async () => {
-      try {
+        try {
         setLoading(true);
         setBootError("");
 
-        // 1) Load provision from JSONL
-        const rows = await fetchJsonl(FLAT_JSONL_URL, ac.signal);
-        const theProv = rows.find(
-          (r) => r.level === "provision" && String(r.id) === String(micId)
-        );
-        setProv(theProv || null);
+        // 1) Load provision
+        const theProv = await fetchProvision(micId, ac.signal);
+        setProv(theProv);
 
-        // 2) Load MIC→NSW top5 (required)
-        let nswRows = [];
-        try {
-          nswRows = await fetchJson(MIC_NSW_TOP5_URL, ac.signal);
-        } catch (_) { /* optional error */ }
-        const nswEntry = Array.isArray(nswRows)
-          ? nswRows.find((row) => row.doc === "mic" && String(row.id) === String(micId))
-          : null;
-        setNswTop5(nswEntry?.top5 || []);
+        // 2) Load top-5 from NSW
+        const nsw = await fetchTop5NSW(micId, ac.signal);
+        setNswTop5(nsw);
 
-        // 3) Load MIC→VIC top5 (optional)
-        let vicRows = [];
-        try {
-          vicRows = await fetchJson(MIC_VIC_TOP5_URL, ac.signal);
-        } catch (_) { /* optional file may not exist */ }
-        const vicEntry = Array.isArray(vicRows)
-          ? vicRows.find((row) => row.doc === "mic" && String(row.id) === String(micId))
-          : null;
-        setVicTop5(vicEntry?.top5 || []);
-      } catch (e) {
+        // 3) Load top-5 from VIC
+        const vic = await fetchTop5VIC(micId, ac.signal);
+        setVicTop5(vic);
+        } catch (e) {
         if (e.name !== "AbortError") setBootError(e.message || String(e));
-      } finally {
+        } finally {
         setLoading(false);
-      }
+        }
     })();
-
     return () => ac.abort();
-  }, [micId]);
+    }, [micId]);
 
   return (
     <div className="min-h-screen bg-gray-50">

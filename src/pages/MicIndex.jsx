@@ -3,19 +3,15 @@ import Fuse from "fuse.js";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../components/NavBar";
 
-const FLAT_JSONL_URL = "../../server-files/road/processed/road_michigan_flat.jsonl";
+const API_BASE = "https://docdiff.mooo.com";
 
-// Parse JSONL text into an array of objects
-async function fetchJsonl(url, signal) {
-  const res = await fetch(url, { signal });
+// Fetch all Michigan docs
+async function fetchMichigan(signal) {
+  const res = await fetch(`${API_BASE}/road_michigan`, { signal });
   if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
-  const text = await res.text();
-  return text
-    .split(/\r?\n/)
-    .map((line) => line.trim())
-    .filter(Boolean)
-    .map((line) => JSON.parse(line));
+  return res.json();
 }
+
 
 // Build a nested tree (acts → chapters → provisions) from flat rows using parent_uid
 function buildTree(rows) {
@@ -77,20 +73,20 @@ export default function MichiganIndex() {
   useEffect(() => {
     const ac = new AbortController();
     (async () => {
-      try {
+        try {
         setLoading(true);
         setBootError("");
-        const rows = await fetchJsonl(FLAT_JSONL_URL, ac.signal);
+        const rows = await fetchMichigan(ac.signal);
         const t = buildTree(rows);
         setTree(t);
-      } catch (e) {
+        } catch (e) {
         if (e.name !== "AbortError") setBootError(e.message || String(e));
-      } finally {
+        } finally {
         setLoading(false);
-      }
+        }
     })();
     return () => ac.abort();
-  }, []);
+    }, []);
 
   const allProvisions = useMemo(() => flattenProvisions(tree), [tree]);
 
