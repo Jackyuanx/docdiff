@@ -30,6 +30,11 @@ function flattenData(data) {
   const items = [];
   (data || []).forEach((part) => {
     items.push({ ...part, type: "part" });
+    if (Array.isArray(part.provisions) && part.provisions.length) {
+      part.provisions.forEach((prov) => {
+        items.push({ ...prov, type: "provision", parentId: part.id });
+      });
+    }
     if (part.divisions) {
       Object.values(part.divisions).forEach((division) => {
         items.push({ ...division, type: "division", parentId: part.id });
@@ -47,6 +52,9 @@ function flattenData(data) {
 function allProvisionIdsRoad(toc) {
   const ids = [];
   (toc || []).forEach((part) => {
+    if (Array.isArray(part.provisions) && part.provisions.length) {
+      part.provisions.forEach((p) => ids.push(p.id));
+    }
     if (part.divisions) {
       Object.values(part.divisions).forEach((division) => {
         if (division.provisions) {
@@ -196,23 +204,15 @@ export default function Home() {
 
   if (loadingBoot) {
     return (
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-gray-50 w-full">
         <Navbar />
         <div className="p-8">Loading data…</div>
       </div>
     );
   }
-  if (bootError) {
-    return (
-      <div className="min-h-screen bg-gray-50">
-        <Navbar />
-        <div className="p-8 text-red-600">Failed to load: {bootError}</div>
-      </div>
-    );
-  }
   if (!tocNSW || !tocVIC || !thresholds) {
     return (
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-gray-50 w-full">
         <Navbar />
         <div className="p-8">Preparing…</div>
       </div>
@@ -220,7 +220,7 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 overflow-x-hidden">
+    <div className="min-h-screen bg-gray-50 overflow-x-hidden w-full">
       <Navbar />
       <div className="w-[2000px] h-0 invisible"></div>
       <div className="w-full max-w-[95vw] mx-auto p-8">

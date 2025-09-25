@@ -10,6 +10,8 @@ import Climate from "./pages/Climate";
 import Road from "./pages/Road";
 import EmbeddingMatrix from "./pages/EmbeddingMatrix";
 import Bipartite from "./pages/Bipartite";
+import MichiganIndex from "./pages/MicIndex";
+import MichiganProvision from "./pages/MichiganProvision";
 export default function App() {
   return (
     <Router>
@@ -22,6 +24,8 @@ export default function App() {
         <Route path="/bipartite" element={<Bipartite />} />
         <Route path="/compare/:jurisdiction/:id" element={<ProvisionComparison />} />
         /<Route path="/road/:jurisdiction/:id" element={<RoadComparison />} />
+        <Route path="/road/mic" element={<MichiganIndex />} />
+        <Route path="/road/mic/:micId" element={<MichiganProvision />} />
       </Routes>
     </Router>
   );
