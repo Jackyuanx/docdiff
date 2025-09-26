@@ -75,7 +75,7 @@ export default function MichiganProvision() {
 
         {!loading && !bootError && (
           <>
-            <h1 className="text-2xl font-bold mb-2">
+            <h1 className="text-2xl font-bold mb-2 text-left">
               {prov?.id || micId} {prov?.title ? `— ${prov.title}` : ""}
             </h1>
 

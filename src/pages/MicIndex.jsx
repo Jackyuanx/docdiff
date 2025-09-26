@@ -115,7 +115,7 @@ export default function MichiganIndex() {
     return (
       <div className="min-h-screen bg-gray-50 w-full">
         <Navbar />
-        <div className="p-8">Loading Michigan Vehicle Code…</div>
+        <div className="p-8">Loading Michigan Motor Vehicles Acts…</div>
       </div>
     );
   }
@@ -132,7 +132,7 @@ export default function MichiganIndex() {
     <div className="min-h-screen bg-gray-50 w-full">
       <Navbar />
       <div className="max-w-6xl mx-auto p-6">
-        <h1 className="text-2xl font-bold mb-4">Michigan Vehicle Code</h1>
+        <h1 className="text-2xl font-bold mb-4">Michigan Motor Vehicles</h1>
 
         <input
           type="text"
@@ -162,7 +162,7 @@ export default function MichiganIndex() {
           </div>
         ) : (
           // Full tree (Acts → Chapters → Provisions)
-          <div className="space-y-6">
+          <div className="space-y-6 text-left">
             {tree.map((act) => (
               <div key={act.uid} className="bg-white rounded-lg shadow-sm border">
                 <div className="px-4 py-3 border-b">
